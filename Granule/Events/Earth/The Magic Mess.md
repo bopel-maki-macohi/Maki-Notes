@@ -13,4 +13,4 @@ There were still some people who used their magic outside of the Magic Zone, the
 
 By late December of 1866, an official police force dealing with rouge magicians started being established, "[[The Anti-Rouge Magicians]]".
 
-1867 was filled with a lot of success for [[The Anti-Rouge Magicians|TARM]] as they reduced [[The All-over Magicians|TAM's]] numbers greatly, sending them from over 2,000 members to no more then 100, forcing [[The All-over Magicians|TAM]] to start going out in single-digit groups, and to recruit as soon as they could, and try and work on .
+1867 was filled with a lot of success for [[The Anti-Rouge Magicians|TARM]] as they reduced [[The All-over Magicians|TAM's]] numbers greatly, sending them from over 2,000 members to no more then 100, forcing [[The All-over Magicians|TAM]] to start going out in single-digit groups, and to recruit as soon as they could, and try and work on freeing t.
