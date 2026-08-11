@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8d74861a5a8cb0f9",
+        "id": "84b79c7b35bc09d7",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba72ee9e58d1ed7",
+            "id": "aaaeda56445627a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Magic Mess"
-            }
-          },
-          {
-            "id": "fb3ca92d33fc1d5b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +192,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb3ca92d33fc1d5b",
+  "active": "6caabbe227c453de",
   "lastOpenFiles": [
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
