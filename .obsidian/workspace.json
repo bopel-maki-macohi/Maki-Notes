@@ -11,24 +11,10 @@
             "id": "aaaeda56445627a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Granule/Granule.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Granule"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -208,11 +194,11 @@
   },
   "active": "aaaeda56445627a7",
   "lastOpenFiles": [
+    "Granule/Granule.md",
     "README.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Groups/The All-Over Magic.md",
-    "Granule/Granule.md",
     "Granule/Objects/The Tosullin Grain.md",
     "Granule/Planets/Earth.md",
     "Granule/Events/Earth/The First Blessing.md",
