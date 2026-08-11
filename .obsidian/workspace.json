@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
+                "file": "Granule/Groups/The All-over Magicians.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Magic Mess"
+              "title": "The All-over Magicians"
             }
           },
           {
@@ -192,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
+                "file": "Granule/Groups/The All-over Magicians.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,9 +232,9 @@
   },
   "active": "abb3faa0de1dc323",
   "lastOpenFiles": [
-    "Granule/Groups/The All-over Magicians.md",
     "Granule/Groups/The Anti-Rouge Magicians.md",
     "Granule/Events/Earth/The Magic Mess.md",
+    "Granule/Groups/The All-over Magicians.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Objects/The Tosullin Grain.md",
