@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
+                "file": "Granule/Groups/The All-Over Magic.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Magic Mess"
+              "title": "The All-Over Magic"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
+                "file": "Granule/Groups/The All-Over Magic.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,10 +206,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6caabbe227c453de",
+  "active": "abb3faa0de1dc323",
   "lastOpenFiles": [
-    "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
+    "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Groups/The All-Over Magic.md",
     "Granule/Objects/The Tosullin Grain.md",
