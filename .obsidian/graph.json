@@ -8,16 +8,16 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:",
+      "query": "path:Granule  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13933810
       }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
