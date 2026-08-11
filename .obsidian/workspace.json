@@ -11,10 +11,24 @@
             "id": "aaaeda56445627a7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -192,8 +206,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6caabbe227c453de",
+  "active": "aaaeda56445627a7",
   "lastOpenFiles": [
+    "README.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Groups/The All-Over Magic.md",
