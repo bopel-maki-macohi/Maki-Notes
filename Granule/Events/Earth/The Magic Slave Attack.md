@@ -1,4 +1,5 @@
 [[Earth]]
+
 April 1865 - July 1865
 
 When it was around the time [The Confederacy](https://en.wikipedia.org/wiki/Confederate_States_of_America) would normally have surrendered in the real world, there was actually an attack on them by civilians of The South who had gained unnatural abilities, specifically resentful ex-slaves, which made many states from [The Union](https://en.wikipedia.org/wiki/Union_(American_Civil_War)) move to [The Confederacy](https://en.wikipedia.org/wiki/Confederate_States_of_America).

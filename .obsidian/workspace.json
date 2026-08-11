@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Slave Attack.md",
+                "file": "Granule/Events/Earth/The Magic Mess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Magic Slave Attack"
+              "title": "The Magic Mess"
             }
           }
         ]
@@ -208,6 +208,7 @@
   },
   "active": "abb3faa0de1dc323",
   "lastOpenFiles": [
+    "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Groups/The All-Over Magic.md",
@@ -217,7 +218,6 @@
     "Granule/Species/Tosullins.md",
     "Granule/Granule.md",
     "README.md",
-    "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Events/Earth/The Slave Recapture.md",
