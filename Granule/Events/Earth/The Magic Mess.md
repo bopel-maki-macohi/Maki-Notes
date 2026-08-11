@@ -7,7 +7,7 @@ the events of "[[The First Blessing|The Blessing]]" was revealed to the world th
 
 Chaos ensued, crime, death, there was a very large amount of control missing.
 
-In April of 1866, there were laws enforced in most states of "Magic Zones", no one can use magical abilities unless in a specified Magic Zone, it took 3 months before most people abided by that law, because the punishment for it started being enslavement.
+In April of 1866, there were laws enforced in most states of "Magic Zones", no one can use magical abilities unless in a specified Magic Zone, it took 3 months before most magicians abided by that law, because the punishment for it started being enslavement.
 
 There were still some people who used their magic outside of the Magic Zone, they started labelling themselves "[[The All-over Magicians]]" as early as June 1866.
 
