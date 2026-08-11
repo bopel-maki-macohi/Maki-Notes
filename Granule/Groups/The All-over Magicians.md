@@ -6,5 +6,4 @@ A group of magicians that do not follow the law of "Magic Zones".
 
 ## Alt Names
 
-- TARM
-- 
+- TAM
