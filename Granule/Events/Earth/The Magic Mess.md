@@ -11,4 +11,4 @@ In April of 1866, there were laws enforced in most states of "Magic Zones", no o
 
 There were still some people who used their magic outside of the Magic Zone, they started labelling themselves "[[The All-over Magicians]]" as early as June 1866.
 
-By late December of 1866, an official police force dealing with rouge magicians started being established, "The Anti-"
+By late December of 1866, an official police force dealing with rouge magicians started being established, "The Anti-Rouge"
