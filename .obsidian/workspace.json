@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Granule.md",
+                "file": "Granule/Events/Earth/The First Blessing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Granule"
+              "title": "The First Blessing"
             }
           }
         ]
@@ -208,19 +208,19 @@
   },
   "active": "abb3faa0de1dc323",
   "lastOpenFiles": [
-    "README.md",
-    "Granule/Granule.md",
-    "Granule/Events/Earth/The Magic Slave Attack.md",
-    "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Groups/The All-Over Magic.md",
     "Granule/Objects/The Tosullin Grain.md",
     "Granule/Planets/Earth.md",
+    "Granule/Planets/Tosmut.md",
+    "Granule/Species/Tosullins.md",
+    "Granule/Granule.md",
+    "README.md",
+    "Granule/Events/Earth/The Magic Slave Attack.md",
+    "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Events/Earth/The Slave Recapture.md",
-    "Granule/Species/Tosullins.md",
-    "Granule/Planets/Tosmut.md",
     "Granule/Objects",
     "Granule/Species",
     "Granule/Events",
