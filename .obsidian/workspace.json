@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Planets/Earth.md",
+                "file": "Granule/Events/Earth/The Magic Mess.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earth"
+              "title": "The Magic Mess"
             }
           }
         ]
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granule/Planets/Earth.md",
+                "file": "Granule/Events/Earth/The Magic Mess.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -208,16 +208,16 @@
   },
   "active": "7db0ea094761cab6",
   "lastOpenFiles": [
+    "Granule/Planets/Earth.md",
+    "Granule/Granule.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Groups/The All-over Magicians.md",
     "Granule/Groups/The Anti-Rouge Magicians.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Objects/The Tosullin Grain.md",
-    "Granule/Planets/Earth.md",
     "Granule/Planets/Tosmut.md",
     "Granule/Species/Tosullins.md",
-    "Granule/Granule.md",
     "README.md",
     "Granule/Groups",
     "Granule/Events/Earth",
