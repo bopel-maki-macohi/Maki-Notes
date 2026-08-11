@@ -1,6 +1,6 @@
 [[Earth]]
 
-August 1865 - May 1869
+August 1865 - May 1867
 
 As people started developing magical abilities, magic was revealed to be in the air, literally,
 the events of "[[The First Blessing|The Blessing]]" was revealed to the world through newspapers and word of mouth.
