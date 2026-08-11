@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "The Magic Mess"
             }
+          },
+          {
+            "id": "7db0ea094761cab6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Granule/Groups/The Anti-Rouge Magicians.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "The Anti-Rouge Magicians"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,7 +193,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Granule/Events/Earth/The Magic Mess.md",
+                "file": "Granule/Groups/The Anti-Rouge Magicians.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -206,10 +231,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb3faa0de1dc323",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Granule/Groups/The All-over Magicians.md",
+    "Granule/Groups/The Anti-Rouge Magicians.md",
     "Granule/Events/Earth/The Magic Mess.md",
+    "Granule/Groups/The All-over Magicians.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Objects/The Tosullin Grain.md",
