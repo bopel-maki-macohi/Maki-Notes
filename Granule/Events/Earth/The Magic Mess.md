@@ -1,4 +1,5 @@
 [[Earth]]
+
 August 1865 - May 1869
 
 As people started developing magical abilities, magic was revealed to be in the air, literally,

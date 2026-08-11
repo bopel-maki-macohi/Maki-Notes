@@ -1,6 +1,7 @@
 Also known as "The Blessing"
 
 In the late 19th century, during [The American Civil War](https://en.wikipedia.org/wiki/American_Civil_War).
+
 [[Earth]] was visited by [[Tosullins]] from [[Tosmut]] and granted "[[The Tosullin Grain]]".
 
 [The Union](https://en.wikipedia.org/wiki/Union_(American_Civil_War)) were told to point it at the atmosphere,
