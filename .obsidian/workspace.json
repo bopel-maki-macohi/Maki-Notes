@@ -174,7 +174,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Magic Mess"
+              "title": "Outline"
             }
           },
           {
@@ -206,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "abb3faa0de1dc323",
+  "active": "6caabbe227c453de",
   "lastOpenFiles": [
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Events/Earth/The Magic Mess.md",
