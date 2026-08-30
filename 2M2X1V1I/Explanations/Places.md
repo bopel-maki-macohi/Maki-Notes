@@ -1,28 +1,26 @@
-# Places:
-
 # Tempo City
 
 Home / Birthplace of Sinco  
 Connected to Baron via a bridge
-## Baron
+# Baron
 
 Home to Freefall, STAR, and T-industries  
 Location of the newspaper publication : The Baron News
-## Lozen
+# Lozen
 
 Home of Lasha
-## Tumult
+# Tumult
 
 Home of Loroc  
 Location of the newspaper publication : The Tumultimate News
-## Ni Vohac
+# Ni Vohac
 
 Kingdom of Warnit / The Knight Serviceman
-## Jur Valia Ontel
+# Jur Valia Ontel
 
 Name is old and ancient but stuck  
 Connection of 2 states
-### Jur Vali
+## Jur Vali
 
 East half of Jur Valia Ontel
 ### Jur Lavi
