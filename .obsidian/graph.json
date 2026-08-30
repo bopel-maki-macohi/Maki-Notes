@@ -15,10 +15,10 @@
       }
     },
     {
-      "query": "path:2M2X1V1I  ",
+      "query": "path:2M2X1V1I ",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 16769981
       }
     },
     {
@@ -34,11 +34,11 @@
   "textFadeMultiplier": -1,
   "nodeSizeMultiplier": 1.35590158829025,
   "lineSizeMultiplier": 2.50345686701962,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 500,
-  "scale": 0.6573466664138443,
+  "scale": 0.06174409844802033,
   "close": false
 }
