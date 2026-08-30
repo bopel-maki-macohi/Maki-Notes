@@ -23,5 +23,4 @@ Members:
 - Mr. Ruse
 - Tirok
 - Osin
-
 - STAR / Rie
