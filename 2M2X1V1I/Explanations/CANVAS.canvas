@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"bed1e685950c801c","x":120,"y":-227,"width":250,"height":60,"type":"text","text":""},
-		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker ","x":-224,"y":-253,"width":250,"height":60,"color":"1"}
+		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970","x":-224,"y":-253,"width":224,"height":153,"color":"1"},
+		{"id":"bed1e685950c801c","x":120,"y":-227,"width":250,"height":60,"type":"text","text":""}
 	],
 	"edges":[]
 }
