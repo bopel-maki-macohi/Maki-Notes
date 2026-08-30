@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Writing/Epoch 1.md",
+                "file": "2M2X1V1I/Writing/Epoch 2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epoch 1"
+              "title": "Epoch 2"
+            }
+          },
+          {
+            "id": "9f87528b0a8d1b7b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +217,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db0ea094761cab6",
+  "active": "9f87528b0a8d1b7b",
   "lastOpenFiles": [
-    "2M2X1V1I/Explanations/Worldbuilding.md",
+    "2M2X1V1I/Writing/Epoch 2.md",
+    "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 1.md",
+    "2M2X1V1I/Explanations/Worldbuilding.md",
     "2M2X1V1I/Writing",
     "2M2X1V1I/Explanations/Whys.md",
     "2M2X1V1I/Explanations/Timeline.md",
