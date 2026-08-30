@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970\n\nScientist + Inventor","x":-224,"y":-253,"width":224,"height":153,"color":"1"},
 		{"id":"bed1e685950c801c","x":200,"y":-253,"width":300,"height":155,"type":"text","text":"Lex Breaker Science Corporation"},
-		{"id":"a9e9d0bf59245a6d","x":-50,"y":-20,"width":530,"height":320,"type":"text","text":"2211 IDEA\n\nLex Breaker's science anf tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using.\n\nBut some of the science tech are using unstable elements. Lex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them. Poison them.\n\nIn 2211 Epoch 1 Chapter 2 the strongman is using Lex Breaker's tech and it's poisoning him."}
+		{"id":"a9e9d0bf59245a6d","x":-50,"y":-20,"width":530,"height":320,"type":"text","text":"Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using.\n\nBut some of the science tech are using unstable elements. Lex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them. Poison them.\n\nIn 2211 Epoch 1 Chapter 2 the strongman is using Lex Breaker's tech and it's poisoning him."}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"}
