@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Planets/Earth.md",
+                "file": "Granule/Granule.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,23 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Earth"
-            }
-          },
-          {
-            "id": "803f7c7dad8bb767",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
+              "title": "Granule"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,10 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803f7c7dad8bb767",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Granule/Events/Earth/The First Blessing.md",
+    "README.md",
     "Granule/Planets/Earth.md",
+    "2M2X1V1I",
+    "Granule/Events/Earth/The First Blessing.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Granule.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
@@ -231,7 +220,6 @@
     "Granule/Objects/The Tosullin Grain.md",
     "Granule/Planets/Tosmut.md",
     "Granule/Species/Tosullins.md",
-    "README.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Events/Earth/The Slave Recapture.md",
