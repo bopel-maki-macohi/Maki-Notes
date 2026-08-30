@@ -23,7 +23,7 @@ Connection of 2 states
 ## Jur Vali
 
 East half of Jur Valia Ontel
-### Jur Lavi
+## Jur Lavi
 
 West Half of Jur Valia Ontel  
 Home of the Lex Breaker Science Corporation  

@@ -11,24 +11,17 @@
             "id": "7db0ea094761cab6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2M2X1V1I/Explanations/Places.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
+                "viewState": {
+                  "x": 85,
+                  "y": -134,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Places"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS"
             }
           }
         ]
@@ -206,13 +199,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db0ea094761cab6",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
     "2M2X1V1I/README.md",
-    "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Explanations/Places.md",
+    "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Explanations/Timeline.md",
-    "2M2X1V1I/Explanations/Connections.canvas",
+    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Explanations/Whys.md",
     "2M2X1V1I/Explanations/Random.md",
     "2M2X1V1I/Explanations/Ideas.md",

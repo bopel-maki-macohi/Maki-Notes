@@ -2,6 +2,6 @@ A universe to hopefully forever expand, if not I hope for it to persist for at l
 
 Explanations:
 [[Timeline]]
-[[Random]]
+[[Places]]
 [[Whys]]
 [[Worldbuilding]]
