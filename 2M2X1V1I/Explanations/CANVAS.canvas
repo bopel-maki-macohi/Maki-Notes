@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970\n\nScientist + Inventor","x":-224,"y":-253,"width":224,"height":153,"color":"1"},
-		{"id":"bed1e685950c801c","x":60,"y":-255,"width":300,"height":155,"type":"text","text":"Lex Breaker Science Corporation"}
+		{"id":"bed1e685950c801c","x":200,"y":-253,"width":300,"height":155,"type":"text","text":"Lex Breaker Science Corporation"}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"}
