@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Granule/Granule.md",
+                "file": "2M2X1V1I/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Granule"
+              "title": "README"
             }
           }
         ]
@@ -206,14 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "7db0ea094761cab6",
   "lastOpenFiles": [
+    "Granule/README.md",
+    "2M2X1V1I/README.md",
     "README.md",
     "Granule/Planets/Earth.md",
     "2M2X1V1I",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Events/Earth/The Magic Mess.md",
-    "Granule/Granule.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Groups/The All-over Magicians.md",
     "Granule/Groups/The Anti-Rouge Magicians.md",
