@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "9f87528b0a8d1b7b",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,7 +206,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f87528b0a8d1b7b",
+  "active": "7db0ea094761cab6",
   "lastOpenFiles": [
     "2M2X1V1I/README.md",
     "2M2X1V1I/Explanations/Random.md",
