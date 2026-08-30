@@ -1,4 +1,4 @@
-## Epoch 1 : Invoy
+## [[Epoch 1]] : Invoy
 
 Material for Ruse to study and manipulate as he creates his plan
 
