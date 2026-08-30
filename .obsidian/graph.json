@@ -5,13 +5,20 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Granule  ",
       "color": {
         "a": 1,
         "rgb": 13933810
+      }
+    },
+    {
+      "query": "path:2M2X1V1I  ",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 5.4251012145749,
   "linkStrength": 1,
   "linkDistance": 290,
-  "scale": 0.6573466664138468,
-  "close": true
+  "scale": 0.921588784222344,
+  "close": false
 }
