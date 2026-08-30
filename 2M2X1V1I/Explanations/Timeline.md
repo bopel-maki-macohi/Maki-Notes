@@ -13,15 +13,9 @@ Colatin Theft (September 2029)
 The Speed City (October  2029)
 Speed vs Tactic (October 2029)
 ## Epoch 3 : Super
-
 Loroc’s introduction into the story. Very different from OSA. Very deadset on being a hero. Mute.
 
-  
-
 A bird? (September 2029)
-
 The plane (September 2029)
-
 Super (October 2029)
-
 Loroc (October 2029)
