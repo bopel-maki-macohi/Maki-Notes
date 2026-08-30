@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Earth"
             }
+          },
+          {
+            "id": "803f7c7dad8bb767",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,7 +219,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db0ea094761cab6",
+  "active": "803f7c7dad8bb767",
   "lastOpenFiles": [
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Planets/Earth.md",
