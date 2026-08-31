@@ -2,8 +2,12 @@
 Baron, The Freefall Foundation, October 2029
 
 “SINCO!”
+
 The speedster dodges once more as Warnit grabs his axe.
 Must be his name.
+Sinco jumps backwards.
+Lands.
+
 
 Sinco stands far, primed to begin a fist fight.
 Warnit stands tall.
@@ -15,7 +19,7 @@ Warnit is primed to strike as soon as Sinco gets close.
 Is he that smart?
 
 He is.
-Sinco disappear
+Sinco disappears it seems 
 ## Chapter 2 : _
 
 ## Chapter 3 : _
