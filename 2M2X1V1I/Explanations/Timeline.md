@@ -24,7 +24,11 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 - Red Light (November 2029)
 - Red Star Rush (November 2029)
 
-# [[Epoch 4]] : Colatin
+# [[Epoch 4]] : Super
 
 Pitstop, let's work on another character : Loroc
 
+- (November 2029)
+- (November 2029)
+- (November 2029)
+- (November 2029)
