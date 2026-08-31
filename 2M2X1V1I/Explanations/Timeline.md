@@ -75,4 +75,4 @@ Target Acquired (November 2029)
 - Tirok relays it to Osin via his earpiece
 - Tirok and Yellow return to Base
 - Sinco is put onto The Colatin Core
-- 
+- Tirok reactivates his powers
