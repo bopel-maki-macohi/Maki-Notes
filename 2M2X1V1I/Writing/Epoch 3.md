@@ -11,7 +11,7 @@ Sinco doesn't appear experienced in normal combat.
 Who needs to be when you can rapidly punch in the blink of an eye.
 
 Is he smart enough to change tactic however?
-
+Wa
 ## Chapter 2 : _
 
 ## Chapter 3 : _
