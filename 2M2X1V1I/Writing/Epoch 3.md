@@ -94,7 +94,12 @@ Ready to strike the man in yellow.
 
 Tirok steps in his way.
 2 fingers held up.
-Fear flashes over Wa
+Fear flashes over Warnit's face.
+But the axe hits the fingers.
+
+And nothing.
+
+"Despite my respect for yo"
 
 ## Chapter 2 : _
 
