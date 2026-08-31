@@ -5,8 +5,9 @@ Baron, The Freefall Foundation, October 2029
 The speedster dodges once more as Warnit grabs his axe.
 Must be his name.
 
-Sinco stands far.
-Warnit stands tall
+Sinco stands far, primed to begin a fist fight.
+Warnit stands tall.
+Sinco can't proceed in melee
 ## Chapter 2 : _
 
 ## Chapter 3 : _
