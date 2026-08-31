@@ -109,9 +109,13 @@ The name feels weird after these last few days.
 "And has a plan that could get rid of that green one."
 "Permanently."
 
-The axe's lightning starts to disipate.
+The axe's lightning starts to dissipate.
 
 "Do not stand in our way again."
+
+Tirok flings the axe away with the 2 fingers.
+
+"Or else I'll have to "
 
 ## Chapter 2 : _
 
