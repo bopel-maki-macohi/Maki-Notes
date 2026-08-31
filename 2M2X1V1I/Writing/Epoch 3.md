@@ -146,8 +146,11 @@ Sinco gets closer to the group.
 
 "Great."
 "Not only have you destroyed the prison."
-"You let Tirok and Osin escape"
+"You let Tirok and Osin get away."
 
+Sinco looks furious.
+
+"Sinco calm down, he's not from Baron he doesn't know w"
 ## Chapter 3 : _
 
 ## Chapter 4 : _
