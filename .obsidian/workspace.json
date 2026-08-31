@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c7813df58f37a3",
+        "id": "37dbffe7f2d7e5ef",
         "type": "tabs",
         "children": [
           {
-            "id": "7db0ea094761cab6",
+            "id": "6bf677b91c604ca2",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "2M2X1V1I/Explanations/CANVAS.canvas",
                 "viewState": {
-                  "x": 322.7995320015083,
-                  "y": -394.9606252376598,
-                  "zoom": 0.3333333333333332
+                  "x": 495,
+                  "y": -309,
+                  "zoom": -0.858204063553357
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7db0ea094761cab6",
+  "active": "6bf677b91c604ca2",
   "lastOpenFiles": [
-    "2M2X1V1I/Writing/Epoch 1.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
+    "2M2X1V1I/Writing/Epoch 1.md",
     "2M2X1V1I/README.md",
     "2M2X1V1I/Explanations/Places.md",
     "2M2X1V1I/Writing/Epoch 3.md",
