@@ -180,7 +180,7 @@ Yanked.
 And tossed.  
 And they are gone.
 Reduced to atoms.
-Probably
+Probably.
 
 Invoy takes off the mask.  
 Lasha is tired of this shit.  
