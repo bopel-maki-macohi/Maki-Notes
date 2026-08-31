@@ -235,6 +235,9 @@ He has brought Vohan Builders from Ni Vohac to assist in the building.
 
 They've actually improved the building a lot.
 Systems from before work twenty times better then they ever did before.
+And it's not even been a full month.
+
+
 
 ## Chapter 4 : _
 
