@@ -246,6 +246,8 @@ If only it could last.
 
 Kijo and Warnit had met up at The Freefall Foundation to see of any more improvements they could make, when suddenly red lights began to fall from the sky into the building, exploding it.
 
+Several people inside were murdered.
+Some people survived 
 
 ## Chapter 4 : _
 
