@@ -2,7 +2,6 @@
 	"nodes":[
 		{"id":"4d244a7f28c4bbd0","type":"group","x":-480,"y":-1440,"width":1700,"height":880,"color":"1","label":"Lex Breaker"},
 		{"id":"1d2a86c859a93e84","type":"group","x":-480,"y":-2280,"width":1280,"height":720,"color":"3","label":"Places"},
-		{"id":"0c3a58004069612d","x":358,"y":-1960,"width":250,"height":60,"type":"text","text":""},
 		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-464,"y":-2257,"width":343,"height":206},
 		{"id":"ede79dadb2e926a4","type":"text","text":"# Lozen\nHome of Lasha","x":-464,"y":-1820,"width":344,"height":142},
 		{"id":"6461e45161c09947","type":"text","text":"# Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-465,"y":-2016,"width":344,"height":160},
@@ -12,14 +11,14 @@
 		{"id":"ba0bd563eb7e47d5","type":"text","text":"## Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targeting Loroc.","x":20,"y":-843,"width":602,"height":262},
 		{"id":"bed1e685950c801c","type":"text","text":"## Lex Breaker Science Corporation\n\nEstablished 2002\n\nMost popular and successful science business\n2nd most popular and successful tech business","x":20,"y":-1065,"width":400,"height":163},
 		{"id":"b86f241a003ee561","type":"text","text":"# Lex Breaker\n\nBorn March 14th, 1970\n\nScientist + Inventor\n\n#1 most intelligent person on Earth","x":-460,"y":-896,"width":340,"height":222},
-		{"id":"15869bce75e6c623","type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News","x":390,"y":-1820,"width":340,"height":209},
 		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-72,"y":-2257,"width":393,"height":128},
-		{"id":"b2a2a1e10d66bad3","type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n","x":-72,"y":-2092,"width":400,"height":377}
+		{"id":"b2a2a1e10d66bad3","type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n","x":-72,"y":-2092,"width":393,"height":377},
+		{"id":"15869bce75e6c623","type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News","x":420,"y":-1782,"width":340,"height":209}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
 		{"id":"be2b136dd4ba6a85","fromNode":"bed1e685950c801c","fromSide":"right","toNode":"a9e9d0bf59245a6d","toSide":"left"},
 		{"id":"5b94d3c6b7aad501","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"ba0bd563eb7e47d5","toSide":"left"},
-		{"id":"01f8becb82794611","fromNode":"15869bce75e6c623","fromSide":"top","toNode":"b2a2a1e10d66bad3","toSide":"right"}
+		{"id":"e393ac50caeb916b","fromNode":"b2a2a1e10d66bad3","fromSide":"right","toNode":"15869bce75e6c623","toSide":"top"}
 	]
 }
