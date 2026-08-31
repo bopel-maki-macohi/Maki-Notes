@@ -233,7 +233,7 @@ He decided to help Freefall rebuild.
 
 He has brought Vohan Builders from Ni Vohac to assist in the building.
 
-They've actually made the building way better then it was before.
+They've actually improved the building a lot.
 
 
 
