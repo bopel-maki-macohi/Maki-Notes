@@ -11,17 +11,24 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": 98.87170776092398,
-                  "y": -1976.2147257828333,
-                  "zoom": -0.02488603394566613
+                "file": "2M2X1V1I/Explanations/Timeline.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Timeline"
             }
           }
         ]
@@ -99,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
+                "file": "2M2X1V1I/Explanations/Timeline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,9 +209,9 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
+    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Explanations/Timeline.md",
     "2M2X1V1I/Explanations/Whys.md",
-    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 2.md",
     "2M2X1V1I/Writing/Epoch 1.md",
