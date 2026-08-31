@@ -28,7 +28,13 @@ He sees green lightning approaching.
 Warnit blocks with his axe.
 It is sent flying off.
 
-Warnit trys to call it back but he is struck d
+Warnit tries to call it back but he is struck.
+Downwards.
+
+BOOM.
+
+Warnit is in the ground.
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
