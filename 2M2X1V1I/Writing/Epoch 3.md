@@ -127,7 +127,7 @@ Tirok's eyes glow a lime green right before he closes them.
 
 A light the same color as Tirok's eyes were emits brightly.
 In seconds it's gone.
-And so are Tirok, The man in 
+And so are Tirok, The Yellow Cloaked Man, and the red Sinco.
 
 ## Chapter 2 : _
 
