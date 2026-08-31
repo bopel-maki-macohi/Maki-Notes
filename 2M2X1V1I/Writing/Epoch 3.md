@@ -251,7 +251,8 @@ Some people survived but very hurt.
 
 Emerges are several people clad in armor with a star in the center of their chest plate.
 
-Then the Red Sinco.
+Then Osin.
+The Red Sinco.
 
 ## Chapter 4 : _
 
