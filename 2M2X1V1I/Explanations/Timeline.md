@@ -22,4 +22,4 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 - Chaos Control (October 2029)
 - What? (October 2029)
 - Red Light (November 2029)
-- 4 (November 2029)
+- Red Star Rush (November 2029)
