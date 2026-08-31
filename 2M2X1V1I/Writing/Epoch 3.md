@@ -159,10 +159,12 @@ She seems to be reconstructing her body from some black goo.
 
 Sinco snaps at her.
 
-"I can't do that anymore!"
+"I can't do that anymore Kijo."
 "Once I'm mad."
 "I'm mad."
-"It's a miracle the golden "
+"It's a miracle the golden fuck isn't coming out right now cause I am fucking LIVID."
+
+
 
 ## Chapter 3 : _
 
