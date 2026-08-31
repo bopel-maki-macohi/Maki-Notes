@@ -60,6 +60,7 @@ Where. Is. It? (November 2029)
 
 The Colatin Core (November 2029)
 - During Chapter 1
+	How the fuck do I convey this without just spell
 - Lozen, Ruse’s destroyed base from Epoch 1
 - Tirok has completed “The Colatin Core” for Yellow
 - All it needs is a power source, a big one, but there's nothing that has enough power
