@@ -64,9 +64,10 @@ He made a deal with his father once.
 A long time ago.
 All grown up.
 Warnit has a smile almost appear.
-But
+But then he starts to look closer and starts recognizing the others with Tirok.
 
-The man c
+One of them looks like Sinco...
+But s
 
 ## Chapter 2 : _
 
