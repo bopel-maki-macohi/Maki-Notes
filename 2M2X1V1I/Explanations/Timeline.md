@@ -38,7 +38,7 @@ Loroc (November 20th, 2029)
 
 The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
-The Knight Serviceman (November 19th, 2029)
+The Knight Serviceman (November 2029)
 - Warnit is back in his king personality, feeling responsible
 - All the Vohans are hospitalized
 - All the STAR agents (proper reveal of them) are disposed of
