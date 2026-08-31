@@ -70,4 +70,5 @@ The Colatin Core (November 2029)
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
-- Tirok r
+- Tirok relays it to Osin via his earpiece
+- Tirok and Yellow
