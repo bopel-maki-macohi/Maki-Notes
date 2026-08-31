@@ -33,7 +33,7 @@ Also bring Lasha / Invoy back.
 	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven and saved by Loroc right as Lasha decides to be Invoy again
 
 - The plane (October 2029)
-
+	TumUltimate is posting on L
 
 - Loroc (October 2029)
 - Super (October 2029)
