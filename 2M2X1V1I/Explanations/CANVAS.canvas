@@ -8,10 +8,11 @@
 		{"id":"a9e9d0bf59245a6d","type":"text","text":"## Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":580,"y":-1380,"width":590,"height":335,"color":"1"},
 		{"id":"4f947e8da7a2e44d","type":"text","text":"## Tirok\n\nBorn October 11th, 1981\n\nInventor + knows some science\n\nSecond most intelligent person on earth","x":-177,"y":-1960,"width":240,"height":240},
 		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-464,"y":-3097,"width":343,"height":206},
-		{"id":"15869bce75e6c623","x":-80,"y":-3100,"width":360,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc  \nLocation of the newspaper publication : The Tumultimate News"},
+		{"id":"15869bce75e6c623","x":-80,"y":-3100,"width":340,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News"},
 		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-465,"y":-2856,"width":344,"height":160},
 		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-80,"y":-2860,"width":393,"height":128},
-		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2660,"width":344,"height":142}
+		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2660,"width":344,"height":142},
+		{"id":"b2a2a1e10d66bad3","x":360,"y":-3097,"width":665,"height":258,"type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n"}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
