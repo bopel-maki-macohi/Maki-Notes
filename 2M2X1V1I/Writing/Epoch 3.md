@@ -20,7 +20,10 @@ No.
 Sinco disappears.
 Warnit is struck in the back.
 Sent flying.
+Spinning.
 
+As Warnit's vision starts to reorient as he still is spinning off.
+He sees green
 ## Chapter 2 : _
 
 ## Chapter 3 : _
