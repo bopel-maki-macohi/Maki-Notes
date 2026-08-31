@@ -290,7 +290,10 @@ Then jumps up to help Warnit.
 Her hands and arms morphing into a restraint.
 Letting Warnit recompose.
 Wind up.
+Let Kijo detach.
 
 And strike Osin.
 
 Slamming him to the ground.
+
+Warnit and Kijo then fall down
