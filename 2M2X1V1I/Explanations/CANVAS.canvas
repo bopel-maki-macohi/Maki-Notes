@@ -13,12 +13,12 @@
 		{"id":"b86f241a003ee561","type":"text","text":"# Lex Breaker\n\nBorn March 14th, 1970\n\nScientist + Inventor\n\n#1 most intelligent person on Earth","x":-460,"y":-896,"width":340,"height":222},
 		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-72,"y":-2257,"width":393,"height":128},
 		{"id":"b2a2a1e10d66bad3","type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n","x":-72,"y":-2092,"width":393,"height":377},
-		{"id":"15869bce75e6c623","type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News","x":420,"y":-1782,"width":340,"height":209}
+		{"id":"15869bce75e6c623","type":"text","text":"# Tumult\nInside of Jur Vali\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News","x":420,"y":-2049,"width":340,"height":291}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
 		{"id":"be2b136dd4ba6a85","fromNode":"bed1e685950c801c","fromSide":"right","toNode":"a9e9d0bf59245a6d","toSide":"left"},
 		{"id":"5b94d3c6b7aad501","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"ba0bd563eb7e47d5","toSide":"left"},
-		{"id":"e393ac50caeb916b","fromNode":"b2a2a1e10d66bad3","fromSide":"right","toNode":"15869bce75e6c623","toSide":"top"}
+		{"id":"885d6f76f02bdaf1","fromNode":"b2a2a1e10d66bad3","fromSide":"right","toNode":"15869bce75e6c623","toSide":"left"}
 	]
 }
