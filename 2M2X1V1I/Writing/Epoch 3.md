@@ -153,8 +153,11 @@ Warnit turns, showing no care for what Sinco has to say.
 
 One of the freefall members.
 Woman with light brown long-ish hair.
+She seems to be reconstructing her body from some black goo.
 
-"Sinco calm down"
+"Sinco calm down."
+
+
 
 ## Chapter 3 : _
 
