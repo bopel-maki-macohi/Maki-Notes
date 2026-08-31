@@ -1,4 +1,4 @@
-# Chapter 1 : For The Sacred Ground
+# Chapter 5 : For The Sacred Ground
 
 Ni Vohac, September 2029
 
@@ -35,7 +35,7 @@ TKS approaches the balled up remains of one of the machines.
 Proceeds to grab the machine and return to his throne.  
 They are going to find the origins of these machines.
 
-# Chapter 2 : Colatin Theft
+# Chapter 6 : Colatin Theft
 
 It’s been about a week or so.
 
@@ -77,7 +77,7 @@ Seeing the machine fly into a city.
 
 Tempo City.
 
-# Chapter 3 : The Speed City
+# Chapter 7 : The Speed City
 
 Tempo City, October 2029
 
@@ -115,7 +115,7 @@ Freefall created that damn machine.
 They’re using the Colatin.  
 They have the man cloaked in yellow.
 
-# Chapter 4 : Speed vs Tactic
+# Chapter 8 : Speed vs Tactic
 
 Baron, October 2029
 
