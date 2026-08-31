@@ -24,3 +24,5 @@ Members:
 - Tirok
 - Osin
 - STAR / Rie
+
+Lex Breaker belives himself too above all of 
