@@ -67,7 +67,7 @@ Warnit has a smile almost appear.
 But then he starts to look closer and starts recognizing the others with Tirok.
 
 One of them looks like Sinco...
-But s
+But scarlett red hair 
 
 ## Chapter 2 : _
 
