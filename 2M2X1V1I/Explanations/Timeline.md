@@ -33,13 +33,13 @@ Also bring Lasha / Invoy back.
 	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven (on a rampage looking for something to cure his condition) and saved by Loroc right as Lasha decides to be Invoy again
 
 - The plane (October 2029)
-	TumUltimate is posting on Loroc's appearance and Lasha is intrigued by him
+	TumUltimate is posting on Loroc's appearance and Invoy is intrigued by him
 	Niute feels neglected again
 
-- Loroc (October 2029)
-	After several more instances of Loroc appearing, Lasha and Niute (against his wants) have tracked him down
+- The Super (October 2029)
+	After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
 
-- Super (October 2029)
+- Loroc (October 2029)
 	
 
 # [[Epoch 5]] : Colatin
