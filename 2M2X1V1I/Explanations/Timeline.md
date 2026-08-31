@@ -69,4 +69,5 @@ Master Ruse (November 2029)
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
-- Osin hears something 
+- Osin gets the information of Sinco's capture
+- 
