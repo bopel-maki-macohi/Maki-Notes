@@ -41,7 +41,10 @@ Sinco stands above him.
 Imposing.
 The kid who beat a king.
 
-G
+"Good job."
+The last thought Warnit will probably have.
+
+But then suddenly
 
 ## Chapter 2 : _
 
