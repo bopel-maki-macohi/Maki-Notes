@@ -182,7 +182,9 @@ Sinco begrudgingly listens and walks off.
 Can he not run anymore?
 
 Warnit can finally muster up thoughts again.
+He stands up and dusts himself off.
 
+"What is going on here?"
 
 ## Chapter 3 : _
 
