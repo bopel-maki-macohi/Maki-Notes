@@ -68,7 +68,12 @@ But then he starts to look closer and starts recognizing the others with Tirok.
 
 One of them looks like Sinco...
 But Scarlett red hair that has 2 of his 4 maybe 5 hair spikes stand up tall like towers.
-And an O on his shirt instead of an S.
+And an O on his shirt instead of an S...
+
+Then the other man.
+The man cloaked in yellow.
+
+What is going 
 
 ## Chapter 2 : _
 
