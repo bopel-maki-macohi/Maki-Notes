@@ -2,11 +2,12 @@
 	"nodes":[
 		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970\n\nScientist + Inventor","x":-240,"y":-416,"width":224,"height":153,"color":"1"},
 		{"id":"bed1e685950c801c","type":"text","text":"Lex Breaker Science Corporation\n\nEstablished 2002\n\nMost popular and successfulscience business\n2nd most popular and successful tech business","x":240,"y":-579,"width":400,"height":163},
-		{"id":"a9e9d0bf59245a6d","type":"text","text":"Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":640,"y":-339,"width":590,"height":300},
-		{"id":"ba0bd563eb7e47d5","x":38,"y":-301,"width":602,"height":262,"type":"text","text":"Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth."}
+		{"id":"ba0bd563eb7e47d5","type":"text","text":"Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth.","x":240,"y":-220,"width":602,"height":262},
+		{"id":"a9e9d0bf59245a6d","type":"text","text":"Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":842,"y":-716,"width":590,"height":300}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
-		{"id":"16b4598530fc20fc","fromNode":"bed1e685950c801c","fromSide":"right","toNode":"a9e9d0bf59245a6d","toSide":"top"}
+		{"id":"5b94d3c6b7aad501","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"ba0bd563eb7e47d5","toSide":"left"},
+		{"id":"be2b136dd4ba6a85","fromNode":"bed1e685950c801c","fromSide":"right","toNode":"a9e9d0bf59245a6d","toSide":"left"}
 	]
 }
