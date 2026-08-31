@@ -11,17 +11,24 @@
             "id": "6bf677b91c604ca2",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": -500.560074359692,
-                  "y": -792.5952592688752,
-                  "zoom": -0.6666666666666667
+                "file": "2M2X1V1I/Explanations/Worldbuilding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Worldbuilding"
             }
           }
         ]
@@ -201,8 +208,8 @@
   },
   "active": "6bf677b91c604ca2",
   "lastOpenFiles": [
-    "test.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
+    "test.md",
     "2M2X1V1I/Writing/Epoch 1.md",
     "2M2X1V1I/README.md",
     "2M2X1V1I/Explanations/Places.md",
