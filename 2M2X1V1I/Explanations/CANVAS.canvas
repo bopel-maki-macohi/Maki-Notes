@@ -1,7 +1,8 @@
 {
 	"nodes":[
 		{"id":"4d244a7f28c4bbd0","type":"group","x":-480,"y":-1400,"width":1700,"height":1040,"label":"Lex Breaker"},
-		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970\n\nScientist + Inventor\n","x":-460,"y":-882,"width":224,"height":222,"color":"1"},
+		{"id":"4f947e8da7a2e44d","x":-1110,"y":-831,"width":250,"height":60,"type":"text","text":""},
+		{"id":"b86f241a003ee561","type":"text","text":"Lex Breaker\n\nBorn March 1970\n\nScientist + Inventor\n\n#1 most intelligent person on earth","x":-460,"y":-882,"width":224,"height":222,"color":"1"},
 		{"id":"bed1e685950c801c","type":"text","text":"Lex Breaker Science Corporation\n\nEstablished 2002\n\nMost popular and successfulscience business\n2nd most popular and successful tech business","x":20,"y":-1045,"width":400,"height":163,"color":"1"},
 		{"id":"ba0bd563eb7e47d5","type":"text","text":"Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth.","x":20,"y":-660,"width":602,"height":262,"color":"1"},
 		{"id":"a9e9d0bf59245a6d","type":"text","text":"Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":580,"y":-1380,"width":590,"height":300,"color":"1"}
