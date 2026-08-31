@@ -209,7 +209,11 @@ She doesn't continue however.
 "I myself have been experiencing a high about of stress as well."
 "So there's at least something we have in common there."
 
-"I guess."
+Kijo chuckles.
+
+"I guess so."
+
+
 
 ## Chapter 3 : _
 
