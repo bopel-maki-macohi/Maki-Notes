@@ -249,7 +249,7 @@ Kijo and Warnit had met up at The Freefall Foundation to see of any more improve
 Several people inside were murdered.
 Some people survived but very hurt.
 
-Emerges are several people clad in armor with a star
+Emerges are several people clad in armor with a star in the center of their srmoed
 
 ## Chapter 4 : _
 
