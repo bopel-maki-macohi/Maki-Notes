@@ -56,7 +56,7 @@ Where. Is. It? (November 2029)
 - TKS and Kijo ask Osin questions about Yellow and Tirok’s plans
 - Revealed that the attack was to retrieve the Colatin, which was transported away in the chaos
 - TKS tells Osin to tell where Yellow has the Colatin
-- Chapter ends with Osin's earpiece springing to life as he 
+- Chapter ends with Osin's earpiece springing to life as he gets told something
 
 The Colatin Core (November 2029)
 - During Chapter 1
@@ -70,5 +70,4 @@ The Colatin Core (November 2029)
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
-- Osin gets the information of Sinco's capture and finally tells TKS where Tirok and Yellow reside
-- TKS almost kills Osin
+- Tirok r
