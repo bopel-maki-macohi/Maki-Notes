@@ -228,7 +228,9 @@ And he shakes her hand.
 
 Baron, The Freefall Foundation, November 2029
 
-It's been half a month since Wa
+It's been about half a month since Warnit came to Baron.
+He decided to 
+
 ## Chapter 4 : _
 
 a
