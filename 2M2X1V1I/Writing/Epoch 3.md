@@ -213,7 +213,13 @@ Kijo chuckles.
 
 "I guess so."
 
-Kijo reaches out a hand for 
+Kijo reaches out a hand.
+
+"I'm Kijo. That was Sinco."
+
+Warnit pauses.
+
+And he shakes her hand.
 
 ## Chapter 3 : _
 
