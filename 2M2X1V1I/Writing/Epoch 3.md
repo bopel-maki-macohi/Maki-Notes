@@ -134,7 +134,8 @@ Then falls to the floor.
 Sitting.
 Confused.
 
-## Chapter 2 : _
+## Chapter 2 : Exposition
+
 
 ## Chapter 3 : _
 
