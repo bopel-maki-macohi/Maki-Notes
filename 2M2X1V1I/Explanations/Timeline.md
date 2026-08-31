@@ -70,3 +70,4 @@ Master Ruse (November 2029)
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
 - Osin gets the information of Sinco's capture and finally tells TKS where Tirok and Rune reside
+- T
