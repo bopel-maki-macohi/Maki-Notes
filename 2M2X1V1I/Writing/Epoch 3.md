@@ -257,4 +257,8 @@ The Red Sinco.
 ## Chapter 4 : Red Star Rush
 
 In a tornado of wind created by speed.
-Osin spins around Warnit, Kijo, and these Star Chested 
+Osin spins around Warnit, Kijo, and these Star Chested Soldiers.
+
+The arena has been set.
+
+Warnit calls upon his axe
