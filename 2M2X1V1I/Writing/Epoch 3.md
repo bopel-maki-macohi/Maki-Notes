@@ -229,7 +229,9 @@ And he shakes her hand.
 Baron, The Freefall Foundation, November 2029
 
 It's been about half a month since Warnit came to Baron.
-He decided to help Freefall rebuild
+He decided to help Freefall rebuild.
+
+
 
 ## Chapter 4 : _
 
