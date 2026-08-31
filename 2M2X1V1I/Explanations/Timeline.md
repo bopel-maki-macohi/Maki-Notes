@@ -34,10 +34,13 @@ Also bring Lasha / Invoy back.
 
 - The plane (October 2029)
 	TumUltimate is posting on Loroc's appearance and Lasha is intrigued by him
-	Niute feels neglected
+	Niute feels neglected again
 
 - Loroc (October 2029)
+	
+
 - Super (October 2029)
+	
 
 # [[Epoch 5]] : Colatin
 
