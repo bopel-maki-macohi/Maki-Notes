@@ -60,7 +60,10 @@ He recognizes at least one.
 The one in front.
 Tirok.
 He knows of him.
-He made a deal with his father onc
+He made a deal with his father once.
+A long time ago.
+All grown up.
+Warnit has a smile almost appear before he notices something 
 
 ## Chapter 2 : _
 
