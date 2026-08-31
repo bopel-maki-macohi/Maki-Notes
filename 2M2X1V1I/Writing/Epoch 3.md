@@ -1,7 +1,10 @@
 ## Chapter 1 : Chaos Control
 Baron, The Freefall Foundation, October 2029
 
-The speedster dodges onc
+“SINCO!”
+The speedster dodges once more as Warnit grabs his axe.
+
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
