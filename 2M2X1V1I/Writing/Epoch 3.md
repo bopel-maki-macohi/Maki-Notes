@@ -283,4 +283,4 @@ Red Lightning.
 
 Osin.
 
-He has jumped towards Warnit and 
+He has jumped towards Warnit and proceeds to rapidly attack him.
