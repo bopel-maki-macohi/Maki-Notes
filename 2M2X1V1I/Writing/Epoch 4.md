@@ -1,4 +1,4 @@
-## Chapter 13 : The Bird
+# Chapter 13 : The Bird
 
 Jur Vali, Morln, November 2029
 
@@ -70,7 +70,7 @@ Suddenly the blue blur returns, zipping back to where they came.
 
 “What??”
 
-## Chapter 14 : The Plane
+# Chapter 14 : The Plane
 
 Jur Vali, Morln, November 2029
 
@@ -85,7 +85,7 @@ The blue blurs appeared several times in the past week. Lasha’s been there for
 
 Now the question, how to get in contact with it?
 
-## Chapter 15 : The Super
+# Chapter 15 : The Super
 
 Jur Vali, Morln, November 20th, 2029
 
@@ -127,7 +127,7 @@ A blur.
 
 A blue blur.
 
-## Chapter 16 : Loroc
+# Chapter 16 : Loroc
 
 Jur Vali, Morln, November 20th, 2029
 
