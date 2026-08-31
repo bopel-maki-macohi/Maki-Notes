@@ -238,7 +238,8 @@ Systems from before work twenty times better then they ever did before.
 And it's not even been a full month.
 
 Kijo's impressed and has a new found respect for Ni Vohac.
-Warnit's proud of the 
+Warnit's proud of the Vohan builders.
+
 
 ## Chapter 4 : _
 
