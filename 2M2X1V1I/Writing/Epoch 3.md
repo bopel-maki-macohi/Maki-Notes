@@ -231,7 +231,9 @@ Baron, The Freefall Foundation, November 2029
 It's been about half a month since Warnit came to Baron.
 He decided to help Freefall rebuild.
 
-He has brought Vohan Builders from Ni Vohac and the building actually ending up quiet wall
+He has brought Vohan Builders from Ni Vohac to assist in the building.
+
+
 
 ## Chapter 4 : _
 
