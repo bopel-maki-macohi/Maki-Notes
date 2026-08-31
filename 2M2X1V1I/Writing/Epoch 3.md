@@ -99,7 +99,9 @@ But the axe hits the fingers.
 
 And nothing.
 
-"Despite my respect for yo"
+"Despite my respect for you and your people Mr. Serviceman."
+
+The name makes Warnit feel weird now.
 
 ## Chapter 2 : _
 
