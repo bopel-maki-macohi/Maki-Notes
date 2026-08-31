@@ -44,7 +44,8 @@ The kid who beat a king.
 "Good job."
 The last thought Warnit will probably have.
 
-But then suddenly
+But then suddenly Sinco is struck from behind himself.
+His hair snaps black
 
 ## Chapter 2 : _
 
