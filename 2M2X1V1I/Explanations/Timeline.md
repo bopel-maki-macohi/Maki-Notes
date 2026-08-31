@@ -30,7 +30,7 @@ Pitstop, let's work on another character : Loroc
 Also bring Lasha / Invoy back.
 
 - The bird (October 2029)
-	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven and saved by Loroc right as Lasha decides to be Invoy again
+	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven (on a rampage looking for something to cure his condition) and saved by Loroc right as Lasha decides to be Invoy again
 
 - The plane (October 2029)
 	TumUltimate is posting on Loroc's appearance and Lasha is intrigued by him
