@@ -19,7 +19,7 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 
 Tirok and Osin are freed from their super prison
 
-- 1 (?? 2029)
+-  (?? 2029)
 - 2 (?? 2029)
 - 3 (?? 2029)
 - 4 (?? 2029)
