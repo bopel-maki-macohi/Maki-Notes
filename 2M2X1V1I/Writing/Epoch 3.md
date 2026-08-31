@@ -244,7 +244,7 @@ They've done so much in such a short time.
 
 If only it could last.
 
-
+Kijo and Warnit had met up at The Freefall Foundation to see of any
 
 ## Chapter 4 : _
 
