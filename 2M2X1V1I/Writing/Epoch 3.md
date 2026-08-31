@@ -162,9 +162,8 @@ Sinco snaps at her.
 "I can't do that anymore Kijo."
 "Once I'm mad."
 "I'm mad."
+"Mad for a damn while."
 "It's a miracle the golden fuck isn't coming out right now cause I am fucking LIVID."
-
-
 
 ## Chapter 3 : _
 
