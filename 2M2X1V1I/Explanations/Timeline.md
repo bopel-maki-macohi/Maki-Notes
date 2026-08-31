@@ -82,7 +82,8 @@ Target Acquired (November 2029)
 # [[Epoch 6]] : Master Ruse
 
 **The Machine (December 2029)**
-- The Earth shakes and start to fall apart
+- The Earth shakes and start to fall apart cause of The Colatin Core
+- 
 
 **Master Ruse (December 2029)**
 
