@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Writing/Epoch 3.md",
+                "file": "2M2X1V1I/Explanations/Timeline.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Epoch 3"
+              "title": "Timeline"
             }
           }
         ]
@@ -209,10 +209,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
+    "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 2.md",
     "2026-08-30.md",
     "Untitled.canvas",
-    "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Explanations/Timeline.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Writing/Epoch 4.md",
