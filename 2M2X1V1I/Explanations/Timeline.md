@@ -60,7 +60,7 @@ Where. Is. It? (November 2029)
 
 The Colatin Core (November 2029)
 - During Chapter 1
-	How the fuck do I convey this without just spell
+	How the fuck do I convey this without just spelling it out...
 - Lozen, Ruse’s destroyed base from Epoch 1
 - Tirok has completed “The Colatin Core” for Yellow
 - All it needs is a power source, a big one, but there's nothing that has enough power
@@ -68,8 +68,10 @@ The Colatin Core (November 2029)
 
  (November 2029)
 - During Chapter 2
+	How the fuck do I convey this without just spelling it out...
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
 - Tirok relays it to Osin via his earpiece
-- Tirok and Yellow
+- Tirok and Yellow return to Base
+- Sinco is strapped into 
