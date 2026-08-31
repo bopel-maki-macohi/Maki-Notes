@@ -7,10 +7,11 @@
 		{"id":"ba0bd563eb7e47d5","type":"text","text":"## Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth.","x":20,"y":-660,"width":602,"height":262,"color":"1"},
 		{"id":"a9e9d0bf59245a6d","type":"text","text":"## Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":580,"y":-1380,"width":590,"height":335,"color":"1"},
 		{"id":"4f947e8da7a2e44d","type":"text","text":"## Tirok\n\nBorn October 11th, 1981\n\nInventor + knows some science\n\nSecond most intelligent person on earth","x":-177,"y":-1960,"width":240,"height":240},
-		{"id":"15869bce75e6c623","x":-57,"y":-3100,"width":539,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc  \nLocation of the newspaper publication : The Tumultimate News"},
 		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-464,"y":-3097,"width":343,"height":206},
 		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-464,"y":-2840,"width":344,"height":160},
-		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2640,"width":344,"height":142}
+		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2640,"width":344,"height":142},
+		{"id":"15869bce75e6c623","x":-57,"y":-3098,"width":539,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc  \nLocation of the newspaper publication : The Tumultimate News"},
+		{"id":"7cb3cd14891f78e1","x":-57,"y":-2824,"width":393,"height":128,"type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman"}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
