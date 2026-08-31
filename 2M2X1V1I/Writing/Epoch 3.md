@@ -63,7 +63,10 @@ He knows of him.
 He made a deal with his father once.
 A long time ago.
 All grown up.
-Warnit has a smile almost appear before he notices something 
+Warnit has a smile almost appear.
+But
+
+The man c
 
 ## Chapter 2 : _
 
