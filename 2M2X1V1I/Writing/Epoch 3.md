@@ -121,7 +121,9 @@ Tirok flings the axe away with the 2 fingers.
 Warnit stands there.
 Frozen.
 
+Tirok's eyes glow a lime green right before he closes them.
 
+"Chaos Control."
 
 ## Chapter 2 : _
 
