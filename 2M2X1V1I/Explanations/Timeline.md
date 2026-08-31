@@ -27,8 +27,19 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 # [[Epoch 4]] : Super
 
 Pitstop, let's work on another character : Loroc
+Also bring Lasha / Invoy back.
 
--  : (November 2029)
+- A bird? (November 2029)
+- The plane (November 2029)
 - (November 2029)
+- (November 2029)
+
+# [[Epoch 5]] : Colatin
+
+Pitstop, let's work on another character : Loroc
+Also bring Lasha / Invoy back.
+
+- A bird? (November 2029)
+- The plane (November 2029)
 - (November 2029)
 - (November 2029)
