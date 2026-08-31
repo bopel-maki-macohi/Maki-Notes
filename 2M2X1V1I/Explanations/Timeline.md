@@ -76,4 +76,5 @@ Target Acquired (November 2029)
 - Tirok and Yellow return to Base
 - Sinco is put onto The Colatin Core
 - Tirok reactivates his powers
-- Sinco, being pissed, suddenly 
+- Sinco, being pissed, suddenly starts turning golden with rage and fear
+- The Colatin Core glows golden
