@@ -193,9 +193,15 @@ Kijo looks at Warnit.
 "And we put a lot of effort into imprisoning them and keeping them imprisoned."
 "It's been very peaceful ever since."
 
-
+"And he has..."
+"A short tempter."
+"Kinda..."
 "So..."
 "Yeah."
+
+Kijo's face lo
+
+"I see."
 
 ## Chapter 3 : _
 
