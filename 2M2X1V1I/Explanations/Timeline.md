@@ -21,7 +21,7 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 
 - Chaos Control (October 2029)
 - What? (October 2029)
-- Rise Only To Fall (November 2029)
+- Red Light (November 2029)
 - 4 (November 2029)
 
 Loroc’s introduction into the story. Very different from OSA. Very deadset on being a hero. Mute.

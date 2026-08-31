@@ -224,7 +224,7 @@ And he shakes her hand.
 
 "Warnit."
 "The Knight Serviceman."
-## Chapter 3 : Rise Only To Fall
+## Chapter 3 : Red Light
 
 Baron, The Freefall Foundation, November 2029
 
@@ -244,7 +244,8 @@ They've done so much in such a short time.
 
 If only it could last.
 
-Kijo and Warnit had met up at The Freefall Foundation to see of any
+Kijo and Warnit had met up at The Freefall Foundation to see of any more improvements they could make.
+
 
 ## Chapter 4 : _
 
