@@ -206,9 +206,8 @@ She doesn't continue however.
 "I see."
 "Well I apologize then."
 
-Warnit 
-
-"I myself"
+"I myself have been experiencing a high about of stress aswell."
+"S"
 
 ## Chapter 3 : _
 
