@@ -83,7 +83,7 @@ Target Acquired (November 2029)
 
 **The Machine (December 2029)**
 - The Earth shakes and start to fall apart cause of The Colatin Core
-- 
+- Yellow proceeds to receive a massive amount of power from the machine
 
 **Master Ruse (December 2029)**
 
