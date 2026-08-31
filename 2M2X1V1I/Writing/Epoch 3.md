@@ -240,6 +240,9 @@ And it's not even been a full month.
 Kijo's impressed and has a new found respect for Ni Vohac.
 Warnit's proud of the Vohan builders.
 
+They've done so much in such a short time.
+
+If only it could last.
 
 ## Chapter 4 : _
 
