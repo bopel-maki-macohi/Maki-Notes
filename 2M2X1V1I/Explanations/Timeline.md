@@ -65,3 +65,4 @@ The Colatin Core (November 2029)
 
 Master Ruse (November 2029)
 - It’s a dark night
+- Lightning fo
