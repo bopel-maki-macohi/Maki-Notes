@@ -103,6 +103,10 @@ And nothing.
 
 The name makes Warnit feel weird now.
 
+"This man has saved me and has a plan that could get rid of that green one, permanently."
+
+
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
