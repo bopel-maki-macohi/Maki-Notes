@@ -14,10 +14,11 @@ Who needs to be when you can rapidly punch in the blink of an eye.
 
 Is he smart enough to change tactic however?
 Warnit is primed to strike as soon as Sinco gets close.
-Is he that smart?
+Is he that dumb?
 
-He is.
-Sinco disappears it seems and re
+No.
+Sinco disappears.
+Warnit is 
 ## Chapter 2 : _
 
 ## Chapter 3 : _
