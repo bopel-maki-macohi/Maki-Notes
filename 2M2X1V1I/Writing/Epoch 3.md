@@ -134,7 +134,7 @@ Then falls to the floor.
 Sitting.
 Confused.
 
-## Chapter 10 : What?
+# Chapter 10 : What?
 
 Minutes passed.
 They've felt like hours.
@@ -224,7 +224,7 @@ And he shakes her hand.
 
 "Warnit."
 "The Knight Serviceman."
-## Chapter 11 : Red Light
+# Chapter 11 : Red Light
 
 Baron, The Freefall Foundation, November 2029
 
@@ -254,7 +254,7 @@ Emerges are several people clad in armor with a star in the center of their ches
 Then Osin.
 The Red Sinco.
 
-## Chapter 12 : Red Star Rush
+# Chapter 12 : Red Star Rush
 
 In a tornado of wind created by speed.
 Osin spins around Warnit, Kijo, and these Star Chested Soldiers.
