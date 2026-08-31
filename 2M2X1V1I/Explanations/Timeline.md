@@ -58,27 +58,16 @@ The Colatin Core (November 2029)
 - All it needs is a power source, a big one, but there's nothing that has enough power
 - There’s someone, something though.
 
-Target Acquired (November 2029)
-
+Target Acquired (November 20 2029)
 - During Chapter 2  
-    How the fuck do I convey this without just spelling it out...
-    
 - It’s a dark night
-    
 - A lightning storm has brewed
-    
 - Sinco has arrived at Freefall only to be captured
-    
 - Tirok relays it to Osin via his earpiece
-    
 - Tirok and Yellow return to Base
-    
 - Sinco is put onto The Colatin Core
-    
 - Tirok reactivates his powers
-    
 - Sinco, being pissed, suddenly starts turning golden with rage and fear
-    
 - The Colatin Core glows golden
 # [[Epoch 6]] : Master Ruse
 
