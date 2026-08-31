@@ -97,11 +97,13 @@ Tirok steps in his way.
 Fear flashes over Warnit's face.
 But the axe hits the fingers.
 
-And nothing.
+And Tirok stands tall.
+The lightning starts going into him...
 
 "Despite my respect for you and your people Mr. Serviceman."
 
-The name makes Warnit feel weird now.
+Warnit flinches slightly.
+
 
 "This man has saved me and has a plan that could get rid of that green one, permanently."
 
