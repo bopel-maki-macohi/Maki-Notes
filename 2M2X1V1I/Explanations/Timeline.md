@@ -82,7 +82,7 @@ Target Acquired (November 2029)
 # [[Epoch 6]] : Master Ruse
 
 **The Machine (December 2029)**
-- Yellow receives a large amount of energy and power from The 
+- The Earth shakes and start to fall apart
 
 **Master Ruse (December 2029)**
 
