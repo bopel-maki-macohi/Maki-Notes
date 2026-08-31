@@ -74,5 +74,5 @@ Target Acquired (November 2029)
 - Sinco has arrived at Freefall only to be captured
 - Tirok relays it to Osin via his earpiece
 - Tirok and Yellow return to Base
-- Sinco is strapped into a machine
+- Sinco is put onto The Colatin Core
 - 
