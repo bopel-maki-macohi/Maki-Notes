@@ -11,24 +11,17 @@
             "id": "6bf677b91c604ca2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2M2X1V1I/Explanations/Worldbuilding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
+                "viewState": {
+                  "x": -836.423252158687,
+                  "y": -820.3775059712843,
+                  "zoom": -1.1893845300379393
                 }
               },
-              "icon": "lucide-file",
-              "title": "Worldbuilding"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS"
             }
           }
         ]
@@ -208,6 +201,7 @@
   },
   "active": "6bf677b91c604ca2",
   "lastOpenFiles": [
+    "2M2X1V1I/Explanations/Worldbuilding.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
     "test.md",
     "2M2X1V1I/Writing/Epoch 1.md",
@@ -221,7 +215,6 @@
     "Granule/README.md",
     "2M2X1V1I/Explanations/Untitled.base",
     "2M2X1V1I/Untitled.md",
-    "2M2X1V1I/Explanations/Worldbuilding.md",
     "2M2X1V1I/Writing/Epoch 2.md",
     "2M2X1V1I/Writing",
     "2M2X1V1I/Explanations",
