@@ -170,11 +170,14 @@ Kijo sighs.
 "I can explain to you why that is later."
 "For now just."
 "Go somewhere."
+"And try to calm down."
 "Please."
 
 Sinco's face starts filling with even more rage.
 
+Kijo pleads.
 
+"Please."
 
 ## Chapter 3 : _
 
