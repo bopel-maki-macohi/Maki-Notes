@@ -92,6 +92,10 @@ As Warnit falls, gravity dragging him down and his axe keeping him up longer.
 He winds back.
 Ready to strike the man in yellow.
 
+Tirok steps in his way.
+2 fingers held up.
+Fear flashes over Wa
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
