@@ -1,0 +1,51 @@
+/* Unmarkdown plugin styles */
+/* Uses Obsidian CSS variables only - no hardcoded colors */
+
+/* Status bar clickable state */
+.unmarkdown-status-clickable {
+  cursor: pointer;
+}
+
+/* Published panel: connect button */
+.unmarkdown-connect-btn {
+  margin-top: 12px;
+}
+
+/* Published panel: status dot */
+.unmarkdown-status-dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  margin-right: 6px;
+}
+
+.unmarkdown-status-dot.is-published {
+  background-color: var(--color-green);
+}
+
+.unmarkdown-status-dot.is-draft {
+  background-color: var(--text-faint);
+}
+
+/* Published panel: clickable file name */
+.unmarkdown-clickable {
+  cursor: pointer;
+}
+
+/* Published panel: URL display */
+.unmarkdown-url {
+  font-size: var(--font-smallest);
+  color: var(--text-faint);
+}
+
+/* Published panel: action button row */
+.unmarkdown-actions {
+  display: flex;
+  gap: 4px;
+}
+
+/* Published panel: action buttons */
+.unmarkdown-action-btn {
+  font-size: var(--font-smallest);
+}
