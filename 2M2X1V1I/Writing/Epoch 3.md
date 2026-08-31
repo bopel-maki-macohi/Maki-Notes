@@ -187,8 +187,10 @@ He stands up and dusts himself off.
 "What is going on here?"
 
 Kijo looks at Warnit.
-''
 
+"Oh, sorry."
+"Tirok and Osin are kinda the big bads over here."
+"So "
 
 ## Chapter 3 : _
 
