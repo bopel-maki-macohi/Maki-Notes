@@ -1,8 +1,8 @@
 
 ## Chapter 1 : A bird?
 
-## The plane
+## Chapter 2 : The plane
 
-## Super
+## Chapter 3 : Super
 
-## Loroc
+## Chapter 4 : Loroc
