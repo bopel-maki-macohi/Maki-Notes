@@ -1,6 +1,6 @@
 # Chapter 1 : For The Sacred Ground
 
-Ni Vohac, September 2029\.
+Ni Vohac, September 2029
 
 A deal was attempted, only days ago.  
 A man cloaked in yellow, approached The Knight Serviceman.  
