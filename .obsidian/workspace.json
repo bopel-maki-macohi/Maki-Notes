@@ -30,47 +30,8 @@
               "icon": "lucide-file",
               "title": "Timeline"
             }
-          },
-          {
-            "id": "a9eb98d5cf6fb0b1",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "2M2X1V1I/Explanations/Timeline.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Timeline"
-            },
-            "group": "6f687a7cb8f699d2"
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,8 +185,7 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
-            },
-            "group": "6f687a7cb8f699d2"
+            }
           }
         ]
       }
@@ -246,7 +206,7 @@
       "unmarkdown:Unmarkdown: quick convert": false
     }
   },
-  "active": "1c8385755641dfe5",
+  "active": "e28591bbe0830002",
   "lastOpenFiles": [
     "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 2.md",
