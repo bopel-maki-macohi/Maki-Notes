@@ -199,7 +199,10 @@ Kijo looks at Warnit.
 "So..."
 "Yeah."
 
-Kijo's face lo
+Kijo's face looks like there's something she wants to say.
+
+She doesn't continue however.
+
 
 "I see."
 
