@@ -129,6 +129,11 @@ A light the same color as Tirok's eyes were emits brightly.
 In seconds it's gone.
 And so are Tirok, The Yellow Cloaked Man, and the red Sinco.
 
+Warnit stands.
+Then falls to the floor.
+Sitting.
+Confused.
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
