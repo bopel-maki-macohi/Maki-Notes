@@ -58,13 +58,14 @@ Where. Is. It? (November 2029)
 - TKS tells Osin to tell where Yellow has the Colatin
 
 The Colatin Core (November 2029)
-- During The Knight Serviceman
+- During "The Knight Serviceman"
 - Lozen, Ruse’s destroyed base from Epoch 1
 - Tirok has completed “The Colatin Core” for Yellow
 - All it needs is a power source, a big one, but there's nothing that has enough power
 - There’s someone, something though.
 
 Master Ruse (November 2029)
+- During Chapter 2
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
