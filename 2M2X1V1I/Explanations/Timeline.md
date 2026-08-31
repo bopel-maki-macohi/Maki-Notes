@@ -81,7 +81,7 @@ Target Acquired (November 2029)
 
 # [[Epoch 6]] : Master Ruse
 
-Master Ruse (December 2029)
+The Machine (December 2029)
 Master Ruse (December 2029)
 C (December 2029)
 Doomsday (December 2029)
