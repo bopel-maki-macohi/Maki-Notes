@@ -78,3 +78,5 @@ Target Acquired (November 2029)
 - Tirok reactivates his powers
 - Sinco, being pissed, suddenly starts turning golden with rage and fear
 - The Colatin Core glows golden
+
+# [[Epoch 6]] : Master Ruse
