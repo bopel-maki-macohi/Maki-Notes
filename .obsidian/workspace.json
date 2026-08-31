@@ -15,29 +15,13 @@
               "state": {
                 "file": "2M2X1V1I/Explanations/CANVAS.canvas",
                 "viewState": {
-                  "x": 87.91260552565956,
-                  "y": -2847.922290791534,
-                  "zoom": -1.3333333333333333
+                  "x": 742.4173852607985,
+                  "y": -3300.2299788137893,
+                  "zoom": -1
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "CANVAS"
-            }
-          }
-        ]
-      },
-      {
-        "id": "e79950b40d1cdfa8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "98718df3a4e5c518",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
             }
           }
         ]
@@ -216,7 +200,7 @@
       "unmarkdown:Unmarkdown: quick convert": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "6bf677b91c604ca2",
   "lastOpenFiles": [
     "2M2X1V1I/Explanations/Places.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",

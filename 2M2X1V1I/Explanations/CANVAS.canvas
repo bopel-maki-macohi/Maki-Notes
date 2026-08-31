@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"id":"4d244a7f28c4bbd0","type":"group","x":-480,"y":-1400,"width":1700,"height":1040,"label":"Lex Breaker"},
-		{"id":"1d2a86c859a93e84","type":"group","x":-480,"y":-3120,"width":1700,"height":720,"label":"Places"},
+		{"id":"1d2a86c859a93e84","type":"group","x":-480,"y":-3120,"width":1320,"height":720,"label":"Places"},
 		{"id":"b86f241a003ee561","type":"text","text":"# Lex Breaker\n\nBorn March 14th, 1970\n\nScientist + Inventor\n\n#1 most intelligent person on earth","x":-460,"y":-870,"width":340,"height":222,"color":"1"},
 		{"id":"bed1e685950c801c","type":"text","text":"## Lex Breaker Science Corporation\n\nEstablished 2002\n\nMost popular and successfulscience business\n2nd most popular and successful tech business","x":20,"y":-1039,"width":400,"height":163,"color":"1"},
 		{"id":"ba0bd563eb7e47d5","type":"text","text":"## Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth.","x":20,"y":-660,"width":602,"height":262,"color":"1"},
