@@ -254,6 +254,7 @@ Emerges are several people clad in armor with a star in the center of their ches
 Then Osin.
 The Red Sinco.
 
-## Chapter 4 : Red Rush
+## Chapter 4 : Red Star Rush
 
-a
+In a tornado of wind created by speed.
+Osin 
