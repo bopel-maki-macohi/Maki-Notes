@@ -1,4 +1,5 @@
 ## Chapter 1 : Chaos Control
+
 Baron, The Freefall Foundation, October 2029
 
 “SINCO!”
@@ -23,7 +24,8 @@ Sent flying.
 Spinning.
 
 As Warnit's vision starts to reorient as he still is spinning off.
-He sees green
+He sees green lightning approching.
+Warnit blocks with his a
 ## Chapter 2 : _
 
 ## Chapter 3 : _
