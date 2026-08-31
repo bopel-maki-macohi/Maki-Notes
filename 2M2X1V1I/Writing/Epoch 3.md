@@ -175,9 +175,10 @@ Kijo sighs.
 
 Sinco's face starts filling with even more rage.
 
-Kijo pleads.
-
+Kijo repeats.
 "Please."
+
+Sinco begrudgingly listens and walks of
 
 ## Chapter 3 : _
 
