@@ -5,8 +5,7 @@ Baron, The Freefall Foundation, October 2029
 
 The speedster dodges once more as Warnit grabs his axe.
 Must be his name.
-Sinco jumps backwards.
-Lands.
+Sinco speeds to a higher vantage point.
 And stands primed for a fist fight.
 
 Warnit stands tall.
