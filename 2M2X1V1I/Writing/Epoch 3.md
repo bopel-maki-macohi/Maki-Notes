@@ -261,4 +261,9 @@ Osin spins around Warnit, Kijo, and these Star Chested Soldiers.
 
 The arena has been set.
 
-Warnit calls upon his axe
+Warnit calls upon his axe.
+It enters the area.
+Hitting Osin on the way.
+Knocking him away.
+
+Kijo's ha
