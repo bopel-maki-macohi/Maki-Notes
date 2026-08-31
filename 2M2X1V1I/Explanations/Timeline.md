@@ -8,7 +8,7 @@ Material for Ruse to study and manipulate as he creates his plan
 - Mr. Ruse (August 2029)
 ## [[Epoch 2]] : Ni Vohac
 
-Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
+TKS being tricked to go to Tempo City and perform The Tempo Prison Break
 
 - For The Sacred Ground (September 2029)
 - Colatin Theft (September 2029)
@@ -80,3 +80,4 @@ Target Acquired (November 2029)
 - The Colatin Core glows golden
 
 # [[Epoch 6]] : Master Ruse
+
