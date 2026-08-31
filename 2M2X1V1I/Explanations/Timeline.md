@@ -66,7 +66,7 @@ The Colatin Core (November 2029)
 - All it needs is a power source, a big one, but there's nothing that has enough power
 - There’s someone, something though.
 
- (November 2029)
+Target Acquired (November 2029)
 - During Chapter 2
 	How the fuck do I convey this without just spelling it out...
 - It’s a dark night
@@ -74,4 +74,5 @@ The Colatin Core (November 2029)
 - Sinco has arrived at Freefall only to be captured
 - Tirok relays it to Osin via his earpiece
 - Tirok and Yellow return to Base
-- Sinco is strapped into 
+- Sinco is strapped into a machine
+- 
