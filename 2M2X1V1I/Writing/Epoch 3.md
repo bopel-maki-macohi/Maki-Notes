@@ -146,6 +146,7 @@ Sinco gets closer to the group.
 
 "Great."
 "Not only have you destroyed the prison."
+"You let Tirok and Osin escape"
 
 ## Chapter 3 : _
 

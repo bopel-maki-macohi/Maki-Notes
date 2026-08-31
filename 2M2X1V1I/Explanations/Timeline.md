@@ -15,7 +15,7 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 - The Speed City (October  2029)
 - Speed vs Tactic (October 2029)
 
-# [[Epoch 3]] : The Lie
+# [[Epoch 3]] : Freefall's Fall
 
 Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit have to team up to stop them
 
