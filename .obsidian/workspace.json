@@ -15,9 +15,9 @@
               "state": {
                 "file": "2M2X1V1I/Explanations/CANVAS.canvas",
                 "viewState": {
-                  "x": 321,
-                  "y": -529,
-                  "zoom": 0
+                  "x": -188.1595424879868,
+                  "y": -709.4154538344687,
+                  "zoom": 0.3333333333333332
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -201,6 +201,7 @@
   },
   "active": "6bf677b91c604ca2",
   "lastOpenFiles": [
+    "test.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Writing/Epoch 1.md",
     "2M2X1V1I/README.md",
