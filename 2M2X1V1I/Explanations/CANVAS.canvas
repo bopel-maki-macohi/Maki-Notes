@@ -12,7 +12,7 @@
 		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-465,"y":-2856,"width":344,"height":160},
 		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-80,"y":-2860,"width":393,"height":128},
 		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2660,"width":344,"height":142},
-		{"id":"b2a2a1e10d66bad3","x":360,"y":-3097,"width":665,"height":258,"type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n"}
+		{"id":"b2a2a1e10d66bad3","x":360,"y":-3097,"width":400,"height":365,"type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n"}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},

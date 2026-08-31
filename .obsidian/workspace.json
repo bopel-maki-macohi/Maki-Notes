@@ -15,9 +15,9 @@
               "state": {
                 "file": "2M2X1V1I/Explanations/CANVAS.canvas",
                 "viewState": {
-                  "x": 740.7162479203398,
-                  "y": -2883.563764729264,
-                  "zoom": -1.6666666666666665
+                  "x": 87.91260552565956,
+                  "y": -2847.922290791534,
+                  "zoom": -1.3333333333333333
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -34,24 +34,10 @@
             "id": "98718df3a4e5c518",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2M2X1V1I/Explanations/Places.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Places"
+              "title": "New tab"
             }
           }
         ]
@@ -230,7 +216,7 @@
       "unmarkdown:Unmarkdown: quick convert": false
     }
   },
-  "active": "6bf677b91c604ca2",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
     "2M2X1V1I/Explanations/Places.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
