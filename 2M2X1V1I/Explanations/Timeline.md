@@ -35,10 +35,10 @@ The plane (October 2029)
 	The TumUltimate News is posting on Loroc's appearance and Invoy is intrigued by him
 	Niute feels neglected again
 
-The Super (October 2029)
+The Super (November 2029)
 	After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
 
-Loroc (October 2029)
+Loroc (November 2029)
 	Invoy meets Loroc, chilling at a very unstable house that it looks like was homemade, probably by Loroc
 
 # [[Epoch 5]] : Colatin
