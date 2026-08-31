@@ -87,7 +87,7 @@ Warnit snaps.
 
 He leaps up.
 His axe bringing him further into the sky then he could ever.
-Lightning
+Lightning charges in his axe that starts being sprinkled outward 
 ## Chapter 2 : _
 
 ## Chapter 3 : _
