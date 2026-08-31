@@ -10,7 +10,7 @@
 		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2560,"width":344,"height":142},
 		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-463,"y":-3100,"width":343,"height":206},
 		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries  \nLocation of the newspaper publication : The Baron News","x":-464,"y":-2840,"width":527,"height":206},
-		{"id":"15869bce75e6c623","x":21,"y":-2969,"width":250,"height":60,"type":"text","text":"# Tumult\n\nHome of Loroc\n"}
+		{"id":"15869bce75e6c623","x":-57,"y":-3100,"width":539,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc  \nLocation of the newspaper publication : The Tumultimate News"}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
