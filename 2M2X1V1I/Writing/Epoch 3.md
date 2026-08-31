@@ -86,7 +86,8 @@ Warnit snaps.
 "YOU WILL GO NOWHERE."
 
 He leaps up.
-His axe bringing him further into the sky then he could ev
+His axe bringing him further into the sky then he could ever.
+Lightning
 ## Chapter 2 : _
 
 ## Chapter 3 : _
