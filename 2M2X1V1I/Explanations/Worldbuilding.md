@@ -25,4 +25,4 @@ Members:
 - Osin
 - STAR / Rie
 
-Lex Breaker belives himself too above all of 
+Lex Breaker believes himself too above all of Hell's Higher-Ups to join

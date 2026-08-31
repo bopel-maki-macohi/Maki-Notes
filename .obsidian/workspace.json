@@ -51,7 +51,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false,
+                "autoReveal": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -207,7 +207,7 @@
       "unmarkdown:Unmarkdown: quick convert": false
     }
   },
-  "active": "6bf677b91c604ca2",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
     "2M2X1V1I/Explanations/Whys.md",
     "2M2X1V1I/Explanations/Timeline.md",
