@@ -296,4 +296,8 @@ And strike Osin.
 
 Slamming him to the ground.
 
-Warnit and Kijo then fall down
+Warnit and Kijo then fall down.
+Landing on the ground safely.
+
+Kijo lists a fist.
+Warnit looks over.
