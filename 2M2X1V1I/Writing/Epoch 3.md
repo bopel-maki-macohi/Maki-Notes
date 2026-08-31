@@ -237,7 +237,7 @@ They've actually improved the building a lot.
 Systems from before work twenty times better then they ever did before.
 And it's not even been a full month.
 
-
+Kijo's impressed and has a new
 
 ## Chapter 4 : _
 
