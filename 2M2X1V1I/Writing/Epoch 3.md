@@ -82,9 +82,11 @@ Warnit could recognize that voice anytime.
 Anywhere.
 That IS the man cloaked in yellow.
 
-Warnit 
+Warnit snaps.
 "YOU WILL GO NOWHERE."
 
+He leaps up.
+His axe bringing him further into the sky then he could ev
 ## Chapter 2 : _
 
 ## Chapter 3 : _
