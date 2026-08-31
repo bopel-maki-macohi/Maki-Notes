@@ -73,7 +73,10 @@ And an O on his shirt instead of an S...
 Then the other man.
 The man cloaked in yellow.
 
-What is going 
+What is going on here?
+
+"Come along."
+"There is one more we must convince"
 
 ## Chapter 2 : _
 
