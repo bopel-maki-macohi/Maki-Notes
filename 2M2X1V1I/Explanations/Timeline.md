@@ -24,29 +24,89 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 - Red Light (November 2029)
 - Red Star Rush (November 2029)
 
-# [[Epoch 4]] : Super
+[[Epoch 4]] : Super
 
-Pitstop, let's work on another character : Loroc
-Also bring Lasha / Invoy back.
+Pitstop, let's work on another character : Loroc Also bring Lasha / Invoy back.
 
-- The bird (October 2029)
+The bird (October 2029)
 	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven (on a rampage looking for something to cure his condition) and saved by Loroc right as Lasha decides to be Invoy again
 
-- The plane (October 2029)
-	The TumUltimate News is posting on Loroc's appearance and Invoy is intrigued by him
-	Niute feels neglected again
+  
 
-- The Super (October 2029)
-	After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
+The plane (October 2029)
 
-- Loroc (October 2029)
-	Invoy meets Loroc, chilling at a very unstable house that it looks like was homemade, probably by Loroc
+  
 
-# [[Epoch 5]] : Colatin
+The TumUltimate News is posting on Loroc's appearance and Invoy is intrigued by him
+
+Niute feels neglected again
+
+  
+
+The Super (October 2029)
+
+  
+
+After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
+
+  
+
+Loroc (October 2029)
+
+  
+
+Invoy meets Loroc, chilling at a very unstable house that it looks like was homemade, probably by Loroc
+
+  
+
+[[Epoch 5]] : Colatin
 
 The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
-- (November 2029)
-- (November 2029)
-- (December 2029)
-- (December 2029)
+  
+
+The Knight Serviceman (November 2029)
+
+- Warnit is back in his king personality, feeling responsible
+    
+- All the Vohans are hospitalized
+    
+
+- All the STAR agents (proper reveal of them) are disposed of
+    
+
+- Osin is unconscious throughout
+    
+
+  
+
+Where. Is. It? (November 2029)
+
+- Osin is captured again
+    
+- TKS and Kijo ask Osin questions about Yellow and Tirok’s plans
+    
+- Revealed that the attack was to retrieve the Colatin, which was transported away in the chaos
+    
+- TKS tells Osin to tell where Yellow has the Colatin
+    
+
+  
+
+The Colatin Core (November 2029)
+
+- Lozen, Ruse’s destroyed base from Epoch 1
+    
+
+- Tirok has completed “The Colatin Core” for Yellow
+    
+- All it needs is a power source, a big one, but there's nothing that has enough power
+    
+- There’s someone, something though.
+    
+
+  
+
+Master Ruse (November 2029)
+
+- It’s a dark night
