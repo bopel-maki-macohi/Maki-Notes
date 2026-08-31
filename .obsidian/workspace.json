@@ -11,17 +11,24 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": -1420,
-                  "zoom": -1.3582193672789993
+                "file": "2M2X1V1I/Writing/Epoch 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Epoch 3"
             }
           }
         ]
@@ -202,10 +209,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
+    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Explanations/Worldbuilding.md",
     "2M2X1V1I/Explanations/Whys.md",
     "2M2X1V1I/Explanations/Timeline.md",
-    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Writing/Epoch 5.md",
     "2M2X1V1I/Writing/Epoch 4.md",
     "2M2X1V1I/Writing/Epoch 1.md",
