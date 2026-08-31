@@ -285,3 +285,5 @@ Osin.
 
 He has jumped towards Warnit and proceeds to rapidly attack him.
 
+Kijo proceeds to maul the rest of the Star Soldiers.
+Then jumps up to help Warnit.
