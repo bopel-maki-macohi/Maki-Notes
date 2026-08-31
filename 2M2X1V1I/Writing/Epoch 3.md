@@ -179,14 +179,16 @@ Kijo repeats.
 "Please."
 
 Sinco begrudgingly listens and walks off.
-Can he not run anymore?
+Kijo watches him walk off.
 
 Warnit can finally muster up thoughts again.
 He stands up and dusts himself off.
 
 "What is going on here?"
 
-Kijo looks
+Kijo looks at Warnit.
+''
+
 
 ## Chapter 3 : _
 
