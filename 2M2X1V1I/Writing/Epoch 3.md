@@ -190,9 +190,9 @@ Kijo looks at Warnit.
 
 "Oh, sorry."
 "Tirok and Osin are kinda the big bads over here."
-"And we put alot of effort into imprisoning them and keeping them imprisoned."
-
-
+"And we put a lot of effort into imprisoning them and keeping them imprisoned."
+"It's been very peaceful ever since."
+"So"
 
 ## Chapter 3 : _
 
