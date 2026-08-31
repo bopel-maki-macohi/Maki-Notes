@@ -36,10 +36,9 @@ Also bring Lasha / Invoy back.
 
 # [[Epoch 5]] : Colatin
 
-Pitstop, let's work on another character : Loroc
-Also bring Lasha / Invoy back.
+The Yellow Cloaked
 
-- A bird? (November 2029)
-- The plane (November 2029)
+- (November 2029)
+- (November 2029)
 - (November 2029)
 - (November 2029)
