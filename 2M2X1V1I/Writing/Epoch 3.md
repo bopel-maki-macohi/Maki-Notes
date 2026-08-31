@@ -274,4 +274,9 @@ She slices a soldier with the sword.
 Her axe hand embeds itself in another solider.
 She spins her and the soldier around and tosses him towards another.
 
-Warnit 
+Warnit jumps up.
+Winding up his axe.
+And prepares to strike it down.
+But Warnit is struck instead.
+
+Red Lightn
