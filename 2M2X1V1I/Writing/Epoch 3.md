@@ -169,7 +169,12 @@ Kijo sighs.
 
 "I can explain to you why that is later."
 "For now just."
-"Go c"
+"Go somewhere."
+"Please."
+
+Sinco's face starts filling with even more rage.
+
+
 
 ## Chapter 3 : _
 
