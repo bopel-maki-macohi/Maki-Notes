@@ -165,6 +165,12 @@ Sinco snaps at her.
 "Mad for a damn while."
 "It's a miracle the golden fuck isn't coming out right now cause I am fucking LIVID."
 
+Kijo sighs.
+
+"I can explain to you why that is later."
+"For now just."
+"Go c"
+
 ## Chapter 3 : _
 
 ## Chapter 4 : _
