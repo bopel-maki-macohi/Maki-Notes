@@ -106,7 +106,12 @@ Warnit flinches slightly.
 The name feels weird after these last few days.
 
 "This man has saved me."
-"And has a plan that could get rid of that green onepermanently."
+"And has a plan that could get rid of that green one."
+"Permanently."
+
+The axe's lightning starts to disipate.
+
+"Do not stand in our way again."
 
 ## Chapter 2 : _
 
