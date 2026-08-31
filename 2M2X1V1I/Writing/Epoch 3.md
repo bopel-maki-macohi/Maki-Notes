@@ -157,7 +157,12 @@ She seems to be reconstructing her body from some black goo.
 
 "Sinco calm down."
 
+Sinco snaps at her.
 
+"I can't do that anymore!"
+"Once I'm mad."
+"I'm mad."
+"It's a miracle the golden "
 
 ## Chapter 3 : _
 
