@@ -152,7 +152,6 @@ Sinco looks furious.
 Warnit turns, showing no care for what Sinco has to say.
 
 "Sinco calm down"
-"He's "
 
 ## Chapter 3 : _
 
