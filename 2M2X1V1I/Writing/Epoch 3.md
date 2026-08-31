@@ -1,4 +1,4 @@
-## Chapter 9 : Chaos Control
+# Chapter 9 : Chaos Control
 
 Baron, The Freefall Foundation, October 2029
 
