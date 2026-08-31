@@ -64,11 +64,10 @@ The Colatin Core (November 2029)
 - All it needs is a power source, a big one, but there's nothing that has enough power
 - There’s someone, something though.
 
-Master Ruse (November 2029)
+ (November 2029)
 - During Chapter 2
 - It’s a dark night
 - A lightning storm has brewed
 - Sinco has arrived at Freefall only to be captured
 - Osin gets the information of Sinco's capture and finally tells TKS where Tirok and Yellow reside
 - TKS almost kills Osin
-- 
