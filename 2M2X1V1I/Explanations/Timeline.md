@@ -26,20 +26,13 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 
 # [[Epoch 4]] : Super
 
-Pitstop, let's work on another character : Loroc Also bring Lasha / Invoy back.
+Pitstop, let's work on another character : Loroc
+Also bring Lasha / Invoy back.
 
-The bird (October 2029)
-	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven (on a rampage looking for something to cure his condition) and saved by Loroc right as Lasha decides to be Invoy again
-
+The Bird (October 2029)
 The plane (October 2029)
-	The Morln News is posting on Loroc's appearance and Invoy is intrigued by him
-	Niute feels neglected again
-
 The Super (November 2029)
-	After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
-
 Loroc (November 2029)
-	Invoy meets Loroc, chilling at a very unstable house that it looks like was homemade, probably by Loroc
 
 # [[Epoch 5]] : Colatin
 
