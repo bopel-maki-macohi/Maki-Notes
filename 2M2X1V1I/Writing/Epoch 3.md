@@ -52,7 +52,10 @@ Adrenaline flowing through him.
 He calls his axe.
 It arrives in no time.
 
-The other freefall members have fallen
+The other freefall members have fallen.
+3 men stand above them.
+Warnit looks closely.
+He recognizes them
 
 ## Chapter 2 : _
 
