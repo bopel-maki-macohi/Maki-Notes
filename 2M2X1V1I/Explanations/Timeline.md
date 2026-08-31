@@ -76,3 +76,4 @@ Target Acquired (November 2029)
 - Tirok and Yellow return to Base
 - Sinco is put onto The Colatin Core
 - Tirok reactivates his powers
+- Sinco, being pissed, suddenly 
