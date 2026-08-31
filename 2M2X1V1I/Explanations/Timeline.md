@@ -28,7 +28,7 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 
 Pitstop, let's work on another character : Loroc
 
-- (November 2029)
+-  : (November 2029)
 - (November 2029)
 - (November 2029)
 - (November 2029)
