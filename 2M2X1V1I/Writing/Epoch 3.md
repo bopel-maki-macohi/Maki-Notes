@@ -203,10 +203,12 @@ Kijo's face looks like there's something she wants to say.
 
 She doesn't continue however.
 
-Warnit 
-
 "I see."
 "Well I apologize then."
+
+Warnit 
+
+"I myself"
 
 ## Chapter 3 : _
 
