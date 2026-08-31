@@ -1,18 +1,18 @@
 {
 	"nodes":[
 		{"id":"4d244a7f28c4bbd0","type":"group","x":-480,"y":-1400,"width":1700,"height":1040,"label":"Lex Breaker"},
-		{"id":"1d2a86c859a93e84","type":"group","x":-480,"y":-3120,"width":1320,"height":720,"label":"Places"},
+		{"id":"1d2a86c859a93e84","type":"group","x":-480,"y":-2280,"width":1280,"height":720,"label":"Places"},
 		{"id":"b86f241a003ee561","type":"text","text":"# Lex Breaker\n\nBorn March 14th, 1970\n\nScientist + Inventor\n\n#1 most intelligent person on earth","x":-460,"y":-870,"width":340,"height":222,"color":"1"},
 		{"id":"bed1e685950c801c","type":"text","text":"## Lex Breaker Science Corporation\n\nEstablished 2002\n\nMost popular and successfulscience business\n2nd most popular and successful tech business","x":20,"y":-1039,"width":400,"height":163,"color":"1"},
 		{"id":"ba0bd563eb7e47d5","type":"text","text":"## Lex Breaker has a big ego.\n\nHe feels like the best.\n\nBut these special people.\nThese Pomins are terrible for his ego.\n\nThey make him feel bad. And that's his motivation for going after and killing Pomins. And specifically targetting Loroc. So far the most powerful Pomin on Earth.","x":20,"y":-660,"width":602,"height":262,"color":"1"},
 		{"id":"a9e9d0bf59245a6d","type":"text","text":"## Lex's science and tech works are popular for (mostly) being cheap enough to be in the realm of possibility of purchasing and using for the average citizen.\n\nBut some of Lex's creations are using unstable elements.\nLex knows that but doesn't care.\n\nThey can kill their users or just badly hurt them.\nPoison them.\n\nIn 2211 Epoch 1 Chapter 2 for example, Kaven Varlet is using Lex Breaker's tech and it's poisoning him.","x":580,"y":-1380,"width":590,"height":335,"color":"1"},
-		{"id":"4f947e8da7a2e44d","type":"text","text":"## Tirok\n\nBorn October 11th, 1981\n\nInventor + knows some science\n\nSecond most intelligent person on earth","x":-177,"y":-1960,"width":240,"height":240},
-		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-464,"y":-3097,"width":343,"height":206},
-		{"id":"15869bce75e6c623","x":-80,"y":-3100,"width":340,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News"},
-		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-465,"y":-2856,"width":344,"height":160},
-		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-80,"y":-2860,"width":393,"height":128},
-		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-2660,"width":344,"height":142},
-		{"id":"b2a2a1e10d66bad3","x":360,"y":-3097,"width":400,"height":365,"type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n"}
+		{"id":"4f947e8da7a2e44d","type":"text","text":"## Tirok\n\nBorn October 11th, 1981\n\nInventor + knows some science\n\nSecond most intelligent person on earth","x":-700,"y":-2400,"width":240,"height":240},
+		{"id":"7d1ac19d00b1e946","type":"text","text":"# Tempo City\n\nBirthplace of Sinco\nConnected to Baron via a bridge","x":-464,"y":-2257,"width":343,"height":206},
+		{"id":"7f74a071c4062987","type":"text","text":"# Ni Vohac\n\nKingdom of Warnit / The Knight Serviceman","x":-80,"y":-2020,"width":393,"height":128},
+		{"id":"ede79dadb2e926a4","type":"text","text":"## Lozen\nHome of Lasha","x":-464,"y":-1820,"width":344,"height":142},
+		{"id":"15869bce75e6c623","x":-80,"y":-2260,"width":340,"height":209,"type":"text","text":"# Tumult\n\nHome of Loroc \n\nLocation of the newspaper publication : The Tumultimate News"},
+		{"id":"b2a2a1e10d66bad3","x":360,"y":-2257,"width":400,"height":377,"type":"text","text":"# Jur Valia Ontel\n\nName is old and ancient but stuck  \nConnection of 2 states\n## Jur Vali\n\nEast half of Jur Valia Ontel\n## Jur Lavi\n\nWest Half of Jur Valia Ontel  \nHome of the Lex Breaker Science Corporation  \n"},
+		{"id":"6461e45161c09947","type":"text","text":"## Baron\nHome to Freefall, STAR, and T-industries \n\nLocation of the newspaper publication : The Baron News","x":-465,"y":-2016,"width":344,"height":160}
 	],
 	"edges":[
 		{"id":"ca74aad0c9da7a52","fromNode":"b86f241a003ee561","fromSide":"right","toNode":"bed1e685950c801c","toSide":"left"},
