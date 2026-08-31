@@ -271,7 +271,7 @@ One of them forms a sword.
 The other an axe.
 
 She slices a soldier with the sword.
-Her axe hand embeds itself in another solider.
+Her axe hand embeds itself in another soldier.
 She spins her and the soldier around and tosses him towards another.
 
 Warnit jumps up.
