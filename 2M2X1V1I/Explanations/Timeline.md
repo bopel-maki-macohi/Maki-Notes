@@ -29,16 +29,16 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 Pitstop, let's work on another character : Loroc
 Also bring Lasha / Invoy back.
 
-- A bird? (November 2029)
-- The plane (November 2029)
-- (November 2029)
-- (November 2029)
+- A bird? (October 2029)
+- The plane (October 2029)
+- (October 2029)
+- (October 2029)
 
 # [[Epoch 5]] : Colatin
 
-The Yellow Cloaked
+The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
 - (November 2029)
 - (November 2029)
-- (November 2029)
-- (November 2029)
+- (December 2029)
+- (December 2029)
