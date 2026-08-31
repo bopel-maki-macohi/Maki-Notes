@@ -81,4 +81,7 @@ Target Acquired (November 2029)
 
 # [[Epoch 6]] : Master Ruse
 
-A (Dec)
+Master Ruse (December 2029)
+Doomsday (December 2029)
+C (December 2029)
+D (December 2029)
