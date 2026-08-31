@@ -20,9 +20,9 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit have to team up to stop them
 
 - Chaos Control (October 2029)
-- Exposition (October 2029)
-- 3 (?? 2029)
-- 4 (?? 2029)
+- What? (October 2029)
+-  (November 2029)
+- 4 (November 2029)
 
 ## [[Epoch 4]] : Super
 
