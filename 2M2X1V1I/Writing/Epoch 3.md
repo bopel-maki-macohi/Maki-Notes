@@ -136,7 +136,11 @@ Confused.
 
 ## Chapter 2 : Exposition
 
+Minutes passed.
+They've felt like hours.
 
+Sinco has gotten up.
+So have the Freefall member
 ## Chapter 3 : _
 
 ## Chapter 4 : _
