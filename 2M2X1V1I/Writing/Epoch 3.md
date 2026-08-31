@@ -55,7 +55,12 @@ It arrives in no time.
 The other freefall members have fallen.
 3 men stand above them.
 Warnit looks closely.
-He recognizes them
+He recognizes at least one.
+
+The one in front.
+Tirok.
+He knows of him.
+He made a deal with his father onc
 
 ## Chapter 2 : _
 
