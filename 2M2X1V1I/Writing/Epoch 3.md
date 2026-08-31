@@ -45,7 +45,7 @@ The kid who beat a king.
 The last thought Warnit will probably have.
 
 But then suddenly Sinco is struck from behind himself.
-His hair snaps black
+His hair suddenly snaps from a forest green to a depeblack
 
 ## Chapter 2 : _
 
