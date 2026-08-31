@@ -7,9 +7,8 @@ The speedster dodges once more as Warnit grabs his axe.
 Must be his name.
 Sinco jumps backwards.
 Lands.
+And stands primed for a fist fight.
 
-
-Sinco stands far, primed to begin a fist fight.
 Warnit stands tall.
 Sinco doesn't appear experienced in normal combat.
 Who needs to be when you can rapidly punch in the blink of an eye.
