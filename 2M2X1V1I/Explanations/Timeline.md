@@ -19,6 +19,10 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 
 A
 
+- 1 (?? 2029)
+- 2 (?? 2029)
+- 3 (?? 2029)
+- 4 (?? 2029)
 
 ## [[Epoch 4]] : Super
 
@@ -27,4 +31,4 @@ Loroc’s introduction into the story. Very different from OSA. Very deadset on 
 - A bird? (?? 2029)
 - The plane (?? 2029)
 - Super (?? 2029)
-- Loroc (?/ 2029)
+- Loroc (?? 2029)
