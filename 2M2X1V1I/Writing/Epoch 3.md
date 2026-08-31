@@ -226,7 +226,9 @@ And he shakes her hand.
 "The Knight Serviceman."
 ## Chapter 3 : A Risen Foundation
 
-Baron, Freefall Foundati
+Baron, The Freefall Foundation, November 2029
+
+It's been half a month since Wa
 ## Chapter 4 : _
 
 a
