@@ -8,7 +8,7 @@ Must be his name.
 Sinco speeds to a higher vantage point.
 And stands primed for a fist fight.
 
-Warnit stands tall.
+Warnit stands upright.
 Sinco doesn't appear experienced in normal combat.
 Who needs to be when you can rapidly punch in the blink of an eye.
 
@@ -17,7 +17,7 @@ Warnit is primed to strike as soon as Sinco gets close.
 Is he that smart?
 
 He is.
-Sinco disappears it seems 
+Sinco disappears it seems and re
 ## Chapter 2 : _
 
 ## Chapter 3 : _
