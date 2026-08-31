@@ -35,6 +35,11 @@ BOOM.
 
 Warnit is in the ground.
 
+As he gets back up.
+Blood dripping from his nose.
+Sinco stands above him.
+
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
