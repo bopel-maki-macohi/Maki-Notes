@@ -14,11 +14,11 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 - Colatin Theft (September 2029)
 - The Speed City (October  2029)
 - Speed vs Tactic (October 2029)
-## [[Epoch 3]] : Super
+## [[Epoch 4]] : Super
 
 Loroc’s introduction into the story. Very different from OSA. Very deadset on being a hero. Mute.
 
-- A bird? (September 2029)
+- A bird? (?? 2029)
 - The plane (September 2029)
-- Super (October 2029)
+- Super (?? 2029)
 - Loroc (October 2029)
