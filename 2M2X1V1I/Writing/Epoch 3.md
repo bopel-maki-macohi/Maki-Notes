@@ -115,7 +115,13 @@ The axe's lightning starts to dissipate.
 
 Tirok flings the axe away with the 2 fingers.
 
-"Or else I'll have to "
+"Or else I'll have to disable your most powerful weapon."
+"Permanently."
+
+Warnit stands there.
+Frozen.
+
+
 
 ## Chapter 2 : _
 
