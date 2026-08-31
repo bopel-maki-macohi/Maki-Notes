@@ -151,6 +151,9 @@ Sinco gets closer to the group.
 Sinco looks furious.
 Warnit turns, showing no care for what Sinco has to say.
 
+One of the freefall members.
+Woman with light brown long-ish hair.
+
 "Sinco calm down"
 
 ## Chapter 3 : _
