@@ -52,7 +52,7 @@ Adrenaline flowing through him.
 He calls his axe.
 It arrives in no time.
 
-The freefall
+The other freefall members have fallen
 
 ## Chapter 2 : _
 
