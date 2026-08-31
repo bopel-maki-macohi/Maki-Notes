@@ -186,6 +186,8 @@ He stands up and dusts himself off.
 
 "What is going on here?"
 
+Kijo looks
+
 ## Chapter 3 : _
 
 ## Chapter 4 : _
