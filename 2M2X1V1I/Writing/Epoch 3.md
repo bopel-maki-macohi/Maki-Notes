@@ -224,6 +224,8 @@ And he shakes her hand.
 
 "Warnit."
 "The Knight Serviceman."
-## Chapter 3 : 
+## Chapter 3 : A Risen Foundation
+
+
 
 ## Chapter 4 : _
