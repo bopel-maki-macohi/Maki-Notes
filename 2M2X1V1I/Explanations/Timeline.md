@@ -1,4 +1,4 @@
-## [[Epoch 1]] : Invoy
+# [[Epoch 1]] : Invoy
 
 Material for Ruse to study and manipulate as he creates his plan
 
@@ -6,7 +6,7 @@ Material for Ruse to study and manipulate as he creates his plan
 - Kaven Varlet (April 2029)
 - Power Jig (May 2029)
 - Mr. Ruse (August 2029)
-## [[Epoch 2]] : Ni Vohac
+# [[Epoch 2]] : Ni Vohac
 
 TKS being tricked to go to Tempo City and perform The Tempo Prison Break
 
@@ -38,11 +38,66 @@ Loroc (November 20th, 2029)
 
 The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
-The Knight Serviceman (November 19th, 2029)
-Where. Is. It? (November 20th, 2029)
-The Colatin Core (November 19th, 2029)
-Target Acquired (November 20th, 2029)
+The Knight Serviceman (November 2029)
 
+- Warnit is back in his king personality, feeling responsible
+    
+- All the Vohans are hospitalized
+    
+- All the STAR agents (proper reveal of them) are disposed of
+    
+- Osin is unconscious throughout
+    
+
+Where. Is. It? (November 2029)
+
+- Osin is captured again
+    
+- TKS and Kijo ask Osin questions about Yellow and Tirok’s plans
+    
+- Revealed that the attack was to retrieve the Colatin, which was transported away in the chaos
+    
+- TKS tells Osin to tell where Yellow has the Colatin
+    
+- Chapter ends with Osin's earpiece springing to life as he gets told something
+    
+
+The Colatin Core (November 2029)
+
+- During Chapter 1  
+    How the fuck do I convey this without just spelling it out...
+    
+- Lozen, Ruse’s destroyed base from Epoch 1
+    
+- Tirok has completed “The Colatin Core” for Yellow
+    
+- All it needs is a power source, a big one, but there's nothing that has enough power
+    
+- There’s someone, something though.
+    
+
+Target Acquired (November 2029)
+
+- During Chapter 2  
+    How the fuck do I convey this without just spelling it out...
+    
+- It’s a dark night
+    
+- A lightning storm has brewed
+    
+- Sinco has arrived at Freefall only to be captured
+    
+- Tirok relays it to Osin via his earpiece
+    
+- Tirok and Yellow return to Base
+    
+- Sinco is put onto The Colatin Core
+    
+- Tirok reactivates his powers
+    
+- Sinco, being pissed, suddenly starts turning golden with rage and fear
+    
+- The Colatin Core glows golden
 # [[Epoch 6]] : Master Ruse
 
 **The Machine (December 2029)**
