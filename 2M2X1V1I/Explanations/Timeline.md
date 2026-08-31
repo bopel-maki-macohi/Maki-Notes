@@ -30,7 +30,7 @@ Pitstop, let's work on another character : Loroc
 Also bring Lasha / Invoy back.
 
 - A bird? (October 2029)
-	
+	Lasha is out of Lozen, she is in 
 - The plane (October 2029)
 - Loroc (October 2029)
 - Super (October 2029)
