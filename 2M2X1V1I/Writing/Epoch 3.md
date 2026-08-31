@@ -218,9 +218,13 @@ Kijo reaches out a hand.
 "I'm Kijo. That was Sinco."
 
 Warnit pauses.
+Thinks.
 
 And he shakes her hand.
 
-## Chapter 3 : _
+"Warnit."
+"The Knight Serviceman."
+
+## Chapter 3 : 
 
 ## Chapter 4 : _
