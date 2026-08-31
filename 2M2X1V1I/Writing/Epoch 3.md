@@ -7,6 +7,8 @@ Must be his name.
 
 Sinco stands far, primed to begin a fist fight.
 Warnit stands tall.
+Sinco doesn't appear experienced in normal combat.
+Who
 Sinco can't proceed in melee
 ## Chapter 2 : _
 
