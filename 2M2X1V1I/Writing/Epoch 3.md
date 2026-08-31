@@ -38,7 +38,10 @@ Warnit is in the ground.
 As he gets back up.
 Blood dripping from his nose.
 Sinco stands above him.
+Imposing.
+The kid who beat a king.
 
+G
 
 ## Chapter 2 : _
 
