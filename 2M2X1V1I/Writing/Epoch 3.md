@@ -67,7 +67,7 @@ Warnit has a smile almost appear.
 But then he starts to look closer and starts recognizing the others with Tirok.
 
 One of them looks like Sinco...
-But scarlett red hair 
+But scarlett red hair that has 2 of his 4 maybe 5 spikes stand up tall like towers.
 
 ## Chapter 2 : _
 
