@@ -103,11 +103,10 @@ The lightning starts going into him...
 "Despite my respect for you and your people Mr. Serviceman."
 
 Warnit flinches slightly.
+The name feels weird after these last few days.
 
-
-"This man has saved me and has a plan that could get rid of that green one, permanently."
-
-
+"This man has saved me."
+"And has a plan that could get rid of that green onepermanently."
 
 ## Chapter 2 : _
 
