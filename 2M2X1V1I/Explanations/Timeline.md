@@ -17,7 +17,7 @@ Ruse tricking TKS to go to Tempo City and perform The Tempo Prison Break
 
 # [[Epoch 3]] : The Lie
 
-A
+Tirok and Osin are fre
 
 - 1 (?? 2029)
 - 2 (?? 2029)
