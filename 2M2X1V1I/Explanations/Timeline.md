@@ -31,7 +31,7 @@ Also bring Lasha / Invoy back.
 
 The Bird (November 2029)
 The plane (November 2029)
-The Super (November 19th, 2029)
+The Super (November 20th, 2029)
 Loroc (November 20th, 2029)
 
 # [[Epoch 5]] : Colatin
