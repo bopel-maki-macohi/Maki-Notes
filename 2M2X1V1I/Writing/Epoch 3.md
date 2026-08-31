@@ -140,7 +140,12 @@ Minutes passed.
 They've felt like hours.
 
 Sinco has gotten up.
-So have the Freefall member
+So have the Freefall members.
+
+Sinco approaches Warnit.
+
+"Greta"
+
 ## Chapter 3 : _
 
 ## Chapter 4 : _
