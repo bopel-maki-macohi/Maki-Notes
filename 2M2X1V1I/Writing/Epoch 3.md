@@ -79,7 +79,11 @@ What is going on here?
 "There are two more we must convince."
 
 Warnit could recognize that voice anytime.
-Anywhere.  
+Anywhere.
+That IS the man cloaked in yellow.
+
+Warnit 
+"YOU WILL GO NOWHERE."
 
 ## Chapter 2 : _
 
