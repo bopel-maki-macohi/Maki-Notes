@@ -24,8 +24,11 @@ Sent flying.
 Spinning.
 
 As Warnit's vision starts to reorient as he still is spinning off.
-He sees green lightning approching.
-Warnit blocks with his a
+He sees green lightning approaching.
+Warnit blocks with his axe.
+It is sent flying off.
+
+Warnit trys to call it back but he is struck d
 ## Chapter 2 : _
 
 ## Chapter 3 : _
