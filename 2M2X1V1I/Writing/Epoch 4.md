@@ -1,4 +1,3 @@
-
 ## Chapter 1 : A bird?
 
 ## Chapter 2 : The plane
