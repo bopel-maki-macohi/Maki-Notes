@@ -31,25 +31,13 @@ Pitstop, let's work on another character : Loroc Also bring Lasha / Invoy back.
 The bird (October 2029)
 	Lasha is out of Lozen, she is in Jur Vali, and then it starts getting attacked by Kaven (on a rampage looking for something to cure his condition) and saved by Loroc right as Lasha decides to be Invoy again
 
-  
-
 The plane (October 2029)
-
-  
-
-The TumUltimate News is posting on Loroc's appearance and Invoy is intrigued by him
-
-Niute feels neglected again
-
-  
+	The TumUltimate News is posting on Loroc's appearance and Invoy is intrigued by him
+	Niute feels neglected again
 
 The Super (October 2029)
 
-  
-
 After several more instances of Loroc appearing, Invoy and Niute (against his wants) have tracked him down
-
-  
 
 Loroc (October 2029)
 
