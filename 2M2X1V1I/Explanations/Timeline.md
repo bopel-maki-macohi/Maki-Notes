@@ -37,7 +37,7 @@ Also bring Lasha / Invoy back.
 	Niute feels neglected again
 
 - Loroc (October 2029)
-	
+	After several more sightings of Loroc, La
 
 - Super (October 2029)
 	
