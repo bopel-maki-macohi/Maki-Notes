@@ -178,7 +178,11 @@ Sinco's face starts filling with even more rage.
 Kijo repeats.
 "Please."
 
-Sinco begrudgingly listens and walks of
+Sinco begrudgingly listens and walks off.
+Can he not run anymore?
+
+Warnit can finally muster up thoughts again.
+
 
 ## Chapter 3 : _
 
