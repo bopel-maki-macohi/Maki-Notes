@@ -149,9 +149,11 @@ Sinco gets closer to the group.
 "You let Tirok and Osin get away."
 
 Sinco looks furious.
-Warnit turns, showing no care for what Sinco has 
+Warnit turns, showing no care for what Sinco has to say.
 
-"Sinco calm down, he's not from Baron he doesn't know what they've done?"
+"Sinco calm down"
+"He's "
+
 ## Chapter 3 : _
 
 ## Chapter 4 : _
