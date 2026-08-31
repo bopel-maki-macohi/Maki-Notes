@@ -29,8 +29,8 @@ Tirok and Osin are freed from their super prison, Freefall, Sinco, and Warnit ha
 Pitstop, let's work on another character : Loroc
 Also bring Lasha / Invoy back.
 
-The Bird (October 2029)
-The plane (October 2029)
+The Bird (November 2029)
+The plane (November 2029)
 The Super (November 2029)
 Loroc (November 2029)
 
