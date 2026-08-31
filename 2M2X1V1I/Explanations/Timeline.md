@@ -31,19 +31,14 @@ Also bring Lasha / Invoy back.
 
 The Bird (November 2029)
 The plane (November 2029)
-The Super (November 2029)
-Loroc (November 2029)
+The Super (November 19th, 2029)
+Loroc (November 20th, 2029)
 
 # [[Epoch 5]] : Colatin
 
 The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
 The Knight Serviceman (November 2029)
-- Warnit is back in his king personality, feeling responsible 
-- All the Vohans are hospitalized
-- All the STAR agents (proper reveal of them) are disposed of
-- Osin is unconscious throughout
-
 Where. Is. It? (November 2029)
 - Osin is captured again
 - TKS and Kijo ask Osin questions about Yellow and Tirok’s plans
