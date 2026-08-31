@@ -270,4 +270,6 @@ Kijo's hands start morphing as she jumps up.
 One of them forms a sword.
 The other an axe.
 
-She slices a soldier.
+She slices a soldier with the sword.
+Her axe hand embeds itself in another solider.
+She spins 
