@@ -134,7 +134,7 @@ Then falls to the floor.
 Sitting.
 Confused.
 
-## Chapter 2 : Exposition
+## Chapter 2 : What?
 
 Minutes passed.
 They've felt like hours.
@@ -207,13 +207,13 @@ She doesn't continue however.
 "Well I apologize then."
 
 "I myself have been experiencing a high about of stress as well."
-"So there's at least something we have in common there."
+"So there's at least something we both have in common there."
 
 Kijo chuckles.
 
 "I guess so."
 
-
+Kijo reaches out a hand for 
 
 ## Chapter 3 : _
 
