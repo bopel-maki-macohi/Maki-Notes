@@ -224,7 +224,7 @@ And he shakes her hand.
 
 "Warnit."
 "The Knight Serviceman."
-## Chapter 3 : A Risen Foundation
+## Chapter 3 : Rise Only To Fall
 
 Baron, The Freefall Foundation, November 2029
 
