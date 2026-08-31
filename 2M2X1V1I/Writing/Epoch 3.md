@@ -76,7 +76,9 @@ The man cloaked in yellow.
 What is going on here?
 
 "Come along."
-"There is one more we must convince"
+"There are two more we must convince."
+
+Warnit could regog
 
 ## Chapter 2 : _
 
