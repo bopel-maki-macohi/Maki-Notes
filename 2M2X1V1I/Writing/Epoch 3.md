@@ -78,7 +78,8 @@ What is going on here?
 "Come along."
 "There are two more we must convince."
 
-Warnit could regog
+Warnit could recognize that voice anytime.
+Anywhere.  
 
 ## Chapter 2 : _
 
