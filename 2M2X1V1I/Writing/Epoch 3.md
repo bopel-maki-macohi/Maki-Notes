@@ -272,4 +272,6 @@ The other an axe.
 
 She slices a soldier with the sword.
 Her axe hand embeds itself in another solider.
-She spins 
+She spins her and the soldier around and tosses him towards another.
+
+Warnit 
