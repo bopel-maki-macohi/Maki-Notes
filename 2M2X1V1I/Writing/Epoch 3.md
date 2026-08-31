@@ -266,4 +266,8 @@ It enters the area.
 Hitting Osin on the way.
 Knocking him away.
 
-Kijo's ha
+Kijo's hands start morphing as she jumps up.
+One of them forms a sword.
+The other an axe.
+
+She slices a soldier.
