@@ -126,7 +126,8 @@ Tirok's eyes glow a lime green right before he closes them.
 "Chaos Control."
 
 A light the same color as Tirok's eyes were emits brightly.
-In seconds 
+In seconds it's gone.
+And so are Tirok, The man in 
 
 ## Chapter 2 : _
 
