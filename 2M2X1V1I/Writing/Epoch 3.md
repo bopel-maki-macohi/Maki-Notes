@@ -140,7 +140,7 @@ Minutes passed.
 They've felt like hours.
 
 Sinco has gotten up.
-So have the Freefall members.
+So has one of the Freefall members.
 
 Sinco gets closer to the group.
 
@@ -206,8 +206,10 @@ She doesn't continue however.
 "I see."
 "Well I apologize then."
 
-"I myself have been experiencing a high about of stress aswell."
-"S"
+"I myself have been experiencing a high about of stress as well."
+"So there's at least something we have in common there."
+
+"I guess."
 
 ## Chapter 3 : _
 
