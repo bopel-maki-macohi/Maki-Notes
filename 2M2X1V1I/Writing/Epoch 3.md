@@ -279,4 +279,8 @@ Winding up his axe.
 And prepares to strike it down.
 But Warnit is struck instead.
 
-Red Lightn
+Red Lightning.
+
+Osin.
+
+He has jumped towards Warnit and 
