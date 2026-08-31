@@ -18,7 +18,9 @@ Is he that dumb?
 
 No.
 Sinco disappears.
-Warnit is striked from the back
+Warnit is struck in the back.
+Sent flying.
+
 ## Chapter 2 : _
 
 ## Chapter 3 : _
