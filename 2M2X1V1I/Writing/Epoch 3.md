@@ -142,9 +142,10 @@ They've felt like hours.
 Sinco has gotten up.
 So have the Freefall members.
 
-Sinco approaches Warnit.
+Sinco gets closer to the group.
 
-"Greta"
+"Great."
+"Not only have you destroyed the prison."
 
 ## Chapter 3 : _
 
