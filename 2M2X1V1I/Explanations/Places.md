@@ -15,7 +15,7 @@ Home of Loroc
 Location of the newspaper publication : The Tumultimate News
 # Ni Vohac
 
-Kingdom of Warnit / The Knight Serviceman
+
 # Jur Valia Ontel
 
 Name is old and ancient but stuck  
