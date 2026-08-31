@@ -48,7 +48,9 @@ But then suddenly Sinco is struck from behind himself.
 His hair suddenly snaps from a forest green to a deep dark blue-ish black.
 He flies off.
 The impact of the blow jolts Warnit up.
-Andre
+Adrenaline flowing through him.
+He calls his axe.
+It arrives in no time.
 
 ## Chapter 2 : _
 
