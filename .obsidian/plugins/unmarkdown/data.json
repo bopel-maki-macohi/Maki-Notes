@@ -1,0 +1,19 @@
+{
+  "accessToken": "",
+  "refreshToken": "",
+  "tokenExpiresAt": 0,
+  "scope": "",
+  "pendingOAuthVerifier": "3N6xEejDows-b_qVYsiuDuLNhnQ4okRGkyRZt6GVX5c",
+  "pendingOAuthState": "SjZHFlao3G6LZYix0-vKrw",
+  "cachedEmail": "",
+  "cachedTier": "",
+  "cachedUsage": 0,
+  "cachedLimit": 0,
+  "lastUsageFetch": 0,
+  "defaultDestination": "google-docs",
+  "defaultTemplate": "swiss",
+  "defaultVisibility": "link",
+  "showRibbonIcon": true,
+  "showStatusBar": true,
+  "notificationLevel": "always"
+}
