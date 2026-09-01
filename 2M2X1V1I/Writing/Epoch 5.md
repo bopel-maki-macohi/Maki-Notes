@@ -118,7 +118,7 @@ Osin stops laughing, he gets comfortable.
 “Fuckin’ sucks.”
 "Now I'm just here as an assistant."
 "Especially cause dad... Tirok was always in a battle with multiple people ever since I was born."
-"I was a precautionary measure at birth, and i"
+"I was a precautionary measure at birth, and it seems that's how I'm gonna die lol."
 
 Warnit smirks.  
 “Look at you in the mood to talk.”  
