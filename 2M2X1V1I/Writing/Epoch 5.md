@@ -274,7 +274,7 @@ The machine starts emitting sounds, something’s moving, and it’s getting fas
 “Back in what was it?”  
 “2026?”
 
-Tirok chuckles “Oh how the time flies… Osin was fresh out of the cloning ”
+Tirok chuckles “Oh how the time flies… Osin was fresh out of the cloning machine at the time, how he's grown”
 
 Sinco confusingly replies “If I do?”
 
