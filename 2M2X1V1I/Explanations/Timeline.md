@@ -44,13 +44,3 @@ The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
 # [[Epoch 6]] : Master Ruse
 
-**The Machine (December 2029)**
-- The Earth shakes and start to fall apart cause of The Colatin Core
-- Yellow proceeds to receive a massive amount of power from the machine
-- Tirok is betrayed and knocked out before he can do anything
-
-**Master Ruse (December 2029)**
-
-**The Fallen Free (December 2029)**
-
-**Doomsday (December 2029)**
