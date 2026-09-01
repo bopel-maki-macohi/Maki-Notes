@@ -41,10 +41,6 @@ The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 The Knight Serviceman (November 2029)
 Where. Is. It? (November 20th, 2029)
 The Colatin Core (November 19th, 2029)
-- Tirok has completed “The Colatin Core” for Yellow
-- All it needs is a power source, a big one, but there's nothing that has enough power
-- There’s someone, something though.
-
 Target Acquired (November 20th, 2029)
 - During Chapter 2  
 - It’s a dark night
