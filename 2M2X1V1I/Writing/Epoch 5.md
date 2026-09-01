@@ -242,7 +242,7 @@ Baron, The ruins of The Freefall Foundation, November 20th, 2029
 
 The sky is covered by clouds, big thick and dark clouds. Not a single bit of actual sky could penetrate them even by the tiniest bit. Lightning emerges from the sky every now and again, it beats the wind.
 
-Sinco has finally made it to freefall, the walk was torture for him, atleast he had Kijo to text once the rain cleared up, as Sinco looks up, he sees Tirok and Yellow, he panics. Looking around he can see everyone else at Freefall is unconscious.
+Sinco has finally made it to freefall, the walk was torture for him, at least he had Kijo to text once the rain cleared up, as Sinco looks up, he sees Tirok and Yellow, he panics. Looking around he can see everyone else at Freefall is unconscious.
 
 Yellow pulls out a rope. Sinco begins to try and run, texting Kijo that Tirok and The Yellow Cloaked Dude are at Freefall, he’s about to add more details when he is grabbed by the rope wrapping around his neck, he’s choking but manages to send his rushed message.
 
