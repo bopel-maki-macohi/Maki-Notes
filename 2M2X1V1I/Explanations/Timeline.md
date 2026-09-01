@@ -33,4 +33,5 @@
 	- A battle is about to begin
 
 - A Chaotic Battle
-	- 
+	- A battle
+	- Warnit, Kijo, Loroc, and Invoy vs Mr. Ruse / Yellow, Tirok,
