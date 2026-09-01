@@ -44,6 +44,6 @@ The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
 # [[Epoch 6]] : Master Ruse
 
-- Earth starts to 
-- Warnit, Kijo, 
+- Earth starts to fall apart.
+- Warnit, Kijo, Loroc, and Invoy
 - The Colatin Core gives Yellow ultimate power
