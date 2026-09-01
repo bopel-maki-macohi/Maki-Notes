@@ -298,9 +298,9 @@ He starts to move back to the computer.
 
 Sinco’s face contorts in fear as Tirok clicks a button on the computer.
 
-Sinco is suddenly hit with a massive amount of chaos energy, screaming, his bright green hair, only having lasted for minutes, changing to a golden yellow, his eyes turning a bright red, his teeth sharpening into those of a canine. His screams start to contort into a maniacal laugher that quickly turns back to a scream, an agonizing scream, as though he were being skinned alive.
+Sinco is suddenly hit with a massive amount of chaos energy, screaming, his bright green hair, only having lasted for minutes, changing to a golden yellow, his eyes turning a bright red, his teeth sharpening into those of a canine. His screams start to contort into a maniacal laugher that quickly turns back to a scream as the demon inside Sinco, , an agonizing scream, as though he were being skinned alive.
 
-A massive amount of golden energy with green electricity circling it channels around Sinco, no, Chaos now.
+A massive amount of golden energy with green electricity circling it channels around Chaos.
 
 Tirok clicks another button and a giant earthquake happens as the energy shoots into the sky all at once, causing a sound like thunder, but it sounds just… Different.
 
