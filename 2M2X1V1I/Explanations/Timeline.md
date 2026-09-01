@@ -30,8 +30,9 @@
 - The Ultimate Power (November 20th, 2029)
 	- The Colatin Core gives Yellow ultimate power
 	- Rie arrives in Lozen
+	- Yellow reveals he's Mr Ruse
 	- A battle is about to begin
 
 - A Chaotic Battle
 	- A battle
-	- Warnit, Kijo, Loroc, and Invoy vs Mr. Ruse / Yellow, Tirok,
+	- Warnit, Kijo, Loroc, and Invoy vs Mr. Ruse / Yellow, Tirok, and Rie
