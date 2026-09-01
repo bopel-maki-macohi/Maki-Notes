@@ -235,7 +235,7 @@ Tirok starts pacing as he thinks.
 As Tirok’s movement settles and he stops pacing, he smirks.
 
 “And considering Osin and our buddies at STAR made a scene at Freefall”  
-“I’m sure he’s on his way.”  
+“I’m sure Sinco's on his way.”  
 “Right into our hands.”
 
 # Chapter 20 : Target Acquired
