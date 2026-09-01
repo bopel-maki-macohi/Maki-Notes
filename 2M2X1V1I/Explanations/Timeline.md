@@ -45,5 +45,5 @@ Target Acquired (November 20th, 2029)
 # [[Epoch 6]] : Master Ruse
 
 - Earth starts to fall apart.
-- Warnit, Kijo, Loroc, and Invoy
+- Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
 - The Colatin Core gives Yellow ultimate power
