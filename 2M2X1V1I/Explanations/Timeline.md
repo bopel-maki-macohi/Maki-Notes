@@ -43,6 +43,7 @@ Where. Is. It? (November 20th, 2029)
 The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
 # [[Epoch 6]] : Master Ruse
+
 The Fallen Earth (November 21st, 2029)
 - Earth starts to fall apart.
 - Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
