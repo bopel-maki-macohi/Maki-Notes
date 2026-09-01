@@ -48,4 +48,6 @@ Target Acquired (November 20th, 2029)
 - Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
 - The Colatin Core gives Yellow ultimate power
 - Rie arrives in Lozen
+- 
 - A battle is about to begin
+
