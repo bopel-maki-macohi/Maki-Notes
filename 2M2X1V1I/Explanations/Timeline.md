@@ -15,26 +15,20 @@
 - Red Light (November 2029)
 - Red Star Rush (November 2029)
 
-
 - The Bird (November 2029)
 - The plane (November 2029)
-0 The Super (November 20th, 2029)
-Loroc (November 20th, 2029)
+- The Super (November 20th, 2029)
+- Loroc (November 20th, 2029)
 
-# [[Epoch 5]] : Colatin
+- The Knight Serviceman (November 2029)
+- Where. Is. It? (November 20th, 2029)
+- The Colatin Core (November 19th, 2029)
+- Target Acquired (November 20th, 2029)
 
-The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
-
-The Knight Serviceman (November 2029)
-Where. Is. It? (November 20th, 2029)
-The Colatin Core (November 19th, 2029)
-Target Acquired (November 20th, 2029)
-# [[Epoch 6]] : Master Ruse
-
-The Fallen Earth (November 21st, 2029)
-- Earth starts to fall apart.
+- The Fallen Earth (November 21st, 2029)
+Earth starts to fall apart.
 - Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
-The Ultimate Power (November 21st, 2029)
+- The Ultimate Power (November 21st, 2029)
 - The Colatin Core gives Yellow ultimate power
 - Rie arrives in Lozen
 - A battle is about to begin
