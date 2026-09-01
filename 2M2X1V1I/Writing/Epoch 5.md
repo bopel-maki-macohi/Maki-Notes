@@ -117,7 +117,8 @@ Osin stops laughing, he gets comfortable.
 "But yeah ever since then he’s always been better.”  
 “Fuckin’ sucks.”
 "Now I'm just here as an assistant."
-"Especially cause dad... Tirok was always in a battle "
+"Especially cause dad... Tirok was always in a battle with multiple people ever since I was born."
+"I was a precautionary measure at birth, and i"
 
 Warnit smirks.  
 “Look at you in the mood to talk.”  
