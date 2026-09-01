@@ -9,7 +9,6 @@
 - Colatin Theft (September 2029)
 - The Speed City (October  2029)
 - Speed vs Tactic (October 2029)
-
 - Chaos Control (October 2029)
 - What? (October 2029)
 - Red Light (November 2029)
