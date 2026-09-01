@@ -61,7 +61,7 @@ Two weeks ago, a giant water monster.
 Last week, a giant fire monster.  
 But a constant is this person, Power Jig.
 
-Lasha has been investigating this “superhero” ever since last week.  
+Lasha has been investigating this "superhero" ever since last week.  
 Every bit of footage on the events has been scrolled through and analyzed.  
 The areas of attack have been analyzed.  
 There’s no evidence of them ever being there at all.  
@@ -94,7 +94,7 @@ But the machine needs to lock onto the dispersed hologram waves to even begin.
 Lasha accepts the challenge. Niute doesn’t really like that.
 
 Invoy arrives. Holding a machine.  
-Invoy is “attacked” by the monster.  
+Invoy is "attacked" by the monster.  
 Invoy weaves and dodges, getting closer and closer to the monster.  
 Invoy leaps a large gap.  
 Holding out the machine.  
@@ -115,7 +115,7 @@ Grabbed by Invoy on a building below.
 Lozen, August 2029
 
 A message was left out.  
-For “The Invoy”.  
+For "The Invoy".  
 2 months ago.  
 On walls.  
 Buildings.  
@@ -279,7 +279,7 @@ But it’s been a few days.
 The machine could be long gone.  
 TKS’s resolve is dying.
 
-He’s taken the alias of “Warnit” in this place.  
+He’s taken the alias of "Warnit" in this place.  
 It’s his old name from before he was The Knight Serviceman.  
 Hearing it feels wrong nowadays.  
 It’s like calling a parent by their actual name. 
@@ -343,13 +343,13 @@ The speedster phases again.
 But Warnit calls the axe back.  
 One of the Freefall members screams out warning the speedster.
 
-“SINCO!”
+"SINCO!"
 
 # Chapter 9 : Chaos Control
 
 Baron, The Freefall Foundation, October 2029
 
-“SINCO!”
+"SINCO!"
 
 The speedster dodges once more as Warnit grabs his axe.
 Must be his name.
@@ -663,7 +663,7 @@ Niute and Lasha. They’re enjoying themselves in the Jur Vali east half of Jur 
 
 But not all good things can last.
 
-There’s an attack on Jur Vali. Coming from Lozen, bulldozing through Jur Vali. It's Kaven Varlet, The Strong Man from April, he looks poisoned, veins and skin turning green, maybe that’s why he’s doing this. He screams saying he’s looking for a “Lex Breaker”, asking where he is.
+There’s an attack on Jur Vali. Coming from Lozen, bulldozing through Jur Vali. It's Kaven Varlet, The Strong Man from April, he looks poisoned, veins and skin turning green, maybe that’s why he’s doing this. He screams saying he’s looking for a "Lex Breaker", asking where he is.
 
 Who the hell is that?
 
@@ -673,21 +673,21 @@ Niute says she shouldn't.
 
 Lasha pleads.
 
-“But what about the people?”
+"But what about the people?"
 
 Niute shouted.
 
-“FUCK THE PEOPLE.”
+"FUCK THE PEOPLE."
 
 Lasha flinches.
 
 Niute proceeds.
 
-“Everytime you go out as Invoy I get left behind and end up just The Inventor making your weapons.”  
-“It’s also dangerous as hell! What if those giant hologram monsters weren’t holograms?”  
-“You’d need hundreds of restraints to deal with them!”  
-“I get not a lick of credit, and my wife is in potential danger that could get her killed.”  
-“You’re trying to be this tough hero, but then you're also trying to be my partner, try to live a normal life.”
+"Everytime you go out as Invoy I get left behind and end up just The Inventor making your weapons."  
+"It’s also dangerous as hell! What if those giant hologram monsters weren’t holograms?"  
+"You’d need hundreds of restraints to deal with them!"  
+"I get not a lick of credit, and my wife is in potential danger that could get her killed."  
+"You’re trying to be this tough hero, but then you're also trying to be my partner, try to live a normal life."
 
 Niute takes a couple seconds.
 
@@ -698,16 +698,16 @@ And out.
 His voice is now more concerned but still that bit of anger.  
 He’s never been this mad before, for this long…
 
-“Boy, girl, non-binary, whatever you wanna be.”  
-“It doesn’t work.”  
-“And I’m tired of trying to pretend it can, or that it does.”
+"Boy, girl, non-binary, whatever you wanna be."  
+"It doesn’t work."  
+"And I’m tired of trying to pretend it can, or that it does."
 
 Lasha and Niute pauses.
 
 Lasha begins.
 
-“Sorry.”  
-“I just…”
+"Sorry."  
+"I just…"
 
 But then she’s interrupted by an explosion caused by Kaven, buildings are collapsing, stores are being crushed, someone has to do something but what could the cops do?
 
@@ -717,11 +717,11 @@ But then suddenly, a blue blur zoomed by the window towards him and he started s
 
 Lasha looks out the window, he’s gone…
 
-“What?”
+"What?"
 
 Suddenly the blue blur returns, zipping back to where they came.
 
-“What??”
+"What??"
 
 # Chapter 14 : The Plane
 
@@ -742,7 +742,7 @@ Now the question, how to get in contact with it?
 
 Jur Vali, Morln, November 20th, 2029
 
-“The Super” is the name the Morln news has given the blue blur. But what is its actual name? Super doesn’t feel right for it. Isn’t that a taken name anyway? Lasha internally swears she’s heard it before, referring to some dude in Baron.
+"The Super" is the name the Morln news has given the blue blur. But what is its actual name? Super doesn’t feel right for it. Isn’t that a taken name anyway? Lasha internally swears she’s heard it before, referring to some dude in Baron.
 
 Nevermind that.
 
@@ -762,7 +762,7 @@ Hours have probably passed. Lasha’s almost fallen asleep several times. It’s
 
 This was a bad idea.
 
-“I’m so tired…”
+"I’m so tired…"
 
 That’s all Lasha can think of. Before she starts to fall.
 
@@ -802,27 +802,27 @@ Lasha hesitates but waves back.
 
 Lasha realizes how close he is.
 
-“Could you… move a little less close to me?”
+"Could you… move a little less close to me?"
 
 He does so and scoots away enough for Lasha to stand, which Lasha does.
 
-“Who are you?”
+"Who are you?"
 
-The man speeds away and brings back a whiteboard, it has “Loroc” written on it.
+The man speeds away and brings back a whiteboard, it has "Loroc" written on it.
 
 Why isn’t he just saying that?
 
-“Why are you so silent?”
+"Why are you so silent?"
 
-The “Loroc” on the whiteboard disappears and Loroc has changed the writing to “Mute”.
+The "Loroc" on the whiteboard disappears and Loroc has changed the writing to "Mute".
 
-“Why?”
+"Why?"
 
 Loroc points out the window, zooming outside where Lasha can see her outside the window, Lasha looks, Loroc opens his mouth, facing away, then all of a sudden lava pours out of his mouth.
 
 Oh, no wonder he did it outside.
 
-“Uhm… Okay, what… where…”
+"Uhm… Okay, what… where…"
 
 Lasha doesn’t know what to say, it’s not everyday you get to meet a person and it turns out they have god damn super powers, Lasha recollects her thoughts and was about to continue the conversation, Loroc seems to be looking somewhere.
 
@@ -834,7 +834,7 @@ Lasha sticks her head out the window, looking towards where Loroc is looking.
 
 There’s a beam in the sky. A gold beam with green electricity circling it.
 
-“Wanna go check that out?”
+"Wanna go check that out?"
 
 Loroc looks over at Lasha, who is smiling.
 
@@ -876,7 +876,7 @@ AGAIN.
 
 AGAIN.
 
-“WARNIT!”
+"WARNIT!"
 
 TKS flinches, about to perform another strike.
 
@@ -884,15 +884,15 @@ The weather’s too disturbed to stop.
 
 Kijo came up to him, her phone now embedded in her hand to protect it.
 
-“Calm down, please.”
+"Calm down, please."
 
-“I know who their boss is.”
+"I know who their boss is."
 
-“We will eventually go after him and get revenge on him.”
+"We will eventually go after him and get revenge on him."
 
-“Please Warnit.”
+"Please Warnit."
 
-“The last thing this team needs is another person that’s easily prone to anger.”
+"The last thing this team needs is another person that’s easily prone to anger."
 
 Kijo starts to mutter about Sinco’s situation being different to Warnit’s.
 
@@ -918,91 +918,91 @@ Across from him standing and sitting on a moving platform, Warnit and Kijo. Warn
 
 Warnit begins to speak.
 
-“The weather got a bit bad so don’t mind the change in scenery.”  
-“You’re familiar with the place anyway, right? So you should be fine.”
+"The weather got a bit bad so don’t mind the change in scenery."  
+"You’re familiar with the place anyway, right? So you should be fine."
 
 Osin sits in the box, crossed arms like a kid about to start having a tantrum.
 
-“Oh yeah sure, wasted like 1 to 2 years of my life here, it’s practically home now.”
+"Oh yeah sure, wasted like 1 to 2 years of my life here, it’s practically home now."
 
 Warnit waves his hand, signalling Osin to shut up.
 
-“Never mind that.”  
-“There are some questions we want answers to.”  
-“And you have the answers.”
+"Never mind that."  
+"There are some questions we want answers to."  
+"And you have the answers."
 
 Osin’s face smirks.
 
-“And I’ll answer them why?”
+"And I’ll answer them why?"
 
 Warnit starts pacing the platform.
 
-“Well considering your allies are off doing lord knows what, I’m sure your plan is going well.”
+"Well considering your allies are off doing lord knows what, I’m sure your plan is going well."
 
 Osin frowns, he begins to think, he feels his ear, feels something in it, applies pressure to it, and smirks again.
 
 On the platform Warnit moves to be closer to the box.
 
-“Here’s a quick one, a nice little ease into it.”  
-“Are you a Sinco clone?”
+"Here’s a quick one, a nice little ease into it."  
+"Are you a Sinco clone?"
 
 Osin’s smirky face turns into a face filled with confusion, Kijo actually reciprocates and stares at Warnit, very confused.
 
 Warnit notices Kijo’s look, and feels slightly embarrassed
 
-“What? He looks like him.”  
-“You can’t blame me for wanting to know.”
+"What? He looks like him."  
+"You can’t blame me for wanting to know."
 
 Osin starts laughing.  
-“I’m a clone of Sinco, yeah.”
+"I’m a clone of Sinco, yeah."
 
 Kijo looks back at her phone, having gotten a notification.
 
 Osin stops laughing, he gets comfortable.  
-“I’m actually supposed to be BETTER than that shithead, but ever since he got possessed by that damn, I don’t even know what it's name was."
-"But yeah ever since then he’s always been better.”  
-“Fuckin’ sucks.”
+"I’m actually supposed to be BETTER than that shithead, but ever since he got possessed by that damn, I don’t even know what it's name was."
+"But yeah ever since then he’s always been better."  
+"Fuckin’ sucks."
 "Now I'm just here as an assistant."
 "Especially cause dad... Tirok was always in a battle with multiple people ever since I was born."
 "I was a precautionary measure at birth, and it seems that's how I'm gonna die lol."
 
 Warnit smirks.  
-“Look at you in the mood to talk.”  
-“Are you ready to start answering the serious questions?”
+"Look at you in the mood to talk."  
+"Are you ready to start answering the serious questions?"
 
-Osin looks at Warnit with a face of just “really?”
+Osin looks at Warnit with a face of just "really?"
 
 Osin smirks again.
 
-“Y’know what, I’ll give you a maybe on that.”
+"Y’know what, I’ll give you a maybe on that."
 
 Warnit’s face turns serious.
 
-“Where’s the Colatin?”
+"Where’s the Colatin?"
 
 Osin’s look confused
 
-“What?”
+"What?"
 
 Warnit moves the platform closer to the box
 
-“Where is the Colatin?”
+"Where is the Colatin?"
 
 Kijo takes a glance at Warnit, confused.
 
 Osin stands up, going towards the box's wall.
 
-“What??”
+"What??"
 
 The platform is moved.
 
 Closer.
 
-“Where.”
+"Where."
 
 Electricity starts to circle Warnit’s Axe.
 
-“IS IT.”
+"IS IT."
 
 Suddenly a sound.
 
@@ -1021,11 +1021,11 @@ Kijo stands up, and then gets a notification, she starts reading.
 Kijo starts panicking.  
 Osin smiles. Again.
 
-“I moved it from a special spot in Freefall to Lozen during our little conflict.”
+"I moved it from a special spot in Freefall to Lozen during our little conflict."
 
 Warnit looks pissed.
 
-“And I recommend that you hurry.”
+"And I recommend that you hurry."
 
 Osin starts laughing.  
 A maniacal laughter.
@@ -1046,46 +1046,46 @@ Tirok is working on a machine. It’s embedded into the wall, a large round meta
 
 Behind him is The Yellow Cloaked Man, sitting in a chair. Waiting.
 
-“If you don’t mind me asking.” Tirok begins.  
-“What is this place?”  
-“It’s been awhile and I haven’t even asked.“
+"If you don’t mind me asking." Tirok begins.  
+"What is this place?"  
+"It’s been awhile and I haven’t even asked."
 
-“It’s fine.” The Man In The Yellow Cloak responded.
+"It’s fine." The Man In The Yellow Cloak responded.
 
-“This is an old outpost.”  
-“Old base.”  
-“I see.” Tirok replies.
+"This is an old outpost."  
+"Old base."  
+"I see." Tirok replies.
 
 Tirok stands up, finished.
 
-“The machine's done, to almost your exact specifications besides some minor tweaks."
-"We just need a power source now.”  
-“The Colatin used for the shell of it works for that right?”
+"The machine's done, to almost your exact specifications besides some minor tweaks."
+"We just need a power source now."  
+"The Colatin used for the shell of it works for that right?"
 
 Yellow looks up and begins to speak.
 
-“No.”
-“The Colatin won’t generate the electricity itself.”
+"No."
+"The Colatin won’t generate the electricity itself."
 
-Tirok looks confused and asks “How does it work then?”
+Tirok looks confused and asks "How does it work then?"
 
-Yellow stands up and replies “It just acts as a lightning rod and can also take a small amount of electricity, or any energy really, and use it endlessly.”
+Yellow stands up and replies "It just acts as a lightning rod and can also take a small amount of electricity, or any energy really, and use it endlessly."
 
 Yellow continues.
 
-“The Knight Serviceman has an Enchanted Colatin Axe, and enchanting is a lost art.”  
-“No one knows how to do it anymore.”  
-“No one that’s publicly known anyway.”
+"The Knight Serviceman has an Enchanted Colatin Axe, and enchanting is a lost art."  
+"No one knows how to do it anymore."  
+"No one that’s publicly known anyway."
 
 Tirok starts pacing as he thinks.
 
-“I’ve got an idea on a power source.”
+"I’ve got an idea on a power source."
 
 As Tirok’s movement settles and he stops pacing, he smirks.
 
-“And considering Osin and our buddies at STAR made a scene at Freefall”  
-“I’m sure Sinco's on his way.”  
-“Right into our hands.”
+"And considering Osin and our buddies at STAR made a scene at Freefall"  
+"I’m sure Sinco's on his way."  
+"Right into our hands."
 
 # Chapter 20 : Target Acquired
 
@@ -1099,7 +1099,7 @@ Yellow pulls out a rope. Sinco begins to try and run, texting Kijo that Tirok an
 
 Sinco is dragged over using the rope, Tirok’s speaking to someone, he’s tapping something in his ear.
 
-“Okay yeah we got him now.”
+"Okay yeah we got him now."
 
 Tirok takes his hand off his ear and activates a device on his wrist that Sinco is all too familiar with, Sinco tries to break free as much as he can but it’s too late.
 
@@ -1107,43 +1107,43 @@ Sinco blinks and now is somewhere else, destroyed… something. He’s shackled,
 
 Sinco begins some banter, smirking while he does so.
 
-“You must be dumb, I know how to phase with my speed now, you know that right?”
+"You must be dumb, I know how to phase with my speed now, you know that right?"
 
 Tirok turns to face Sinco.
 
-“Oh I know that, you lime pain in the ass.”
+"Oh I know that, you lime pain in the ass."
 
-“But you’re dumb enough to think I wasn’t anticipating you’d be dumb enough not to do it immediately."
+"But you’re dumb enough to think I wasn’t anticipating you’d be dumb enough not to do it immediately."
 
 Tirok clicks something on the computer and moves in front of the machine Sinco is shackled in.
 
 The machine starts emitting sounds, something’s moving, and it’s getting faster and faster. Sinco starts panicking, he’s about to phase out but Tirok starts talking and he can’t help himself but to listen.
 
-“Do you remember back when you foiled my plans with the Chaos Emerald?”  
-“Back in what was it?”  
-“2026?”
+"Do you remember back when you foiled my plans with the Chaos Emerald?"  
+"Back in what was it?"  
+"2026?"
 
-Tirok chuckles “Oh how the time flies… Osin was fresh out of the cloning machine at the time, how he's grown into such a valuable asset.”
+Tirok chuckles "Oh how the time flies… Osin was fresh out of the cloning machine at the time, how he's grown into such a valuable asset."
 
-Sinco confusingly replies “If I do remember? When you still able to fuck around with chaos energy?”
+Sinco confusingly replies "If I do remember? When you still able to fuck around with chaos energy?"
 
 Tirok continues.
 
-“The entity from all that energy inside that you absorbed unintentionally. Chaos.”  
-“He… It. Is pure chaos energy.”
+"The entity from all that energy inside that you absorbed unintentionally. Chaos."  
+"He… It. Is pure chaos energy."
 
 Sinco mutters something unintelligible and Tirok continues.
 
-“As you know, when you’re angry or upset it tends to come out, it fuels itself off your rage that it itself brings out in you.”  
-“But you wanna know another way to bring it out?”
+"As you know, when you’re angry or upset it tends to come out, it fuels itself off your rage that it itself brings out in you."  
+"But you wanna know another way to bring it out?"
 
-Sinco replies “No.”
+Sinco replies "No."
 
-Tirok proceeds with “You’re captive. You don’t get a choice.”  
+Tirok proceeds with "You’re captive. You don’t get a choice."  
 He starts to move back to the computer.
 
-“Anyway, another way is through that energy itself.”  
-“And as you know, I gained the power of controlling Chaos Energy itself.”
+"Anyway, another way is through that energy itself."  
+"And as you know, I gained the power of controlling Chaos Energy itself."
 
 Sinco’s face contorts in fear as he begins to try to escape.
 Tirok continues his monologue.
