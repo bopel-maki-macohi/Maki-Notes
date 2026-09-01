@@ -44,12 +44,12 @@ The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
 # [[Epoch 6]] : Master Ruse
 
-- Earth starts to fall apart.
-- Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
 - The Colatin Core gives Yellow ultimate power
 - Rie arrives in Lozen
 - 
 - A battle is about to begin
 
 The Fallen Earth (November 21st, 2029)
-- 
+- Earth starts to fall apart.
+- Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
+The Ultimate Power (November 21st, 2029)
