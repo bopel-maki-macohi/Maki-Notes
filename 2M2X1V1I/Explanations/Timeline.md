@@ -47,4 +47,5 @@ Target Acquired (November 20th, 2029)
 - Earth starts to fall apart.
 - Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
 - The Colatin Core gives Yellow ultimate power
-- Rie arrives in Lozen and gets his powers back
+- Rie arrives in Lozen
+- 
