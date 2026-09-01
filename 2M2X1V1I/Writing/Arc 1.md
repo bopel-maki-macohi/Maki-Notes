@@ -1073,7 +1073,10 @@ Yellow stands up and replies "It just acts as a lightning rod and can also take 
 
 Yellow continues.
 
-"The Knight Serviceman has an Enchanted Colatin Axe, and enchanting is a lost art."  
+"The Knight Serviceman has an Enchanted Colatin Axe, and enchanting is a lost art."
+
+Tirok looks at the hand he used to stop Warnit's Axe, confused.
+
 "No one knows how to do it anymore."  
 "No one that’s publicly known anyway."
 
