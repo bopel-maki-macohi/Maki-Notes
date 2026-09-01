@@ -858,7 +858,7 @@ TKS charges a blast, electricity starts to circle his axe, and quickly fires a b
 
 TKS has questions for him.
 
-Kijo, in the background, is calling all of the freefall members, tomorrow’s gonna be a lot more work probably, she calls Sinco first, he’s probably gonna be mad and she’s gonna deal with that first and not later, also he’s powerless now so he should start coming over as soon as he can.
+Kijo, in the background, is on her phone, calling all of the freefall members, tomorrow’s gonna be a lot more work probably, she calls Sinco first, he’s probably gonna be mad and she’s gonna deal with that first and not later, also he’s powerless now so he should start coming over as soon as he can.
 
 TKS has begun dealing with the corpses, he separates the Vohan Builders from the STAR Soldiers, those STAR people should burn.
 
@@ -882,7 +882,7 @@ TKS flinches, about to perform another strike.
 
 The weather’s too disturbed to stop.
 
-Kijo came up to him, her phone now embedded in her hand to protect it.
+Kijo came up to him, her phone now embedded in her hand to protect it from the rain.
 
 "Calm down, please."
 
