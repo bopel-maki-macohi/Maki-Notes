@@ -1152,8 +1152,6 @@ Tirok continues his monologue.
 "Almost every time we've seen each other I've been trying to kill you."
 "And now I need you."
 
-"I'm going to be using that today."
-
 Tirok clicks a button on the computer.
 
 Sinco is suddenly hit with a massive amount of chaos energy, screaming, his bright green hair, only having lasted for minutes, changing to a golden yellow, his eyes turning a bright red, his teeth sharpening into those of a canine. His screams start to contort into a maniacal laugher that quickly turns back to a scream as the demon inside Sinco, Chaos is brought back out after years, only to be tortured.
