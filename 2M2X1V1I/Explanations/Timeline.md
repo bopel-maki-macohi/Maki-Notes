@@ -32,4 +32,5 @@
 	- Rie arrives in Lozen
 	- A battle is about to begin
 
-- Chaos 
+- A Chaotic Battle
+	- 
