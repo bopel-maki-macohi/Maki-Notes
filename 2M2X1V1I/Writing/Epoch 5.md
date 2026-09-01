@@ -113,8 +113,11 @@ Osin starts laughing.
 Kijo looks back at her phone, having gotten a notification.
 
 Osin stops laughing, he gets comfortable.  
-“I’m actually supposed to be BETTER than that shithead, but ever since he got possessed by that damn, I don’t even know what it's he’s always been better.”  
+“I’m actually supposed to be BETTER than that shithead, but ever since he got possessed by that damn, I don’t even know what it's name was."
+"But yeah ever since then he’s always been better.”  
 “Fuckin’ sucks.”
+"Now I'm just here as an assistant."
+"Especally cause"
 
 Warnit smirks.  
 “Look at you in the mood to talk.”  
