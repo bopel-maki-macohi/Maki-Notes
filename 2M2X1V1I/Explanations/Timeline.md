@@ -42,8 +42,6 @@ The Knight Serviceman (November 2029)
 Where. Is. It? (November 20th, 2029)
 The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
-- Sinco has arrived at Freefall only to be captured
-- Tirok relays it to Osin via his earpiece
 - Tirok and Yellow return to Base
 - Sinco is put onto The Colatin Core
 - Tirok reactivates his powers
