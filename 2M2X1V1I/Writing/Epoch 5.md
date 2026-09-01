@@ -208,7 +208,8 @@ Behind him is The Yellow Cloaked Man, sitting in a chair. Waiting.
 
 Tirok stands up, finished.
 
-“The machine's done, to almost your exact specifications besides some minor tweaks.""We just need a power source.”  
+“The machine's done, to almost your exact specifications besides some minor tweaks."
+"We just need a power source now.”  
 “The Colatin works for that right?”
 
 Yellow looks up and begins to speak.
