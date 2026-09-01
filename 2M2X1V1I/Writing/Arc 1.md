@@ -13,7 +13,7 @@ Niute complains about them taking a while to work on.
 Lasha offers to help with ideas and Niute agrees.
 
 Days later.  
-Niute shouts his completion of the Restraint Blasters.  
+Niute shouts that the Restraint Blasters are complete.
 Eventually he and Lasha agree on her being the hero of Lozen using the Restraint Blasters.  
 She needs a suit first.
 
