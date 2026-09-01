@@ -452,7 +452,7 @@ The lightning starts going into him...
 Warnit flinches slightly.
 The name feels weird after these last few days.
 
-"This man has saved me."
+"This man in the cloak has saved me."
 "And has a plan that could get rid of that green one."
 "Permanently."
 
@@ -655,7 +655,7 @@ Fist bump.
 
 Jur Vali, Morln, November 2029
 
-It’s been 2 months since Invoy was last seen, rumors spread she died after her mask was found in a destroyed base of operations found on the south side of Lozen. But Invoy wasn’t dead, she just moved on. There are no more than three people who know of that.
+It’s been 3 months since Invoy was last seen, rumors spread she died after her mask was found in a destroyed base of operations found on the south side of Lozen. But Invoy wasn’t dead, she just moved on. There are no more than three people who know of that.
 
 But they don’t care enough to share it.
 
@@ -734,7 +734,7 @@ Lasha is spending her time researching the blue blur. It’s so fascinating to h
 It’ll probably be worth it.  
 Eventually.
 
-The blue blurs appeared several times in the past week. Lasha’s been there for most of them and she believes she’s got enough data to try and figure out where this blue blur originates. It always comes from the west and goes back west when it’s done, maybe originating in Jur Lavl?
+The blue blurs appeared several times in the past week. Lasha’s been there for most of them and she believes she’s got enough data to try and figure out where this blue blur originates. It always comes from the west and goes back west when it’s done, maybe originating in Jur Lavi?
 
 Now the question, how to get in contact with it?
 
@@ -846,7 +846,7 @@ Die.
 
 # Chapter 17 : The Knight Serviceman
 
-Baron, The ruins of The Freefall Foundation, November 19th, 2029
+Baron, The ruins of The Freefall Foundation, Earlier in the day of November 19th, 2029
 
 In the ruins of The Freefall Foundation, the things that have happened today start to take a toll on Warnit’s mind.
 
@@ -910,7 +910,7 @@ Especially not when he’s on the bridge to victory.
 
 # Chapter 18 : Where. Is. It?
 
-Unknown Location, November 20th, 2029
+Unknown Location, Early in the day of November 20th, 2029
 
 Osin snaps awake, immediately trying to run off, he begins phasing but then is stopped by the box he’s imprisoned in, it cancels out his movements and he slams against the wall.
 
@@ -1038,7 +1038,7 @@ Kijo and Warnit are panicking, Kijo more than Warnit.
 
 # Chapter 19 : The Colatin Core
 
-Lozen, November 19th, 2029
+Lozen, Late in the day of November 19th, 2029
 
 The area is a destroyed base of operations, looks like there was an explosion.
 
@@ -1089,7 +1089,7 @@ As Tirok’s movement settles and he stops pacing, he smirks.
 
 # Chapter 20 : Target Acquired
 
-Baron, The ruins of The Freefall Foundation, November 20th, 2029
+Baron, The ruins of The Freefall Foundation, Early in the day of November 20th, 2029
 
 The sky is covered by clouds, big thick and dark clouds. Not a single bit of actual sky could penetrate them even by the tiniest bit. Lightning emerges from the sky every now and again, it beats the wind.
 
@@ -1104,6 +1104,8 @@ Sinco is dragged over using the rope, Tirok’s speaking to someone, he’s tapp
 Tirok takes his hand off his ear and activates a device on his wrist that Sinco is all too familiar with, Sinco tries to break free as much as he can but it’s too late.
 
 Sinco blinks and now is somewhere else, destroyed… something. He’s shackled, inside of some metal sphere with a glass window in the hole in the center and a hole above and below him, Tirok is working on a computer, Yellow is sitting in a chair. But there’s something different. He can feel his powers again.
+
+Why did Tirok bring them back?
 
 Sinco begins some banter, smirking while he does so.
 
@@ -1151,8 +1153,6 @@ Tirok continues his monologue.
 "I do find it ironic."
 "Almost every time we've seen each other I've been trying to kill you."
 "And now I need you."
-
-"I'm going to be using that today."
 
 Tirok clicks a button on the computer.
 
