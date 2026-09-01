@@ -1,4 +1,4 @@
-# [[Section 1]]
+# [[Arc 1]]
 
 - Invoy (March 2029)
 - Kaven Varlet (April 2029)
