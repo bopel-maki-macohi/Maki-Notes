@@ -203,8 +203,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "unmarkdown:Unmarkdown: quick convert": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "e28591bbe0830002",
