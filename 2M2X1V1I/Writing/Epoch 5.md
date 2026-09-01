@@ -220,7 +220,7 @@ Tirok looks confused.
 
 “How does it work then?”
 
-Yellow stands up.
+Yellow stands up and speaks.
 
 “It just acts as a lightning rod and can also take a small amount of electricity, or any energy really, and use it endlessly.”
 
