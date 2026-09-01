@@ -40,11 +40,6 @@ The Yellow Cloaked man wanted the Colatin and got it, what is it being used for?
 
 The Knight Serviceman (November 2029)
 Where. Is. It? (November 20th, 2029)
-- TKS and Kijo ask Osin questions about Yellow and Tirok’s plans
-- Revealed that the attack was to retrieve the Colatin, which was transported away in the chaos
-- TKS tells Osin to tell where Yellow has the Colatin
-- Chapter ends with Osin's earpiece springing to life as he gets told something
-
 The Colatin Core (November 19th, 2029)
 - During Chapter 1  
 - Lozen, Ruse’s destroyed base from Epoch 1
