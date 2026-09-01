@@ -1,6 +1,4 @@
-# [[Section 1]] : Invoy
-
-Material for Ruse to study and manipulate as he creates his plan
+# [[Section 1]]
 
 - Invoy (March 2029)
 - Kaven Varlet (April 2029)
