@@ -297,9 +297,12 @@ Tirok proceeds with “You’re captive. You don’t get a choice.”
 He starts to move back to the computer.
 
 “Anyway, another way is through that energy itself.”  
-"I do find it ironic."
-
 “And as you know, I gained the power of controlling Chaos Energy itself.”
+
+"I do find it ironic."
+"Almost every time we've seen each other I've been trying to kill you."
+"And now I need you."
+
 "I'm going to be using that today."
 
 Sinco’s face contorts in fear as Tirok clicks a button on the computer.
