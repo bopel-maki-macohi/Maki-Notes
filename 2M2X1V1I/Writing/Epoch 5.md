@@ -299,13 +299,16 @@ He starts to move back to the computer.
 “Anyway, another way is through that energy itself.”  
 “And as you know, I gained the power of controlling Chaos Energy itself.”
 
+Sinco’s face contorts in fear as he begins to try to escape.
+Tirok continues his monologue.
+
 "I do find it ironic."
 "Almost every time we've seen each other I've been trying to kill you."
 "And now I need you."
 
 "I'm going to be using that today."
 
-Sinco’s face contorts in fear as Tirok clicks a button on the computer.
+Tirok clicks a button on the computer.
 
 Sinco is suddenly hit with a massive amount of chaos energy, screaming, his bright green hair, only having lasted for minutes, changing to a golden yellow, his eyes turning a bright red, his teeth sharpening into those of a canine. His screams start to contort into a maniacal laugher that quickly turns back to a scream as the demon inside Sinco, Chaos is brought back out after years, only to be tortured.
 
