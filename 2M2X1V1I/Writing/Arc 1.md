@@ -450,14 +450,15 @@ The lightning starts going into him...
 "Despite my respect for you and your people Mr. Serviceman."
 
 Warnit flinches slightly.
-The name feels weird after these last few days.
+The name feels weird after these last few days, Tirok continues.
 
 "This man in the cloak has saved me."
 "And has a plan that could get rid of that green one."
 "Permanently."
 
-The axe's lightning starts to dissipate.
+The axe's lightning starts to dissipate. Tirok continues to speak.
 
+Tirok threatens Warnit.
 "Do not stand in our way again."
 
 Tirok flings the axe away with the 2 fingers.
