@@ -42,8 +42,6 @@ The Knight Serviceman (November 2029)
 Where. Is. It? (November 20th, 2029)
 The Colatin Core (November 19th, 2029)
 Target Acquired (November 20th, 2029)
-- Sinco, being pissed, suddenly starts turning golden with rage and fear
-- The Colatin Core glows golden
 # [[Epoch 6]] : Master Ruse
 
 **The Machine (December 2029)**

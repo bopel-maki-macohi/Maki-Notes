@@ -1,4 +1,4 @@
-## Chapter 17 : The Knight Serviceman
+# Chapter 17 : The Knight Serviceman
 
 Baron, The ruins of The Freefall Foundation, November 19th, 2029
 
@@ -62,7 +62,7 @@ Warnit looks at Osin. Unconscious.
 
 Especially not when he’s on the bridge to victory.
 
-## Chapter 18 : Where. Is. It?
+# Chapter 18 : Where. Is. It?
 
 Unknown Location, November 20th, 2029
 
@@ -186,7 +186,7 @@ Osin’s laughter continues, albeit he’s starting to lose his breath.
 
 Kijo and Warnit are panicking, Kijo more than Warnit.
 
-## Chapter 19 : The Colatin Core
+# Chapter 19 : The Colatin Core
 
 Lozen, November 19th, 2029
 
