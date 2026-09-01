@@ -31,7 +31,7 @@ The protecting messenger of Lozen.
 
 Lozen, April 2029
 
-A well known strong man is in the streets of Lozen in a suit of armor causing havoc.  
+A well-known strong man is in the streets of Lozen in a suit of armor causing havoc.  
 Lasha, against Niute’s wishes, goes out and Invoy arrives on the scene.  
 Invoy blasts Restraints at the man but he breaks through them with ease.  
 Invoy doesn’t have enough time to retreat before she is ragdolled.
