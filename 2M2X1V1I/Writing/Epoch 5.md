@@ -283,7 +283,7 @@ Tirok continues.
 
 Sinco mutters something unintelligible and Tirok continues.
 
-“As you know, when you’re angry or upset it tends to come out.”  
+“As you know, when you’re angry or upset it tends to come out, it fuels itself off your rage that it itself brings out in yo.”  
 “But you wanna know another way to bring it out?”
 
 Sinco replies “No.”
