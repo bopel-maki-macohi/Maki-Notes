@@ -238,7 +238,7 @@ As Tirok’s movement settles and he stops pacing, he smirks.
 “I’m sure he’s on his way.”  
 “Right into our hands.”
 
-## Chapter 20 : Target Acquired
+# Chapter 20 : Target Acquired
 
 Baron, The ruins of The Freefall Foundation, November 20th, 2029
 
