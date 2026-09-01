@@ -218,7 +218,7 @@ Tirok stands up, finished.
 
 Yellow looks up and begins to speak.
 
-“No.”  
+“No.”
 “The Colatin won’t generate the electricity itself.”
 
 Tirok looks confused and asks “How does it work then?”
