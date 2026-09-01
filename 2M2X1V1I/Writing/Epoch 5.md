@@ -211,18 +211,16 @@ Tirok stands up, finished.
 “The machine's done, we just need a power source.”  
 “The Colatin works for that right?”
 
-Yellow looks up.
+Yellow looks up and begins to speak.
 
 “No.”  
 “The Colatin won’t generate the electricity itself.”
 
-Tirok looks confused.
+Tirok looks confused and asks “How does it work then?”
 
-“How does it work then?”
+Yellow stands up and replies “It just acts as a lightning rod and can also take a small amount of electricity, or any energy really, and use it endlessly.”
 
-Yellow stands up and speaks.
-
-“It just acts as a lightning rod and can also take a small amount of electricity, or any energy really, and use it endlessly.”
+Yellow continues.
 
 “The Knight Serviceman has an Enchanted Colatin Axe, and enchanting is a lost art.”  
 “No one knows how to do it anymore.”  
