@@ -43,7 +43,7 @@ Lasha arrives home, and goes to Niute, begging for upgrades to the Restraints' s
 Niute begrudgingly agrees and goes to work on it.  
 Lasha passes out and falls asleep.
 
-A day later, night is about to arrive.  
+A day later, night is approaching.  
 Niute has finished the stronger Restraints and has already made multiple cartridges for Lasha.  
 Lasha wakes up, well rested and confident.  
 Explosions begin once more, and Invoy is on the way.
