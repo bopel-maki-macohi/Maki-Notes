@@ -8,7 +8,7 @@ Lasha quickly runs past said alleyway, a beeping object inching closer behind he
 
 Blowing up behind her, Lasha has to hold onto a pole to not fly away. Once the explosion settles Lasha complains in her head about nothing being done about the thugs.
 
-Once Lasha gets home, Niute shows off their new work in progress project: Restraint Blasters.  
+Once Lasha gets home, Niute shows off their new project: Restraint Blasters.  
 Niute complains about them taking a while to work on due to quality of life features.  
 Lasha offers to help with ideas and Niute agrees.
 
