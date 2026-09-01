@@ -18,7 +18,7 @@ Eventually he and Lasha agree on her being the hero of Lozen using the Restraint
 She needs a suit first.
 
 Later that same night.  
-A fight in a bar on the north quadrant of Lozen has begun between 2 gangs.  
+A fight in a bar on the north quadrant of Lozen has begun between two gangs.  
 Several deaths occur.  
 But right as the leaders of the gangs are about to end it.  
 The doors to the bar are slammed open and a figure flips around.  
