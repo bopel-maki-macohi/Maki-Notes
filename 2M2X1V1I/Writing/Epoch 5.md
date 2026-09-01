@@ -297,7 +297,7 @@ Tirok proceeds with “You’re captive. You don’t get a choice.”
 He starts to move back to the computer.
 
 “Anyway, another way is through that energy itself.”  
-“And as you know, I gained the power of controlling the energy of Chaos.”
+“And as you know, I gained the power of controlling Chaos Energy itself.”
 
 Sinco’s face contorts in fear as Tirok clicks a button on the computer.
 
