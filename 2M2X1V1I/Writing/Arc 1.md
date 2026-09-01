@@ -1,6 +1,6 @@
 # Chapter 1 : Invoy
 
-Lozen, March 2029\.
+Lozen, March 2029
 
 Lasha is on a stroll.  
 Then a guy flies out of an alleyway, a rock embedded into his body.  
@@ -55,7 +55,7 @@ Invoy sighs in relief, and calls the cops.
 
 # Chapter 3 : Power Jig
 
-Lozen, May 2029\.
+Lozen, May 2029
 
 Two weeks ago, a giant water monster.  
 Last week, a giant fire monster.  
@@ -112,7 +112,7 @@ Grabbed by Invoy on a building below.
 
 # Chapter 4 : Mr. Rune
 
-Lozen, August 2029\.
+Lozen, August 2029
 
 A message was left out.  
 For “The Invoy”.  
@@ -684,8 +684,8 @@ Lasha flinches.
 Niute proceeds.
 
 “Everytime you go out as Invoy I get left behind and end up just The Inventor making your weapons.”  
-“It’s also dangerous as hell\! What if those giant hologram monsters weren’t holograms?”  
-“You’d need hundreds of restraints to deal with them\!”  
+“It’s also dangerous as hell! What if those giant hologram monsters weren’t holograms?”  
+“You’d need hundreds of restraints to deal with them!”  
 “I get not a lick of credit, and my wife is in potential danger that could get her killed.”  
 “You’re trying to be this tough hero, but then you're also trying to be my partner, try to live a normal life.”
 
@@ -876,7 +876,7 @@ AGAIN.
 
 AGAIN.
 
-“WARNIT\!”
+“WARNIT!”
 
 TKS flinches, about to perform another strike.
 
