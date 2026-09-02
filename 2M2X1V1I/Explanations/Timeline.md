@@ -26,6 +26,6 @@
 
 - The Falling Earth (November 20th, 2029)
 - Mission Complete (November 20th, 2029)
-- Mortal  (November 20th, 2029)
-- The Ultimate Power (November 20th, 2029)
+- Mortal Dominance (November 20th, 2029)
+- Done Deal (November 20th, 2029)
 - Chaos Battle (November 20th, 2029)
