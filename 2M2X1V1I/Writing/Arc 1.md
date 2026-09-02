@@ -110,7 +110,7 @@ A Restraint is blasted at Power Jig.
 Who is knocked off the drone.  
 Grabbed by Invoy on a building below.
 
-# Chapter 4 : Mr. Rune
+# Chapter 4 : Mr. Ruse
 
 Lozen, August 2029
 
