@@ -25,14 +25,7 @@
 - Target Acquired (November 20th, 2029)
 
 - The Fallen Earth (November 20th, 2029)
-	- Earth starts to fall apart.
-	- Warnit, Kijo, Loroc, and Invoy arrive at Lozen to try and stop Hell's Higher Ups
 - The Ultimate Power (November 20th, 2029)
-	- The Colatin Core gives Yellow ultimate power
-	- Rie arrives in Lozen
-	- Yellow reveals he's Mr. Ruse
-	- A battle is about to begin
-
 - A Chaotic Battle
 	- A battle
 	- Warnit, Kijo, Loroc, and Invoy vs Mr. Ruse / Yellow, Tirok, and Rie
