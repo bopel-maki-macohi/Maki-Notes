@@ -24,6 +24,8 @@
 - The Colatin Core (November 19th, 2029)
 - Target Acquired (November 20th, 2029)
 
-- The Fallen Earth (November 20th, 2029)
+- The Falling Earth (November 20th, 2029)
+- Mission Complete (November 20th, 2029)
+- Mortal  (November 20th, 2029)
 - The Ultimate Power (November 20th, 2029)
-- Chaos Battle
+- Chaos Battle (November 20th, 2029)
