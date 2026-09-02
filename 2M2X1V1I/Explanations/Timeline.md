@@ -26,6 +26,4 @@
 
 - The Fallen Earth (November 20th, 2029)
 - The Ultimate Power (November 20th, 2029)
-- A Chaotic Battle
-	- A battle
-	- Warnit, Kijo, Loroc, and Invoy vs Mr. Ruse / Yellow, Tirok, and Rie
+- Chaos Battle
