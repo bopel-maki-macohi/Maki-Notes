@@ -1,6 +1,6 @@
 # [[Arc 1]]
 
-- [[#Invoy
+- Invoy (March 2029)
 - Kaven Varlet (April 2029)
 - Power Jig (May 2029)
 - Mr. Ruse (August 2029)
@@ -9,6 +9,7 @@
 - Colatin Theft (September 2029)
 - The Speed City (October  2029)
 - Speed vs Tactic (October 2029)
+
 - Chaos Control (October 2029)
 - What? (October 2029)
 - Red Light (November 2029)
@@ -28,4 +29,5 @@
 - Mission Complete (November 20th, 2029)
 - Mortal Dominance (November 20th, 2029)
 - Done Deal (November 20th, 2029)
+
 - Chaos Battle (November 20th, 2029)
