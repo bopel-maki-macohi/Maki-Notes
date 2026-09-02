@@ -1,6 +1,6 @@
 # [[Arc 1]]
 
-- Invoy (March 2029)
+- [[#Invoy
 - Kaven Varlet (April 2029)
 - Power Jig (May 2029)
 - Mr. Ruse (August 2029)
