@@ -4,7 +4,6 @@ and give me a good universe that I'll actually like
 
 Explanations:
 [[CANVAS.canvas|CANVAS]]
-[[Places]]
 [[Whys]]
 [[Worldbuilding]]
 
