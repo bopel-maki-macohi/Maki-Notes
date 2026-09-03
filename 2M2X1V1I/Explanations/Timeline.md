@@ -38,4 +38,7 @@
 - The Start of The End (November 20th, 2029)
 - Doomsday (November 20th, 2029)
 - Chaos, Sinco and Osin (November 20th, 2029)
-- Mission Complete (November 20th, 2029)
+- Potential Last Stand (November 20th, 2029)
+
+
+- The Ending Nightmare Game (November 20th, 2029)
