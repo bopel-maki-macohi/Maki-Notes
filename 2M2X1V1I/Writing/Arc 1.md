@@ -59,9 +59,9 @@ Lozen, May 2029
 
 Two weeks ago, a giant water monster.  
 Last week, a giant fire monster.  
-But a persi is this person, Power Jig.
+But a persisting thing in each of these is this new self proclaimed super hero : Power Jig.
 
-Lasha has been investigating this "superhero" ever since last week.  
+Lasha has been investigating this "superhero" ever since last week.
 Every bit of footage on the events has been scrolled through and analyzed.  
 The areas of attack have been analyzed.  
 There’s no evidence of them ever being there at all.  
