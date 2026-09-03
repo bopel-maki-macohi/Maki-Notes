@@ -30,4 +30,5 @@
 - Mortal Dominance (November 20th, 2029)
 - Done Deal (November 20th, 2029)
 
-- Chaos Battle (November 20th, 2029)
+- A Falling Earth (November 20th, 2029)
+- A Falling Earth (November 20th, 2029)
