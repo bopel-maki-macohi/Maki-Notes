@@ -40,5 +40,5 @@
 - Chaos, Sinco and Osin (November 20th, 2029)
 - Potential Last Stand (November 20th, 2029)
 
-
 - The Ending Nightmare Game (November 20th, 2029)
+- Bright Skies (November 20th, 2029)
