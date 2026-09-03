@@ -39,11 +39,11 @@ Invoy doesn’t have enough time to retreat before she is ragdolled.
 Invoy blasts out her last loaded Restraint at the man.  
 Taking advantage of the man's blindness, Invoy retreats home.
 
-Lasha arrives home, and goes to Niute, begging for upgrades to the Restraints strength.  
+Lasha arrives home, and goes to Niute, begging for upgrades to the strength of the Restraints.  
 Niute begrudgingly agrees and goes to work on it.  
-Lasha passes out and falls asleep.
+Lasha passes out, asleep.
 
-A day later, night is about to arrive.  
+A day later, night is approching.  
 Niute has finished the stronger Restraints and has already made multiple cartridges for Lasha.  
 Lasha wakes up, well rested and confident.  
 Explosions begin once more, and Invoy is on the way.
