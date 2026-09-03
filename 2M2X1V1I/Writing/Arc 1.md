@@ -59,7 +59,7 @@ Lozen, May 2029
 
 Two weeks ago, a giant water monster.  
 Last week, a giant fire monster.  
-But a constant is this person, Power Jig.
+But a persi is this person, Power Jig.
 
 Lasha has been investigating this "superhero" ever since last week.  
 Every bit of footage on the events has been scrolled through and analyzed.  
