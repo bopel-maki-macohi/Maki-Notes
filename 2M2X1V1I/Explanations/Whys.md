@@ -3,10 +3,7 @@
 The Chaos Emerald gave people powers through it’s Chaos Waves
 # Chaos Waves
 
-Waves of chaos energy that spread throughout the planet they are on
-# The story immediately starts building up to something big
-
-Death is sometimes the only way to move on or to be finished with something.
+Waves of chaos energy that spread throughout the planet they are on.
 # Why do Tirok and Osin have to be freed
 
 Tirok and Osin have been put in a special prison and have been in there since Mid 2027. Think of it like the negative zone prison from the marvel civil war comics
