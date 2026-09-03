@@ -32,10 +32,10 @@
 
 - A Falling Earth (November 20th, 2029)
 - Mission Complete (November 20th, 2029)
-- Mortal Dom (November 20th, 2029)
-- Mission Complete (November 20th, 2029)
+- Mortal Dominance (November 20th, 2029)
+- Done Deal (November 20th, 2029)
 
-- Mission Complete (November 20th, 2029)
+- The Start of The End (November 20th, 2029)
 - Mission Complete (November 20th, 2029)
 - Mission Complete (November 20th, 2029)
 - Mission Complete (November 20th, 2029)
