@@ -64,7 +64,7 @@ But a persisting thing in each of these is this new self proclaimed super hero :
 Lasha has been investigating this "superhero" ever since last week.
 Every bit of footage on the events has been scrolled through and analyzed.
 The areas of attack have been analyzed.
-There’s no evidence of the attack ever being there at all.
+There’s no evidence of the attack ever happening there at all.
 Niute watches Lasha work on it, not a single bit of joy in his eyes.
 
 An explosion.  
