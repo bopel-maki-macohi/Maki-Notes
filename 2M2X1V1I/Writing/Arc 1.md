@@ -1167,3 +1167,4 @@ A massive amount of golden energy with green electricity circling it channels ar
 Tirok clicks another button and a giant earthquake happens as the energy shoots into the sky all at once, causing a sound like thunder, but it sounds just… Different.
 
 Yellow gets up, smiling, his plan has worked.
+
