@@ -20,6 +20,8 @@ Hoping.
 
 There's a bang.
 
+Sinco would normally get alert
+
 # Chapter 2 : Infiltrate
 
 # Chapter 3 : Security
