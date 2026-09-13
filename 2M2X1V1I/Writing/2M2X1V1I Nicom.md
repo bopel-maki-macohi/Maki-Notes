@@ -46,7 +46,7 @@ Sinco tries to scream for help but only a tiny but loud squeal can be heard as t
 
 This was enough however, and Osin, skidding to a stop and looking up, sees the robot holding Sinco, slowly flying away but then it picks up the pace and then there is a dark green trail heading towards Tempo City.
 
-Osin 
+Osin runs after the robot, heading to Tempo City.
 
 # Chapter 2 : Infiltrate
 
