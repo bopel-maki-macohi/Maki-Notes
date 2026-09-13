@@ -76,7 +76,7 @@ Osin then curls into a spikey red ball and begins to saw off the heads of some o
 
 Osin begins to phase, running out of the robots arm before it tries anything and then saws the head off in his ball shape again.
 
-Osin lands from
+Osin lands from the air after that, in a battle stance.
 
 5 robots remain.
 
