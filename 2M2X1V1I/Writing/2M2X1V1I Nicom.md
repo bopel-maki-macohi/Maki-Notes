@@ -115,8 +115,11 @@ They're clearly human or a humanoid, blue spikey hair with black accents on the 
 
 Their face is filled with rage.
 
-Sinco barely remembers what the person has 
+Sinco barely remembers what the person had said seconds ago and tries to get clarification on what they said.
+
 "W-What?"
+
+The person's 
 
 # Chapter 4 : [[REDACTED]]
 
