@@ -64,7 +64,7 @@ Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
 
 Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
-Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue
+Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue he gets grabbed by one of the robots and slammed to the floor.
 
 # Chapter 3 : Fuel
 
