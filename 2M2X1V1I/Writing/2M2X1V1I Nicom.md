@@ -32,7 +32,7 @@ Sinco's alert now.
 
 Something's here.
 
-And it grabs Sinco. It's a big ass robot, round head, rounded c
+And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's chest and above it's
 
 She tried to phase out of it but it phases with her, she's stuck in it's grasp.
 
