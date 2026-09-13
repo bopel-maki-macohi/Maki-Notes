@@ -119,7 +119,7 @@ Sinco barely remembers what the person had said seconds ago and tries to get cla
 
 "W-What?"
 
-The person's face gets nire abgrt
+The person's face gets more angry
 
 # Chapter 4 : [[REDACTED]]
 
