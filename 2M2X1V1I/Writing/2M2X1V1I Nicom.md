@@ -62,3 +62,5 @@ Bowtie Corporation Building, April, 2047
 
 The Chaos Realm, April, 2047
 # Chapter 6 : Dishevel
+
+Tempo City, April, 2047
