@@ -38,7 +38,11 @@ Sinco tried to phase out of the robot's grasp but it phases with her, she's stuc
 
 The robot proceeds to then shake Sinco around, trying to confirm that she's really stuck.
 
-After that the robot activated rockets in it's feet and began to blast upward, crashing through the roof of The Freefall Foundation, outside Sinco can see a
+After that the robot activated rockets in it's feet and began to blast upward, crashing through the roof of The Freefall Foundation, outside Sinco can see someone below.
+
+It's Osin.
+
+
 
 # Chapter 2 : Infiltrate
 
