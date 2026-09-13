@@ -92,7 +92,7 @@ What will the robots do if they capture him?
 
 They wanted a peaceful surrender and Osin's being the aggressor right now...
 
-Osin decides to surrender and .
+Osin decides to surrender and puts his hands in the air, palms open, falling to the ground on his h.
 
 # Chapter 3 : Fuel
 
