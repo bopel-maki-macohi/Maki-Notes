@@ -64,7 +64,7 @@ Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
 
 Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
-Osin curls into a spikey red ball and begins to saw off the heads o
+Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue
 # Chapter 3 : Security
 
 Bowtie Corporation Building, April, 2047
