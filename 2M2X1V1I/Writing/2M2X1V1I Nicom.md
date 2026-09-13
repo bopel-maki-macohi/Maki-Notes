@@ -2,7 +2,7 @@
 
 The Freefall Foundation, April, 2047
 
-It was a cold night, everyone was out, Sinco was left 
+It was a cold night, everyone was out, Sinco was left alone to his own devices.
 
 # Chapter 2 : Infiltrate
 
