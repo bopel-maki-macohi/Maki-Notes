@@ -111,7 +111,7 @@ A voice emerges from behind Sinco's chair.
 
 Sinco, startled, tries to get a look at the speaker but cant. But then they move in-front of Sinco.
 
-They're clearly human or a humanoid,
+They're clearly human or a humanoid, they wear a business suit,
 
 # Chapter 4 : [[REDACTED]]
 
