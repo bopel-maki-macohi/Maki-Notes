@@ -111,7 +111,7 @@ A voice emerges from behind Sinco's chair.
 
 Sinco, startled, tries to get a look at the speaker but cant. But then they move in-front of Sinco.
 
-They're clearly human or a humanoid, blue hair with black accents on the side they wear a dark-blue business suit with a green tie,
+They're clearly human or a humanoid, blue spikey hair with black accents on the hair to the sides of the face, a black bowtie on the side they wear a dark-blue business suit with a green tie,
 
 # Chapter 4 : [[REDACTED]]
 
