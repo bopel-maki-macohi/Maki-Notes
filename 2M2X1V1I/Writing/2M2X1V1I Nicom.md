@@ -44,7 +44,7 @@ It's Osin.
 
 Sinco tries to scream for help but only a tiny squeal can be heard as the robot hits Sinco in the head, knocking her unconscious.
 
-This was enough however, and Osin, skidding to a stop and l
+This was enough however, and Osin, skidding to a stop and looking up, sees the robot holding Sinco
 
 # Chapter 2 : Infiltrate
 
