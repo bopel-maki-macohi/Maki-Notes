@@ -60,7 +60,7 @@ The robot flies to the top of the building, entering it.
 
 Osin goes through the front door, phasing through, only to be met with a plethora of guard robots, all sharing bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
 
-Osin had to be swift, if Sinco couldn't escape one then what's Osin going to do with 
+Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now and has to 
 # Chapter 3 : Security
 
 Bowtie Corporation Building, April, 2047
