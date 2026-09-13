@@ -62,7 +62,7 @@ Osin goes through the front door, phasing through, only to be met with a plethor
 
 Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
 
-Osin speeds around the room, occasionally 
+Osin speeds around the room, occasionally bounin
 # Chapter 3 : Security
 
 Bowtie Corporation Building, April, 2047
