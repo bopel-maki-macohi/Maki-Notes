@@ -58,7 +58,7 @@ The Bowtie Corporation Building, a new corporation from 2039 and it's building f
 
 The robot flies to the top of the building, entering it.
 
-Osin goes through the front door, phasing through, only to be met with a group of 9 of guard robots, requesting a peaceful surrender.
+Osin goes through the front door, phasing through, only to be met with a group of 9 guard robot requesting a peaceful surrender stating that 
 
 All of the robots share bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
 
