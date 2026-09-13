@@ -76,7 +76,7 @@ Osin's confident, kinda.
 
 Osin charges electricity in his hands, it slowly begins to change into lightning, he continues to charge for seconds more and then he blasts all the 5 robots with the lightning.
 
-They all falter, seeming to start powe
+They all falter, seeming to start overheating, but then they all get back up, having adapted to the power and if anything are more energized.
 
 # Chapter 3 : Fuel
 
