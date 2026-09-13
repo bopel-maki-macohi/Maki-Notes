@@ -12,7 +12,9 @@ But then everything was fine.
 
 Everyone's living their life, enjoying it.
 
-Sinco's a transgirl now!
+Sinco's a transwoman now!
+
+Best thing to come out of the last 11 years of peace for Sinco 
 
 # Chapter 2 : Infiltrate
 
