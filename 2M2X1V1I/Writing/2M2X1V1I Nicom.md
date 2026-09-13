@@ -22,6 +22,8 @@ There's a bang.
 
 Sinco would normally get alert from that but he just figures it's a pot or pan that fell over in the kitchen.
 
+But then
+
 # Chapter 2 : Infiltrate
 
 # Chapter 3 : Security
