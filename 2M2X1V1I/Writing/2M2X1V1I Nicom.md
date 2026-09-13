@@ -78,6 +78,11 @@ Osin charges electricity in his hands, it slowly begins to change into lightning
 
 They all falter, seeming to start overheating, but then they all get back up, having adapted to the power and if anything are more energized.
 
+Osin's fucked now.
+
+What to do now...
+
+
 # Chapter 3 : Fuel
 
 Bowtie Corporation Building, April, 2047
