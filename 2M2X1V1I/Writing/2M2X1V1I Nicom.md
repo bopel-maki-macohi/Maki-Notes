@@ -119,7 +119,11 @@ Sinco barely remembers what the person had said seconds ago and tries to get cla
 
 "W-What?"
 
-The person's face gets more angry
+The person's face gets more angry.
+
+"SUMMON CHAOS."
+
+
 
 # Chapter 4 : [[REDACTED]]
 
