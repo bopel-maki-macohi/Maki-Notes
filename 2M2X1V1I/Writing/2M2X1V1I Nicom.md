@@ -20,7 +20,7 @@ Hoping.
 
 There's a bang.
 
-Sinco would normally get alert
+Sinco would normally get alert from that but he just figures it's a pot or pan that fell over in the kitchen.
 
 # Chapter 2 : Infiltrate
 
