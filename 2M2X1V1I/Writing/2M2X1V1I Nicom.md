@@ -32,7 +32,7 @@ Sinco's alert now.
 
 Something's here.
 
-And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's chest and above it's green visor on it's head.
+And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's chest and above it's dark green visor on it's head.
 
 Sinco tried to phase out of the robot's grasp but it phases with her, she's stuck.
 
@@ -44,7 +44,7 @@ It's Osin.
 
 Sinco tries to scream for help but only a tiny but loud squeal can be heard as the robot hits Sinco in the head, knocking her unconscious.
 
-This was enough however, and Osin, skidding to a stop and looking up, sees the robot holding Sinco, slowly flying away but then it picks up the pace and then there is a 
+This was enough however, and Osin, skidding to a stop and looking up, sees the robot holding Sinco, slowly flying away but then it picks up the pace and then there is a dark green trail heading towartd
 
 # Chapter 2 : Infiltrate
 
