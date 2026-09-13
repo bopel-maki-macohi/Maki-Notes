@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's wide, several cages line the walls, an entrance behind Sinco, and a console in front of it
+Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's wide, several cages line the walls, an entrance behind Sinco, and a desk in front of it with machinery and wires connected to it, 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
