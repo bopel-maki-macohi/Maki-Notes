@@ -34,7 +34,7 @@ But in-between then and 2039.
 
 Something happened.
 
-And Nicom lost all the joy they had, it had all disappeared.
+And Nicom lost all the joy they had, it had all disappeared,
 Only one piece of it remaining that Nicom honestly forgot about until they discovered something. 
 
 In this universe Nicom actually had to get a job and decided to become a scientist for a bit and then an inventor, both paying very well in Tempo City and other places. But then in 2039 when Nicom discovered this thing. They quit their job, left their house with their parents.
