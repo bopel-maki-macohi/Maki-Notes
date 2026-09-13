@@ -66,7 +66,7 @@ Osin didn't want to surrender, he had to help Sinco.
 
 But if Sinco couldn't escape one then Osin's fucked right now.
 
-Osin speeds around the room, occasionally bouncing on one of the robots heads, contempla
+Osin speeds around the room, occasionally bouncing on one of the robots heads, contemplating his next moves.
 
 Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue he gets grabbed by one of the robots and slammed to the floor.
 
