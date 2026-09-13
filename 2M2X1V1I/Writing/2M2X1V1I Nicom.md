@@ -36,6 +36,8 @@ And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's
 
 Sinco tried to phase out of the robot's grasp but it phases with her, she's stuck.
 
+The robot proceeds to then shake Sinco around, trying to confirm that she's really 
+
 # Chapter 2 : Infiltrate
 
 # Chapter 3 : Security
