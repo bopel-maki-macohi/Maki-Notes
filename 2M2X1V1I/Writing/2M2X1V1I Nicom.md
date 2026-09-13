@@ -1,6 +1,6 @@
-# Chapter 1 : 
+# Chapter 1 : Capture
 
-# Chapter 2 : 
+# Chapter 2 : Infiltrate
 
 # Chapter 3 : 
 
