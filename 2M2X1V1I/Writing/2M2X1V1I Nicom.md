@@ -30,6 +30,12 @@ And then another.
 
 Sinco's alert now.
 
+Something's here.
+
+And it grabs Sinco.
+
+She tried to phase out of it but it phases with her, shes
+
 # Chapter 2 : Infiltrate
 
 # Chapter 3 : Security
