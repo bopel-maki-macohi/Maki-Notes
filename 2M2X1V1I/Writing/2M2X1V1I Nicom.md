@@ -8,4 +8,4 @@
 
 # Chapter 5 : Aurora
 
-# Chapter 6 : The Chaos Realm
+# Chapter 6 : Dishevel
