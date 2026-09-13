@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/README.md",
+                "file": "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2M2X1V1I Nicom"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5c801ac7fdda77",
+  "active": "e28591bbe0830002",
   "lastOpenFiles": [
+    "2M2X1V1I/README.md",
     "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
     "2M2X1V1I/Writing/2M2X1V1I.md",
-    "2M2X1V1I/README.md",
     "2M2X1V1I/Explanations/Worldbuilding.md",
     "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Explanations/Whys.md",

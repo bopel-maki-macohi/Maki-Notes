@@ -11,4 +11,4 @@ Writing:
 [[2M2X1V1I]]
 [[2M2X1V1I Nicom|2M2X1V1I : Nicom]]
 
-Potential Wiki : 2m2x1v1i.miraheze.org
+Potential Wiki : [2m2x1v1i.miraheze.org](2m2x1v1i.miraheze.org)
