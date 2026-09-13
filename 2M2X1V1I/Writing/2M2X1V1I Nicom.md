@@ -109,7 +109,7 @@ Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she ca
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
 
-Sinco, startled tries to get a look at the speaker but cant.
+Sinco, startled, tries to get a look at the speaker but cant.
 
 # Chapter 4 : [[REDACTED]]
 
