@@ -58,7 +58,7 @@ The Bowtie Corporation Building, a new corporation from 2039 and it's building f
 
 The robot flies to the top of the building, entering it.
 
-Osin doesn't go 
+Osin goes through the front door, phasing through, only to be met with a fleat
 # Chapter 3 : Security
 
 Bowtie Corporation Building, April, 2047
