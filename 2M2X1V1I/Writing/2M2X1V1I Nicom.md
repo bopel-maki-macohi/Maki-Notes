@@ -65,15 +65,13 @@ Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
 Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
 Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue
-# Chapter 3 : Security
 
-Bowtie Corporation Building, April, 2047
 # Chapter 4 : Fuel
 
 Bowtie Corporation Building, April, 2047
-# Chapter 5 : [[REDACTED]]
+# Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
-# Chapter 6 : Dishevel
+# Chapter 5 : Dishevel
 
 Tempo City, April, 2047
