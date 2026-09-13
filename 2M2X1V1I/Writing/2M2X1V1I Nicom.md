@@ -56,9 +56,13 @@ Osin has followed the robot that captured Sinco to Tempo City, it ran towards a 
 
 The Bowtie Corporation Building, a new corporation established in 2039 but the building having being made in 2040.
 
-The robot that captured Sinco flies to the top of the building, entering it proably through a 
+The robot that captured Sinco flies to the top of the building, entering it probably through an entrance on the top of the building
 
-Osin goes through the front door, phasing through, only to be met with a group of 9 guard robot requesting a peaceful surrender.
+Osin goes through the front door, phasing through, whatever this person is planning, it has to be on the upper floors, so the bottom floors will be clear right?
+
+No.
+
+Osin stands in the building at the front door, starinnly to be met with a group of 9 guard robot requesting a peaceful surrender.
 
 All of the robots share bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
 
