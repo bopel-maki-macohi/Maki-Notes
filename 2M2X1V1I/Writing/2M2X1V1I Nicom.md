@@ -42,7 +42,7 @@ After that the robot activated rockets in it's feet and began to blast upward, c
 
 It's Osin.
 
-
+Sinco tries to scream but only a tiny squeal can be heard 
 
 # Chapter 2 : Infiltrate
 
