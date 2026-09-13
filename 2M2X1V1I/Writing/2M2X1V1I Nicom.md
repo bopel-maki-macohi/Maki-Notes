@@ -74,7 +74,9 @@ Osin begins to phase, running out of the robots arm before it counter-phases him
 
 Osin's confident, kinda.
 
-Osin charges electricity in his hands, it slowly begins to change into lightning, he continues 
+Osin charges electricity in his hands, it slowly begins to change into lightning, he continues to charge for seconds more and then he blasts all the 5 robots with the lightning.
+
+They all falter, seeming to start powe
 
 # Chapter 3 : Fuel
 
