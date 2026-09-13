@@ -58,7 +58,7 @@ The Freefall Foundation, April, 2047
 # Chapter 4 : Fuel
 
 The Freefall Foundation, April, 2047
-# Chapter 5 : [[REDACTE]]
+# Chapter 5 : [[REDACTED]]
 
 The Freefall Foundation, April, 2047
 # Chapter 6 : Dishevel
