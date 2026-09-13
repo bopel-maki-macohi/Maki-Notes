@@ -1,6 +1,6 @@
 # Chapter 1 : Capture
 
-February, 2047
+The Freefall Foundation, February, 2047
 
 # Chapter 2 : Infiltrate
 
