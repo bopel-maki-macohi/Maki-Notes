@@ -18,7 +18,7 @@ Here's hoping that it stays that way.
 
 Hoping.
 
-
+There's a bang in the 
 
 # Chapter 2 : Infiltrate
 
