@@ -66,7 +66,7 @@ Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
 Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue he gets grabbed by one of the robots and slammed to the floor.
 
-Osin begins to phase, running out of the robots arm before it counter-phases him and then 
+Osin begins to phase, running out of the robots arm before it counter-phases him and then saws the head
 
 # Chapter 3 : Fuel
 
