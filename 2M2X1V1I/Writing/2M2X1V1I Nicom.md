@@ -38,9 +38,9 @@ Sinco tried to phase out of the robot's grasp but it phases with her, she's stuc
 
 The robot proceeds to then shake Sinco around, trying to confirm that she's really stuck.
 
-After that the robot activated rockets in it's feet and began to blast upward, crashing through the roof of The Freefall Foundation, outside Sinco can see someone below.
+After that the robot activated rockets in it's feet and began to blast upward, crashing through the roof of The Freefall Foundation, outside Sinco can see something, a red streak below.
 
-It's Osin, about to walk 
+It's Osin
 
 Sinco tries to scream but only a tiny squeal can be heard as the robot hits Sinco in the head, knocking her unconscious.
 
