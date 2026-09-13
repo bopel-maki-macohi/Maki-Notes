@@ -32,9 +32,9 @@ Sinco's alert now.
 
 Something's here.
 
-And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's chest and above it's
+And it grabs Sinco. It's a big ass robot with a bow symbol on the center of it's chest and above it's green visor on it's head.
 
-She tried to phase out of it but it phases with her, she's stuck in it's grasp.
+Sinco tried to phase out of the robot's grasp but it phases with her, she's stuck.
 
 # Chapter 2 : Infiltrate
 
