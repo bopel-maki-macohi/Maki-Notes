@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "1e5c801ac7fdda77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2M2X1V1I Nicom"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28591bbe0830002",
+  "active": "1e5c801ac7fdda77",
   "lastOpenFiles": [
+    "2M2X1V1I/README.md",
     "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
     "2M2X1V1I/Writing/2M2X1V1I.md",
     "2M2X1V1I/Explanations/Worldbuilding.md",
@@ -224,7 +250,6 @@
     "Untitled.canvas",
     "2M2X1V1I/Explanations/Places.md",
     "test.md",
-    "2M2X1V1I/README.md",
     "2M2X1V1I/Explanations/Random.md",
     "2M2X1V1I/Explanations/Ideas.md",
     "Granule/README.md",

@@ -9,3 +9,4 @@ Explanations:
 
 Writing:
 [[2M2X1V1I]]
+[[2M2X1V1I Nicom|2M2X1V1I : Nicom]]
