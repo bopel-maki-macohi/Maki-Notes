@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-
+Sinco wakes up
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
