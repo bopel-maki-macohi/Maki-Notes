@@ -62,9 +62,9 @@ Osin goes through the front door, phasing through, whatever this person is plann
 
 No.
 
-Osin stands in the building at the front door, starinnly to be met with a group of 9 guard robot requesting a peaceful surrender.
+Osin stands in the building at the front door, staring face to face with a group of 9 guard robot requesting a peaceful surrender.
 
-All of the robots share bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
+All of the robots share bowtie symbols on the top of the head above the dark green visor and on the center of their chests, j
 
 Osin didn't want to surrender, he had to help Sinco.
 
