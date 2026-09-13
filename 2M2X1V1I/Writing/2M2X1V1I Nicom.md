@@ -10,11 +10,9 @@ Ever since 2029 everything's been complete chaos, Tirok and Osin were freed by M
 
 But then everything was fine.
 
-Everyone's living their life, enjoying it.
+Everyone's living their life, enjoying it. Sinco's a transwoman now!
 
-Sinco's a transwoman now!
-
-Best thing to come out of the last 11 years of peace for Sinco 
+Best thing to come out of the last 11 years of peace for Sinco.
 
 # Chapter 2 : Infiltrate
 
