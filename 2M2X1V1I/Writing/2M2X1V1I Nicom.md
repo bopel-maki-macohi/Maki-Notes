@@ -34,7 +34,7 @@ Something's here.
 
 And it grabs Sinco.
 
-She tried to phase out of it but it phases with her, shes
+She tried to phase out of it but it phases with her, she's stuck in it's grasp.
 
 # Chapter 2 : Infiltrate
 
