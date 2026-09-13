@@ -102,7 +102,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 # Chapter 3 : Fuel
 
-Bowtie Corporation Building, April, 2047
+Bowtie Corporation Building, April, 2047 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
