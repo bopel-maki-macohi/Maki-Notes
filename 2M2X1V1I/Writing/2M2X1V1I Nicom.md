@@ -14,7 +14,11 @@ Everyone's living their life, enjoying it. Sinco's a transwoman now!
 
 Best thing to come out of the last 11 years for Sinco.
 
-Here's hoping that it stays that
+Here's hoping that it stays that way.
+
+Hoping.
+
+
 
 # Chapter 2 : Infiltrate
 
