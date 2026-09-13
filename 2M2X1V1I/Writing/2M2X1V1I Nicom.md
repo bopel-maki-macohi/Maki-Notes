@@ -50,10 +50,15 @@ Osin runs after the robot, heading to Tempo City.
 
 # Chapter 2 : Infiltrate
 
+Tempo City, April, 2047
+
 # Chapter 3 : Security
 
+The Freefall Foundation, April, 2047
 # Chapter 4 : Fuel
 
-# Chapter 5 : Aurora
+The Freefall Foundation, April, 2047
+# Chapter 5 : [[REDACTE]]
 
+The Freefall Foundation, April, 2047
 # Chapter 6 : Dishevel
