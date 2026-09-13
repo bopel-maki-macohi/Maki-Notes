@@ -119,7 +119,7 @@ Sinco barely remembers what the person had said seconds ago and tries to get cla
 
 "W-What?"
 
-The person's 
+The person's face gets nire abgrt
 
 # Chapter 4 : [[REDACTED]]
 
