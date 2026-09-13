@@ -46,11 +46,11 @@ Over the course of the 7 years there were 11 failed attempts, one thing this tim
 
 Nicom nearly quit the project, almost returned home.
 
-But come new years and the news speak of how the world has significantly improved ever since a universe and dimension hopping person named "Mr. Ruse" almost destroyed the world using Chaos Energy."
+But come new years and the news speak of how the world has significantly improved ever since a universe and dimension hopping person named "Mr. Ruse" almost destroyed the world using "Chaos Energy".
 
 Chaos
 Energy.
 
 That made it click.
 
-That's the missing piece.
+That's the missing piece Nicom needs.
