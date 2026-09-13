@@ -40,11 +40,11 @@ The robot proceeds to then shake Sinco around, trying to confirm that she's real
 
 After that the robot activated rockets in it's feet and began to blast upward, crashing through the roof of The Freefall Foundation, outside Sinco can see something, a red streak below.
 
-It's Osin
+It's Osin.
 
-Sinco tries to scream but only a tiny squeal can be heard as the robot hits Sinco in the head, knocking her unconscious.
+Sinco tries to scream for help but only a tiny squeal can be heard as the robot hits Sinco in the head, knocking her unconscious.
 
-This was enough however, and Osin, wali
+This was enough however, and Osin, skidding to a stop and l
 
 # Chapter 2 : Infiltrate
 
