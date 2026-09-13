@@ -42,7 +42,7 @@ In this universe Nicom actually had to get a job and decided to become a scienti
 
 And over the course of 7 years has been trying to go somewhere. That's all anyone knows. That Nicom's trying to go somewhere to find something or someone.
 
-Over the course of the 7 years there were 11 failed attempts, one thing this time, another thing another time, but then in the last 2 attempts, everything seemed perfect, but they failed.
+Over the course of the 7 years there were 11 failed attempts, one thing this time, another thing another time, but then in the last 2 attempts, everything seemed perfect, but they failed anyway.
 
 Nicom nearly quit the project, almost returned home.
 
