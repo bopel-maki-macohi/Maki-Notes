@@ -90,6 +90,8 @@ Well...
 
 What will the robots do if they capture him?
 
+They wanted a peaceful surrender and Osin's being the agressor right now...
+
 Osin surrenders.
 
 # Chapter 3 : Fuel
