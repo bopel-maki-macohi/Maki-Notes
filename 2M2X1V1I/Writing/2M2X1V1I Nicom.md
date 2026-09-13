@@ -32,7 +32,7 @@ Sinco's alert now.
 
 Something's here.
 
-And it grabs Sinco.
+And it grabs Sinco. I
 
 She tried to phase out of it but it phases with her, she's stuck in it's grasp.
 
