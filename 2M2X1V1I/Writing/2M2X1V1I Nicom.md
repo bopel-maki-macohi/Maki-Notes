@@ -54,7 +54,7 @@ Tempo City, April, 2047
 
 Osin has followed the robot to Tempo City, it ran towards a building.
 
-The Bowtie Corporation Building, a new corporation and it's building 2040.
+The Bowtie Corporation Building, a new corporation from 2039 and it's building from 2040.
 
 
 # Chapter 3 : Security
