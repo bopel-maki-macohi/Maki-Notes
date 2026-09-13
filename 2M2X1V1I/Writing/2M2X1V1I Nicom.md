@@ -70,7 +70,11 @@ Osin begins to phase, running out of the robots arm before it counter-phases him
 
 5 robots remain.
 
-4 have been tak
+4 have been taken down.
+
+Osin's confident, kinda.
+
+Osin charges electricity in his hands, 
 
 # Chapter 3 : Fuel
 
