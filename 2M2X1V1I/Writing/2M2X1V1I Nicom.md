@@ -6,6 +6,6 @@
 
 # Chapter 4 : Fuel
 
-# Chapter 5 : The Chaos Realm
+# Chapter 5 : Aurora
 
-# Chapter 6 : 
+# Chapter 6 : Aurora
