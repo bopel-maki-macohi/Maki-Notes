@@ -113,7 +113,7 @@ Sinco, startled, tries to get a look at the speaker but cant. But then they move
 
 They're clearly human or a humanoid, blue spikey hair with black accents on the hair to the sides of the face, they have a slightly larger then normal side-swept bang in-front of their left eye, a black bowtie on their right on the top of their head, they wear a dark-blue business suit with a dark green tie.
 
-Their face is filled with rage.
+Their face is filled with grief and rage.
 
 Sinco barely remembers what the person had said seconds ago and tries to get clarification on what they said.
 
