@@ -28,7 +28,7 @@ Members:
 Lex Breaker believes himself too above all of Hell's Higher-Ups to join
 
 # Nicom
-Back when Nicom was 12, in 2031, She was a transgirl, being girlish felt nice, freeing, it brought her so much joy and happiness.
+Back when Nicom was 12, in 2031, She was a trans girl, being girlish felt nice, freeing, it brought her so much joy and happiness.
 
 But in-between then and 2039.
 
@@ -45,7 +45,7 @@ Over the course of the 7 years there were 11 failed attempts, one thing this tim
 
 Nicom nearly quit the project, almost returned home.
 
-But come new years and the news speak of how the world has signifigantly improved ever since a universe and dimension hopping person named "Mr. Ruse" almost destroyed the world using Chaos Energy."
+But come new years and the news speak of how the world has significantly improved ever since a universe and dimension hopping person named "Mr. Ruse" almost destroyed the world using Chaos Energy."
 
 Chaos
 Energy.
