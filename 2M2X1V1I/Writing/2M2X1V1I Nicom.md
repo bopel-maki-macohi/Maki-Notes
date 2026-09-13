@@ -66,6 +66,8 @@ Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
 Osin curls into a spikey red ball and begins to saw off the heads of some of the robots but before he can continue he gets grabbed by one of the robots and slammed to the floor.
 
+Osin phas
+
 # Chapter 3 : Fuel
 
 Bowtie Corporation Building, April, 2047
