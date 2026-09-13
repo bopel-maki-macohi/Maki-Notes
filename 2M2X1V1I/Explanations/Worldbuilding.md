@@ -17,7 +17,7 @@ Nickname / Word for a Being with magical or enhanced abilities or powers in gene
 
 # Hell’s Higher-Ups
 
-Villain group that lasted only 
+Villain group that lasted only one large tale (2M2X1V1I)
 
 Members:
 - Mr. Ruse
