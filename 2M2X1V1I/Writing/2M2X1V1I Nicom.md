@@ -58,7 +58,7 @@ The Bowtie Corporation Building, a new corporation from 2039 and it's building f
 
 The robot flies to the top of the building, entering it.
 
-Osin goes through the front door, phasing through, only to be met with a plethora of guard robots, all sharing bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
+Osin goes through the front door, phasing through, only to be met with a plethora of guard robots, requesting a pea, all sharing bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
 
 Osin had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
 
