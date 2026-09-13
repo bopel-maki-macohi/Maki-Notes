@@ -10,6 +10,10 @@ Ever since 2029 everything's been complete chaos, Tirok and Osin were freed by M
 
 But then everything was fine.
 
+Everyone's living their life, enjoying it.
+
+Sinco's a transgirl now!
+
 # Chapter 2 : Infiltrate
 
 # Chapter 3 : Security
