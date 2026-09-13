@@ -28,4 +28,4 @@ Members:
 Lex Breaker believes himself too above all of Hell's Higher-Ups to join
 
 # Nicom
-This is the 2M2X1V1I Nicom. Specifically Kid Nicom from when she was 12 back in 2031. She was a transgirl back then, being girlish felt nice, freeing, it brought her so much joy and happiness.
+Back when Nicom was 12, in 2031, She was a transgirl, being girlish felt nice, freeing, it brought her so much joy and happiness.
