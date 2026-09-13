@@ -84,7 +84,7 @@ They all falter, seeming to start overheating, but then they all get back up, ha
 
 Osin's fucked now.
 
-What to do now...
+What can he even do?
 
 Well...
 
@@ -92,7 +92,7 @@ What will the robots do if they capture him?
 
 They wanted a peaceful surrender and Osin's being the aggressor right now...
 
-Osin decides to surrender and puts his hands in the air, palms open, falling to the ground on his h.
+Osin decides to surrender and puts his hands in the air, palms open, falling to the ground on his knees.
 
 # Chapter 3 : Fuel
 
