@@ -4,6 +4,8 @@
 
 # Chapter 3 : Security
 
-# Chapter 4 : Come Out Chaos
+# Chapter 4 : Fuel
 
-# Chapter 5 :
+# Chapter 5 : The Chaos Realm
+
+# Chapter 6 : 
