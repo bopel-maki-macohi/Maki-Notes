@@ -58,11 +58,13 @@ The Bowtie Corporation Building, a new corporation from 2039 and it's building f
 
 The robot flies to the top of the building, entering it.
 
-Osin goes through the front door, phasing through, only to be met with a plethora of guard robots, requesting a peaceful surrender.
+Osin goes through the front door, phasing through, only to be met with a group of 9 of guard robots, requesting a peaceful surrender.
 
 All of the robots share bowtie symbols on the top of the head above the dark green visor and on the center of their chests.
 
-Osin didn't want to surrender, he had to be swift, if Sinco couldn't escape one then Osin's fucked right now.
+Osin didn't want to surrender, he had to help Sinco.
+
+But if Sinco couldn't escape one then Osin's fucked right now.
 
 Osin speeds around the room, occasionally bouncing on one of the robots heads.
 
