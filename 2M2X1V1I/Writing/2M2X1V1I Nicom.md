@@ -54,7 +54,7 @@ Tempo City, April, 2047
 
 Osin has followed the robot that captured Sinco to Tempo City, it ran towards a building.
 
-The Bowtie Corporation Building, a new corporation established in 2039 but the building having being from 2040.
+The Bowtie Corporation Building, a new corporation established in 2039 but the building having being made in 2040.
 
 The robot flies to the top of the building, entering it.
 
