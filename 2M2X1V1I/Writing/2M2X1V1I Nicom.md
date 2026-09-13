@@ -82,6 +82,11 @@ Osin's fucked now.
 
 What to do now...
 
+Well...
+
+What will the robots do if they capture him?
+
+Osin surrenders.
 
 # Chapter 3 : Fuel
 
