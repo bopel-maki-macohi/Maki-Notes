@@ -32,7 +32,7 @@ Sinco's alert now.
 
 Something's here.
 
-And it grabs Sinco. It's a big ass robot,
+And it grabs Sinco. It's a big ass robot, round head, rounded c
 
 She tried to phase out of it but it phases with her, she's stuck in it's grasp.
 
