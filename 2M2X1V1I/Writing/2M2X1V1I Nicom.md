@@ -54,7 +54,7 @@ Tempo City, April, 2047
 
 # Chapter 3 : Security
 
-The Freefall Foundation, April, 2047
+Bowtied Corporation Building, April, 2047
 # Chapter 4 : Fuel
 
 The Freefall Foundation, April, 2047
