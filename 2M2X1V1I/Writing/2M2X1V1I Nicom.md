@@ -322,7 +322,7 @@ Memory Aurora's face changes into one straight from a cartoon, their pupils enla
 
 Memory Aurora: "Go."
 
-
+Nicom hesitates.
 
 
 # Chapter 5 : Dishevel
