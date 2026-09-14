@@ -482,4 +482,7 @@ Memory Aurora is a puddle of goo on the floor.
 
 Osin grabs a clump of it and tosses it into the sea.
 
-Sinco manages to get up, pretty hurt.
+Sinco manages to get up, pretty hurt, looking over at Nicom.
+
+Nicom's just laying there, almost entirely still.
+
