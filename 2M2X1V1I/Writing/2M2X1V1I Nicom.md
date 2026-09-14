@@ -468,4 +468,6 @@ Sinco's knocked down to the floor.
 
 Osin's next but he manages to dodge each attempted blow.
 
-Osin fakes a kick to the face only to flip around and uses 
+Osin fakes a kick to the face only to flip around and uses his whole body to charge Memory Aurora.
+
+Half of 
