@@ -173,9 +173,11 @@ The Person looks over at Sinco, a bit embarrassed.
 
 The Person: "My name's Nicom."
 
-Nicom then lo
+Nicom then looks back over at the doorway
 
-Nicom: ""
+Nicom: "And that..."
+"I think I'll call it 'The Chaos Realm'"
+"Its"
 
 # Chapter 4 : [[REDACTED]]
 
