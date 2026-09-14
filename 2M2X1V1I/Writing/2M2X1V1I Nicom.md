@@ -136,7 +136,7 @@ The Person takes the staff out of Sinco's face, moving over to the desk by the e
 
 They then begin to type on the desk, it turns out it's a console.
 
-The Person: "Ever since I "
+A device emerges from the ground with a hiss.
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
