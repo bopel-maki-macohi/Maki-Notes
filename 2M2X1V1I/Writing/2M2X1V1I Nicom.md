@@ -392,4 +392,6 @@ As fast as he can.
 
 Meanwhile with Sinco.
 
-She is running
+She is running towards Tempo City, cradling Nicom.
+
+The Memory Aurora contorted into 
