@@ -136,9 +136,11 @@ The Person takes the staff out of Sinco's face, moving over to the desk by the e
 
 They then begin to type on the desk, it turns out it's a console.
 
-A device emerges from the ground with a hiss, a syringe at the top.
+A device emerges from the ground with a hiss, a syringe at the top, tip pointing up.
 
 The person moves over towards it and they gran the syringe and stick it in their arm, pulling out blood with a green tint.
+
+They put the syringe back 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
