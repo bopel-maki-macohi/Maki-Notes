@@ -287,7 +287,12 @@ Aurora: "I'm not Aurora."
 The Memory Aurora begins to walk around Nicom in a circle.
 
 Memory Aurora: "Aurora is here."
-"But she "
+"But she didn't want to stay."
+"She didn't even come here intentionally."
+"When she disappeared."
+"She drowned."
+
+Nicom looks shocked,
 
 # Chapter 5 : Dishevel
 
