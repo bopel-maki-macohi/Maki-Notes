@@ -336,7 +336,7 @@ Memory Aurora (Mad): "GO."
 
 Nicom fully turns around, about to scream something but Memory Aurora is charging at them to push them off.
 
-Sinco runs in and punches Memory Aurora, grabbing Nicom by their collar to pull them up.
+Sinco runs in and punches Memory Aurora as hard as she can, grabbing Nicom by their collar to pull them up.
 
 Sinco: "You good?"
 
@@ -346,7 +346,7 @@ Sinco: "Good enough."
 
 Memory Aurora looks up.
 
-Her fa
+Her face took 
 
 # Chapter 5 : Dishevel
 
