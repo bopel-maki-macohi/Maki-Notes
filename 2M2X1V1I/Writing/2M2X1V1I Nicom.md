@@ -478,4 +478,8 @@ Osin: "English motherfucker."
 
 Osin performs a massive roundhouse kick.
 
-Memory Aurora is a puddle of goo on the floor
+Memory Aurora is a puddle of goo on the floor.
+
+Osin grabs a clump of it and tosses it into the sea.
+
+Sinco
