@@ -442,4 +442,4 @@ Both Sinco and Osin spin in a circle around Memory Aurora.
 
 Except this time both are charging up an attack.
 
-As soon as Memory Aurora
+As soon as Memory Aurora is about to try something, both Sinco and Osin simoltaniously 
