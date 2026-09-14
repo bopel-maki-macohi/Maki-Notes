@@ -242,11 +242,13 @@ There was someone there.
 
 Standing by the edge of Baron's land.
 
-Looking down 
+Looking down at the distorted green sea below.
 
 A girl.
 
-Green hair
+Green hair.
+
+
 
 # Chapter 5 : Dishevel
 
