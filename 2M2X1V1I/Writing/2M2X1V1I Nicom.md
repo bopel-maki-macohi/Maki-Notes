@@ -228,7 +228,11 @@ It's disorienting. Going on for way longer then it should, it's moving and it co
 
 Nicom keeps running.
 
-Sinco continues to jog.
+Sinco starts to slow down.
+
+She's dizzy.
+
+Nico
 
 # Chapter 5 : Dishevel
 
