@@ -476,4 +476,4 @@ Memory Aurora: "Eres divertido"
 
 Osin: "English motherfucker."
 
-Osin spins his hands 
+Osin 
