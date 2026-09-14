@@ -394,4 +394,4 @@ Meanwhile with Sinco.
 
 She is running towards Tempo City, cradling Nicom.
 
-The Memory Aurora contorted into 
+The Memory Aurora contorted into a mess of a black liquid
