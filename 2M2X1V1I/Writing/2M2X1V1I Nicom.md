@@ -486,4 +486,6 @@ Sinco manages to get up, pretty hurt, looking over at Nicom.
 
 Nicom's just laying there, almost entirely still.
 
-Sinco shuffles over to Nicom, picking him up
+Sinco shuffles over to Nicom, picking him up, performing a Fireman's carry.
+
+Sinco then begins to shuffle over to the doorway.
