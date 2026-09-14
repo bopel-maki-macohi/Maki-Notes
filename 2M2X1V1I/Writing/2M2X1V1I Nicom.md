@@ -414,4 +414,6 @@ The Memory Aurora is not far behind.
 
 Sinco nearly makes it to the Tempo City.
 
-The bridge behind her starts to collapse as The Memory Aurora screams once more causing it to collapse this time.
+The bridge behind her starts to collapse as The Memory Aurora screams once more.
+
+Sinco has to jump to avoid falling but then gets hit 
