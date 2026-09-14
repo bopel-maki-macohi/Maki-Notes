@@ -334,8 +334,9 @@ Memory Aurora frowns more clearly.
 
 Memory Aurora (Mad): "GO."
 
-Nicom fully turns around 
+Nicom fully turns around, about to scream something but Memory Aurora is charging at them to push them off.
 
+Sinco runs in an
 
 # Chapter 5 : Dishevel
 
