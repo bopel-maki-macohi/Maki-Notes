@@ -408,4 +408,4 @@ Sinco tosses Nicom up, who screams as soon as she starts going up.
 
 Osin gets in view, Sinco grabs his hand and on their way down grabs Nicom's hand too.
 
-Sinco now is holding Osin and Nicom and books it towards the Tempo City
+Sinco now is holding Osin and Nicom and books it towards the Tempo City of The Chaos Realm
