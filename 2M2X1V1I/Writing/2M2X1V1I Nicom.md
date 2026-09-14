@@ -111,7 +111,7 @@ A voice emerges from behind Sinco's chair.
 
 Sinco, startled, tries to get a look at the speaker but cant. But then they move in front of Sinco.
 
-They're clearly human or a humanoid, blue spikey hair with black accents on the hair to the sides of the face, they have a slightly larger then normal side-swept bang in-front of their left eye, a black bowtie on their right on the top of their head, they wear a dark-blue business suit with a dark green tie.
+They're clearly human or a humanoid, blue spikey hair with black accents on the hair to the sides of the face, they have a slightly larger then normal side-swept bang in front of their left eye, a black bowtie on their right on the top of their head, they wear a dark-blue business suit with a dark green tie.
 
 Their face is filled with grief and rage.
 
@@ -165,7 +165,7 @@ Sinco: "Just calm down."
 
 The Person moves out of the way as Sinco rubs her hands together, electricity being summoned around it.
 
-Sinco strikes the rubble in-front of the doorway with the electricity and they can now walk into the room, which is now filling with a dark smoke emerging from the doorway.
+Sinco strikes the rubble in front of the doorway with the electricity and they can now walk into the room, which is now filling with a dark smoke emerging from the doorway.
 
 Sinco: "What the hell is this project supposed to be dude?"
 
