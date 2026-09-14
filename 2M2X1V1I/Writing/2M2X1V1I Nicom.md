@@ -307,7 +307,9 @@ Memory Aurora: "The normal world can be cruel."
 
 Nicom: "What about me?"
 
-Memory Aurora: "You "
+Memory Aurora: "You were too young and immature to understand her pain."
+
+
 
 # Chapter 5 : Dishevel
 
