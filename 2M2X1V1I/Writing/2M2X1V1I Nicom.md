@@ -278,7 +278,7 @@ The Memory Aurora begins to walk around Nicom in a circle.
 Memory Aurora: "Aurora was here."
 "But they didn't want to stay."
 "They didn't even come here intentionally."
-"When she disappeared."
+"When they disappeared."
 "They had drowned."
 
 Nicom looks shocked.
@@ -287,6 +287,7 @@ Memory Aurora: "But then you accidentally created this place."
 "And they got to live once more."
 "They were able to breathe here."
 "But they didn't want to."
+"And they proceeded to do it again."
 
 Nicom: "Why?"
 
