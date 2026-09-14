@@ -338,7 +338,13 @@ Nicom fully turns around, about to scream something but Memory Aurora is chargin
 
 Sinco runs in and punches Memory Aurora, grabbing Nicom by their collar to pull them up.
 
+Sinco: "You good?"
 
+Nicom: "Physically."
+
+Sinco: "Good enough."
+
+Memory Aurora looks up, seeing Sinco.
 
 # Chapter 5 : Dishevel
 
