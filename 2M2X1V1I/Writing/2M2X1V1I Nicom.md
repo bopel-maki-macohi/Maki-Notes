@@ -366,4 +366,10 @@ As the guard robots clear out the entrance of debride from collapsed ceiling...
 
 No one is there...
 
-Th
+Nothing is there...
+
+It's just black.
+
+And the black is coming out.
+
+It leaks out in a foggy form
