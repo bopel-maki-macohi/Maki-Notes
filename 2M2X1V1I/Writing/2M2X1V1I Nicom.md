@@ -152,7 +152,7 @@ The material inside the wall doorway begins to distort, seeming to melt into its
 
 Violently.
 
-As the doorway finishes being engulfed in the golden light, the golden glow, as it finishes it's distortion, a shockwave emerges from it, causing the ceiling to begin to collapse in cer
+As the doorway finishes being engulfed in the golden light, the golden glow, as it finishes it's distortion, a shockwave emerges from it, causing the ceiling to begin to collapse in certain areas, nearly crushing Sinco and The Person, but Sinco grabs The Person and 
 
 # Chapter 4 : [[REDACTED]]
 
