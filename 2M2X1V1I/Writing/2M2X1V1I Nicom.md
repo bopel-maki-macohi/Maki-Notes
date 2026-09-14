@@ -126,7 +126,7 @@ Sinco (scared): "The demon?"
 The Person (pissed): "YES."
 
 Sinco (scared): "I can't do that anymore."
-""
+"He's basically dead, I haven't been able to summon him since"
 
 # Chapter 4 : [[REDACTED]]
 
