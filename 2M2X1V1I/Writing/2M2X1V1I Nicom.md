@@ -430,4 +430,6 @@ Osin runs in front of The Memory Aurora and jumps up, punching a hole clean thro
 
 The Memory Aurora keeps going.
 
-Osin spins in 
+Osin spins in a circle around The Memory Aurora, trying to disorient it.
+
+Sinco manages gets up to see this.
