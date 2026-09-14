@@ -422,4 +422,6 @@ Sinco falls to the floor, Osin is able to stand up ready for a fight, Nicom fall
 
 The Memory Aurora arrives at Tempo City.
 
-They lo
+They look at the doorway to The Chaos Realm and smile.
+
+Rushing towards it.
