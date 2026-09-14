@@ -132,7 +132,7 @@ The Person pulls out a staff that then begins to crackle with electricity, jabbi
 
 The Person: "We're gonna fix that today."
 
-The Person takes the staff out of Sinco's face, moving over to the desk by the entrance.
+The Person takes the staff out of Sinco's face, moving over to the desk by the entrance behind Sinco
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
