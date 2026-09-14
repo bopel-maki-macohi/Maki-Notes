@@ -344,7 +344,9 @@ Nicom: "Physically."
 
 Sinco: "Good enough."
 
-Memory Aurora looks up, seeing Sinco.
+Memory Aurora looks up.
+
+Her fa
 
 # Chapter 5 : Dishevel
 
