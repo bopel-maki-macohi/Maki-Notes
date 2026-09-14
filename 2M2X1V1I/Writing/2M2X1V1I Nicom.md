@@ -224,7 +224,11 @@ It's a mess of shapes, contorting into one another.
 
 Then there is the bridge from Tempo City to Baron.
 
-It's disorienting. Going on for way longer then it should, it's moving and it constantly feels like 
+It's disorienting. Going on for way longer then it should, it's moving and it constantly feels like it's about to collapse.
+
+Nicom keeps running.
+
+Sinco continues to jog.
 
 # Chapter 5 : Dishevel
 
