@@ -338,6 +338,8 @@ Nicom fully turns around, about to scream something but Memory Aurora is chargin
 
 Sinco runs in and punches Memory Aurora, grabbing Nicom by their collar to pull them up.
 
+
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
