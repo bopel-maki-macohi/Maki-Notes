@@ -246,7 +246,7 @@ Looking down at the distorted green sea below.
 
 A girl.
 
-Green hair that 
+Green hair with long bangs that stopped a bit after they wen
 
 # Chapter 5 : Dishevel
 
