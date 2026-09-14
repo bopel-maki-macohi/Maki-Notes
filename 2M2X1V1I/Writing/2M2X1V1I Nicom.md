@@ -146,7 +146,7 @@ They head over to the console, does something, and the device goes back down.
 
 One of the tube connected to the console glows as a green electricity flows through it towards Sinco's chair.
 
-As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco destroys it but the process has alread
+As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco, now having her regular powers back and starting to stop glowing, destroys it but the process has already begun.
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
