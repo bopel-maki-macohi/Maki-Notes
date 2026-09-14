@@ -482,4 +482,6 @@ Memory Aurora is a puddle of goo on the floor.
 
 Osin grabs a clump of it and tosses it into the sea.
 
-Sinco manages to get
+Sinco sits up.
+
+Sinco: ""
