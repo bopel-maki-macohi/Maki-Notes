@@ -128,7 +128,7 @@ The Person (pissed): "YES."
 Sinco (scared): "I can't do that anymore."
 "He's basically dead, I haven't been able to summon him since like 2032."
 
-The person pulls out a staff that then begins to crackle with 
+The person pulls out a staff that then begins to crackle with electricity, jabbing the staff into Sinco's face, 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
