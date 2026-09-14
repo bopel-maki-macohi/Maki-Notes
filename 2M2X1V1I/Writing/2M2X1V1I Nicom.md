@@ -190,7 +190,7 @@ Sinco: "Got a name for it?"
 
 Nicom: "'The Chaos Realm' sounds good."
 
-# Chapter 4 : Aurora
+# Chapter 4 : \[\[Memories]]
 
 The Chaos Realm, April, 2047
 
