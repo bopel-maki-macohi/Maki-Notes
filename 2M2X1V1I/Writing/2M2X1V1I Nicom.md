@@ -372,4 +372,6 @@ It's just black.
 
 And the black is coming out.
 
-It leaks out in a foggy form
+It leaks out in a foggy form.
+
+Osin, not wanting to find out what the fuck 
