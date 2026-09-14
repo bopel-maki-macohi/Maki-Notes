@@ -190,7 +190,7 @@ Sinco: "Got a name for it?"
 
 Nicom: "'The Chaos Realm' sounds good."
 
-# Chapter 4 : Au
+# Chapter 4 : Aurora
 
 The Chaos Realm, April, 2047
 
@@ -221,6 +221,8 @@ Things don't align how they should.
 Things don't look how they should.
 
 It's a mess of shapes, contorting into one another.
+
+Then there is the bridge from 
 
 # Chapter 5 : Dishevel
 
