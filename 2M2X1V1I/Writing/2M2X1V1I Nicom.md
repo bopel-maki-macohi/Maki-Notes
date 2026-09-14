@@ -394,7 +394,7 @@ Meanwhile with Sinco.
 
 She is running towards Tempo City, on the bridge from Baron to Tempo City, cradling Nicom.
 
-The Memory Aurora had contorted into a mess of a black liquid, chasing after Sinco and Nicom.
+Memory Aurora had contorted into a mess of a black liquid, chasing after Sinco and Nicom.
 
 Their roars cause damage to the bridge, forcing Sinco to slow down so she doesn't fall off.
 
@@ -410,17 +410,17 @@ Osin gets in view, Sinco grabs his hand and on their way down grabs Nicom's hand
 
 Sinco now is holding Osin and Nicom and books it towards the Tempo City of The Chaos Realm.
 
-The Memory Aurora is not far behind.
+Memory Aurora is not far behind.
 
 Sinco nearly makes it to the Tempo City.
 
 The bridge behind her starts to collapse as The Memory Aurora screams once more.
 
-Sinco has to jump up high to avoid falling but then gets hit out of the sky by The Memory Aurora.
+Sinco has to jump up high to avoid falling but then gets hit out of the sky by Memory Aurora.
 
 Sinco falls to the floor, Osin is able to stand up ready for a fight, Nicom falls face first into the ground.
 
-The Memory Aurora arrives at Tempo City.
+Memory Aurora arrives at Tempo City.
 
 They look at the doorway to The Chaos Realm and smile.
 
