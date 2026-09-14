@@ -224,7 +224,7 @@ It's a mess of shapes, contorting into one another.
 
 Then there is the bridge from Tempo City to Baron.
 
-It's disorienting. Going on
+It's disorienting. Going on for way longer then it should, it's moving and it constantly feels like 
 
 # Chapter 5 : Dishevel
 
