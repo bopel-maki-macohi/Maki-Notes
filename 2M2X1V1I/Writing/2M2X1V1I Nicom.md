@@ -258,7 +258,9 @@ Tears building up in their eyes.
 
 Nicom (tearing up): "Aurora?"
 
+The girl looks over.
 
+Aurora: ""
 
 # Chapter 5 : Dishevel
 
