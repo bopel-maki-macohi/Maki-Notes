@@ -438,4 +438,8 @@ The Memory Aurora flicks Osin away.
 
 Sinco jumps towards him and grabs Osin.
 
-Both Sinco and Osin
+Both Sinco and Osin spin in a circle around The Memory Aurora.
+
+Except this time both are charging up an attack.
+
+As soon as M
