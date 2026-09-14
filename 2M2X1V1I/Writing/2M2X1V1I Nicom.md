@@ -252,6 +252,8 @@ A spike of green hair stick out, curving towards the hair in the back.
 
 The hair in the back has spikes and a black scrunchie bringing up some hair only for it to flow down like the bangs behind the hair spikes, except it stopped before the chin.
 
+Nicom looked at her.
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
