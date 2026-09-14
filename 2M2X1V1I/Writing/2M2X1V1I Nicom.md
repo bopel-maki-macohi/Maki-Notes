@@ -362,4 +362,8 @@ Osin has been brought to the room in the Bowtie Corporation Building holding the
 
 The room where Sinco and her Kidnapper... were...
 
-As the guard robots clear out the entrance of debree from
+As the guard robots clear out the entrance of debride from collapsed ceiling...
+
+No one is there...
+
+Th
