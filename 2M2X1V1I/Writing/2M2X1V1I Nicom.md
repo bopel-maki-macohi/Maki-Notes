@@ -301,7 +301,9 @@ Memory Aurora: "You were too young and immature to understand their pain."
 
 Memory Aurora stops circling Nicom and gets in front of them.
 
-Memory Aurora: "You can't save her."
+Memory Aurora: "Look at the sea."
+
+Memory Aurora forces Nicom t
 
 # Chapter 5 : Dishevel
 
