@@ -128,7 +128,7 @@ The Person (pissed): "YES."
 Sinco (scared): "I can't do that anymore."
 "He's basically dead, I haven't been able to summon him since like 2032."
 
-The person
+The person 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
