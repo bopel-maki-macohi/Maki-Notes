@@ -350,7 +350,9 @@ Her face's shape shifted drastically from Sinco's punch.
 
 It's like clay having been punched while it's still soft.
 
-Memory Aurora: 
+Memory Aurora smiles.
+
+Atleast it looks like it did.
 
 # Chapter 5 : Dishevel
 
