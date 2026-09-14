@@ -238,6 +238,8 @@ After several seconds that seemed to just stretch on for hours.
 
 Nicom arrived at Baron.
 
+There w
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
