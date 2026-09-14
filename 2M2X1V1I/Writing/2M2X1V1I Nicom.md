@@ -284,7 +284,10 @@ Aurora: "I'm not Aurora."
 "You made me."
 "And I just linked mentally with the actual Aurora."
 
-Nicom loo
+The Memory Aurora begins to walk around Nicom in a circle.
+
+Memory Aurora: "Aurora is here."
+"But she "
 
 # Chapter 5 : Dishevel
 
