@@ -299,6 +299,10 @@ Memory Aurora: "But then you accidentally created this place."
 "She was able to breathe here."
 "But she didn't want to."
 
+Nicom: "Why."
+
+Memory Aurora: "The normal world can be cru"
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
