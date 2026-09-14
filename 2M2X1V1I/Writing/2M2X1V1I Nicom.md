@@ -159,9 +159,11 @@ The Person screams, trying to get back into the room.
 Sinco: "Hey Hey!"
 "I can get us back in."
 
-Th
+The Person looks over, their face now filling with tears.
 
-"Just calm down."
+Sinco: "Just calm down."
+
+The Person moves out of the way and 
 
 # Chapter 4 : [[REDACTED]]
 
