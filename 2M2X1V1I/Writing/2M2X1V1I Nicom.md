@@ -456,4 +456,8 @@ They're taller.
 
 Their face is melting.
 
-The hair falls
+The hair falls all the way to the floor.
+
+Their arms are different lengths.
+
+How doe
