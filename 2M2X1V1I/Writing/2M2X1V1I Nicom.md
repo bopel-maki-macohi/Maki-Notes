@@ -426,20 +426,20 @@ They look at the doorway to The Chaos Realm and smile.
 
 Rushing towards it.
 
-Osin runs in front of The Memory Aurora and jumps up, punching a hole clean through them, he's disgusted by it.
+Osin runs in front of Memory Aurora and jumps up, punching a hole clean through them, he's disgusted by it.
 
-The Memory Aurora keeps going.
+Memory Aurora keeps going.
 
-Osin spins in a circle around The Memory Aurora, trying to disorient it.
+Osin spins in a circle around Memory Aurora, trying to disorient them.
 
 Sinco manages gets up and sees this.
 
-The Memory Aurora flicks Osin away.
+Memory Aurora flicks Osin away.
 
 Sinco jumps towards him and grabs Osin.
 
-Both Sinco and Osin spin in a circle around The Memory Aurora.
+Both Sinco and Osin spin in a circle around Memory Aurora.
 
 Except this time both are charging up an attack.
 
-As soon as M
+As soon as Memory Aurora
