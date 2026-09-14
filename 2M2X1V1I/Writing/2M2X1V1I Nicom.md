@@ -126,7 +126,7 @@ Sinco (scared): "The demon?"
 The Person (pissed): "YES."
 
 Sinco (scared): "I can't do that anymore."
-"He's basically dead, I haven't been able to summon him since like 2032."
+"He's basically dead, I haven't been able to summon him since like 2039."
 
 The Person pulls out a staff that then begins to crackle with electricity, jabbing the staff into Sinco's face, electrocuting her.
 
@@ -179,7 +179,7 @@ Nicom: "And that..."
 "I think I'll call it 'The Chaos Realm'"
 "It's a world."
 "A place."
-"A place I found on accident."
+"A place I found on accident during a Chaos Wave in 2039."
 
 # Chapter 4 : [[REDACTED]]
 
