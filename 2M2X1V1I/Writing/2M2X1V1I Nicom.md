@@ -125,7 +125,7 @@ The person's face gets more angry.
 
 Sinco (scared): "The demon?"
 
-The Person (scared): "YES."
+The Person (pissed): "YES."
 
 Sinco (scared): "I can't do that anymore"
 
