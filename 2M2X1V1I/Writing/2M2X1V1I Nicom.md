@@ -165,7 +165,7 @@ Sinco: "Just calm down."
 
 The Person moves out of the way as Sinco rubs her hands together, electricity being summoned around it.
 
-Sinco strikes the rubble in-front of the doorway with the electricity and they can now walk into the room, which is now filling with a dark smoke.
+Sinco strikes the rubble in-front of the doorway with the electricity and they can now walk into the room, which is now filling with a dark smoke emerging from the doorway,
 
 # Chapter 4 : [[REDACTED]]
 
