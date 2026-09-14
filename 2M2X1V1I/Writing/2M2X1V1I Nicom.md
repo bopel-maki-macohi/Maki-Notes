@@ -238,7 +238,13 @@ After several seconds that seemed to just stretch on for hours.
 
 Nicom arrived at Baron.
 
-There w
+There was someone there.
+
+Far ahead.
+
+A girl.
+
+Green hair
 
 # Chapter 5 : Dishevel
 
