@@ -417,3 +417,5 @@ Sinco nearly makes it to the Tempo City.
 The bridge behind her starts to collapse as The Memory Aurora screams once more.
 
 Sinco has to jump up high to avoid falling but then gets hit out of the sky by The Memory Aurora.
+
+Sinco falls to the floor, Osin is able to stand up ready for a fight,
