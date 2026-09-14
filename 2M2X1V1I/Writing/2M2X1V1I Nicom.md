@@ -490,4 +490,6 @@ Sinco shuffles over to Nicom, picking him up, performing a Fireman's carry.
 
 Sinco then begins to shuffle over to the doorway.
 
-Osin's already back 
+Osin's already back in the Bowtie Corporation Building.
+
+As soon as Sinco and Nicom come through Osin blasts
