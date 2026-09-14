@@ -202,7 +202,13 @@ Darker then dark.
 
 But at the same time it's just so bright that it's unbearable.
 
-The are
+Nicom begins to run.
+
+Sinco begins to jog.
+
+They move for awhile.
+
+A land begins to be visible.
 
 # Chapter 5 : Dishevel
 
