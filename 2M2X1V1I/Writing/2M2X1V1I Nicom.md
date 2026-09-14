@@ -232,7 +232,7 @@ Sinco starts to slow down.
 
 She's dizzy.
 
-Nico
+Nicom continues to go.
 
 # Chapter 5 : Dishevel
 
