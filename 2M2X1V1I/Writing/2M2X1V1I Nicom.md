@@ -177,7 +177,9 @@ Nicom then looks back over at the doorway
 
 Nicom: "And that..."
 "I think I'll call it 'The Chaos Realm'"
-"Its"
+"It's a world."
+"A place."
+"A place I found on accident."
 
 # Chapter 4 : [[REDACTED]]
 
