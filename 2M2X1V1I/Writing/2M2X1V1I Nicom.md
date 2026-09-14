@@ -184,6 +184,11 @@ Nicom: "And that..."
 Sinco (Impatient): "Summary please?"
 
 Nicom: "It's another world, a constantly expanding world."
+"A world out of chaos energy."
+
+Sinco: "Got a name for it?"
+
+Nicom: "The Chaos Realm sounds good."
 
 # Chapter 4 : [[REDACTED]]
 
