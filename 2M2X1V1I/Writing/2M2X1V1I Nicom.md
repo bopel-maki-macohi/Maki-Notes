@@ -474,4 +474,6 @@ Memory Aurora's split in half, one half where the full body was, the other half 
 
 Memory Aurora: "Eres divertido"
 
-Osin
+Osin: "English motherfucker."
+
+Osin spins his hands 
