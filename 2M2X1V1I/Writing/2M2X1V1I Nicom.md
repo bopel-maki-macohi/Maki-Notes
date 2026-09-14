@@ -463,3 +463,7 @@ Their arms are different lengths.
 How does this thing even balance?
 
 Memory Aurora is now more agile however and strikes Sinco straight in the chest.
+
+Sinco's knocked down to the floor.
+
+Osin's next but he manages to dodge each a
