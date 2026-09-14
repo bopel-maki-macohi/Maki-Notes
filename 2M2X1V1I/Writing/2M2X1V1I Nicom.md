@@ -400,4 +400,8 @@ Their roars cause damage to the bridge, forcing Sinco to slow down so she doesn'
 
 But then she's right back to running.
 
-She sees a red glow coming towards her
+She sees a red glow coming towards her.
+
+Sinco can guess who it is.
+
+Sinco tosses Nicom up, who screams 
