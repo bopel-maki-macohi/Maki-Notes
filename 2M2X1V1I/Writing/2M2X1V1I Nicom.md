@@ -318,7 +318,7 @@ Crossing their arms.
 
 Nicom: "I..."
 
-Memory Aurora's fac
+Memory Aurora's face changes into one straight from a cartoon, their pui dilate to 
 
 Memory Aurora: Proceed."
 
