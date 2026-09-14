@@ -358,4 +358,6 @@ At least it looks like they did.
 
 Bowtie Corporation Building, April, 2047
 
-Osin has been brought to the room in the Bow
+Osin has been brought to the room in the Bowtie Corporation Building holding the prison cells.
+
+The room where Sinco and her Kidnapper.
