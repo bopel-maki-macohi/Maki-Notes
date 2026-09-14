@@ -425,3 +425,5 @@ The Memory Aurora arrives at Tempo City.
 They look at the doorway to The Chaos Realm and smile.
 
 Rushing towards it.
+
+Osin runs in front of The Memory Aurora and jumps up, 
