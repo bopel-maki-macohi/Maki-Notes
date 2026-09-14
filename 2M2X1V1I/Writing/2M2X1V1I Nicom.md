@@ -123,6 +123,8 @@ The person's face gets more angry.
 
 "SUMMON CHAOS."
 
+Sinco: "The demon?"
+
 
 
 # Chapter 4 : [[REDACTED]]
