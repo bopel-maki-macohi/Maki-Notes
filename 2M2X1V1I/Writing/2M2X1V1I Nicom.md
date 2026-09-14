@@ -194,7 +194,7 @@ Nicom: "'The Chaos Realm' sounds good."
 
 The Chaos Realm, April, 2047
 
-
+Nicom and Sinco walk into the doorway.
 
 # Chapter 5 : Dishevel
 
