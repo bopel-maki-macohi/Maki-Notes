@@ -318,7 +318,7 @@ Crossing their arms.
 
 Nicom: "I..."
 
-Memory Aurora's face changes into one straight from a cartoon, their pui dilate to 
+Memory Aurora's face changes into one straight from a cartoon, their pupils enlarge and dilate to inhuman proportion, their smile widening to n
 
 Memory Aurora: Proceed."
 
