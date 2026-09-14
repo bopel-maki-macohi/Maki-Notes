@@ -358,4 +358,4 @@ At least it looks like they did.
 
 Bowtie Corporation Building, April, 2047
 
-Osin has been 
+Osin has been brought
