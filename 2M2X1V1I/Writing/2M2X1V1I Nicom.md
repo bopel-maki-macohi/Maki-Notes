@@ -476,4 +476,6 @@ Memory Aurora: "Eres divertido"
 
 Osin: "English motherfucker."
 
-Osin performs a massive roundhouse kick
+Osin performs a massive roundhouse kick.
+
+Memory Aurora is a puddle of goo on the floor
