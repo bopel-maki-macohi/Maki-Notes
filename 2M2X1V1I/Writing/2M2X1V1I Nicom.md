@@ -334,6 +334,8 @@ Memory Aurora frowns more clearly.
 
 Memory Aurora (Mad): "GO."
 
+Nicom 
+
 
 # Chapter 5 : Dishevel
 
