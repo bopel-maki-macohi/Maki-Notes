@@ -119,15 +119,14 @@ Sinco barely remembers what the person had said seconds ago and tries to get cla
 
 "W-What?"
 
-The person's face gets more angry.
-
-"SUMMON CHAOS."
+The Person (getting more pissed): "SUMMON CHAOS."
 
 Sinco (scared): "The demon?"
 
 The Person (pissed): "YES."
 
-Sinco (scared): "I can't do that anymore"
+Sinco (scared): "I can't do that anymore."
+""
 
 # Chapter 4 : [[REDACTED]]
 
