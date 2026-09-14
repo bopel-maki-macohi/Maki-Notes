@@ -140,7 +140,9 @@ A device emerges from the ground with a hiss, a syringe at the top, tip pointing
 
 The person moves over towards it and they gran the syringe and stick it in their arm, pulling out blood with a green tint.
 
-They put the syringe back 
+They put the syringe back into the device, this time the tip pointing down.
+
+They head over to the console, does something,
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
