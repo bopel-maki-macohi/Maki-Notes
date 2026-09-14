@@ -240,7 +240,9 @@ Nicom arrived at Baron.
 
 There was someone there.
 
-Far ahead.
+Standing by the edge of Baron's land.
+
+Looking down 
 
 A girl.
 
