@@ -301,7 +301,13 @@ Memory Aurora: "But then you accidentally created this place."
 
 Nicom: "Why."
 
-Memory Aurora: "The normal world can be cru"
+Memory Aurora: "The normal world can be cruel."
+"It can be overwhelming."
+"It can just be too much to handle."
+
+Nicom: "What about me?"
+
+Memory Aurora: "You "
 
 # Chapter 5 : Dishevel
 
