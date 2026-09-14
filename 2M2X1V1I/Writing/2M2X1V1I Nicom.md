@@ -378,4 +378,8 @@ Osin kicks the Guard Robots that are with him into the room, breaks free from hi
 
 Sinco's got to be in there right?
 
-As Osin enters, it's Tempo City but everything is off in just some way, and that isn't mentioning the green tint the place has, buildings overlap, streets 
+As Osin enters, it's Tempo City but everything is off in just some way, and that isn't mentioning the green tint the place has, buildings overlap, streets curve upward, buildings are clipping into the ground.
+
+This place is weird.
+
+O
