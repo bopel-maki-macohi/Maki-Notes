@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that is built into the wall, that looks like a doorway, several tubes and wires connecting to it, but inside the doorway is just some slightly thick piece of a material that Sinco can't quite make out.
+Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that is built into the wall, a doorway seems to be in the middle, several tubes and wires connecting to it, but the doorway goes nowhere, there's just some slightly thick piece of a material that Sinco can't quite make out.
 
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
