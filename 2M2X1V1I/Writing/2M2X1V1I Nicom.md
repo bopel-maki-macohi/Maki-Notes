@@ -462,4 +462,4 @@ Their arms are different lengths.
 
 How does this thing even balance?
 
-Memory Aurora is now more agile however and strikes Sinco straight in the chest
+Memory Aurora is now more agile however and strikes Sinco straight in the chest.
