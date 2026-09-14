@@ -389,3 +389,7 @@ Coming from in front of him.
 He runs in that direction.
 
 As fast as he can.
+
+Meanwhile with Sinco.
+
+She is running
