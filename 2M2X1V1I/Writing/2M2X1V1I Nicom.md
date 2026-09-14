@@ -346,7 +346,9 @@ Sinco: "Good enough."
 
 Memory Aurora looks up.
 
-Her face took 
+Her face's shape shifted drastically from Sinco's punch.
+
+It's like clay having been
 
 # Chapter 5 : Dishevel
 
