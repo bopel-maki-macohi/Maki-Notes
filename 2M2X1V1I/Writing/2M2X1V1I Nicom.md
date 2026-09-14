@@ -163,7 +163,9 @@ The Person looks over, their face now filling with tears.
 
 Sinco: "Just calm down."
 
-The Person moves out of the way and 
+The Person moves out of the way as Sinco rubs her hands together, electricity being summoned around it.
+
+Sinco strikes the rubble infront
 
 # Chapter 4 : [[REDACTED]]
 
