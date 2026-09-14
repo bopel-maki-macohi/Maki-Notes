@@ -392,8 +392,8 @@ As fast as he can.
 
 Meanwhile with Sinco.
 
-She is running towards Tempo City, cradling Nicom.
+She is running towards Tempo City, on the bridge from Baron to Tempo City, cradling Nicom.
 
 The Memory Aurora had contorted into a mess of a black liquid, chasing after Sinco and Nicom.
 
-Their roars cause damage to the bridge
+Their roars cause damage to the bridge, forcing Sinco to slow down so she do
