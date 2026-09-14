@@ -294,7 +294,8 @@ Memory Aurora: "Aurora is here."
 
 Nicom looks shocked.
 
-Memory 
+Memory Aurora: "But then you accidentally created this place."
+"And she got to live once more"
 
 # Chapter 5 : Dishevel
 
