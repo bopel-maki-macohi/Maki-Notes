@@ -273,7 +273,14 @@ Nicom (wiping tears): "W-What?"
 Aurora: "You didn't find me."
 "You found a memory."
 "I know this place."
+"I knew."
+"I knew this place."
 
+Nicom: "Why are you saying it like that?"
+
+Aurora: "I'm not Aurora."
+"I'm just her memory."
+"T"
 
 # Chapter 5 : Dishevel
 
