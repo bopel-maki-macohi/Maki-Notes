@@ -154,7 +154,14 @@ Violently.
 
 As the doorway finishes being engulfed in the golden light, the golden glow, as it finishes it's distortion, a shockwave emerges from it, causing the ceiling to begin to collapse in certain areas, nearly crushing Sinco and The Person, but Sinco grabs The Person and speeds her and them out of the room, the entrance being covered up with collapsed ceiling.
 
-The Person scre
+The Person screams, trying to get back into the room.
+
+Sinco: "Hey Hey!"
+"I can get us back in."
+
+Th
+
+"Just calm down."
 
 # Chapter 4 : [[REDACTED]]
 
