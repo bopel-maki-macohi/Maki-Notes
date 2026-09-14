@@ -324,6 +324,10 @@ Memory Aurora: "Go."
 
 Nicom hesitates.
 
+Memory Aurora's 
+
+Memory Aurora: "Go."
+
 
 # Chapter 5 : Dishevel
 
