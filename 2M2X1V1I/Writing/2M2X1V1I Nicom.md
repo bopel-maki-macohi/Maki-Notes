@@ -152,7 +152,7 @@ The material inside the wall doorway begins to distort, seeming to melt into its
 
 Violently.
 
-As the doorway finishes being engulfed i
+As the doorway finishes being engulfed in the golden light, the golden glow, as it finishes it's distortion,
 
 # Chapter 4 : [[REDACTED]]
 
