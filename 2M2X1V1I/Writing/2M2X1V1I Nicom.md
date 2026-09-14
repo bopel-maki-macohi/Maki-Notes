@@ -352,7 +352,7 @@ It's like clay having been punched while it's still soft.
 
 Memory Aurora smiles.
 
-Atleast it looks like it did.
+At least it looks like they did.
 
 # Chapter 5 : Dishevel
 
