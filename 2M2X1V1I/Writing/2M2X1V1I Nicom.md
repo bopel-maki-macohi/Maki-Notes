@@ -420,3 +420,4 @@ Sinco has to jump up high to avoid falling but then gets hit out of the sky by T
 
 Sinco falls to the floor, Osin is able to stand up ready for a fight, Nicom falls face first into the ground.
 
+The Memory Aurora arrives at Tempo
