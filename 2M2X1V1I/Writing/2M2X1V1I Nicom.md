@@ -264,7 +264,7 @@ Aurora: "Nicom?"
 
 Nicom (crying): "I found you."
 
-Aurora: "I didn't want you to."
+Aurora: "No you didn't."
 
 Nicom freezes up.
 
@@ -279,10 +279,9 @@ Aurora: "You didn't find me."
 Nicom: "Why are you saying it like that?"
 
 Aurora: "I'm not Aurora."
-"I'm just her memory."
+"I'm just their memory."
 "The thing that's been stuck with you for 7 years."
 "You made me."
-"And I just linked mentally with the actual Aurora."
 
 The Memory Aurora begins to walk around Nicom in a circle.
 
@@ -290,7 +289,7 @@ Memory Aurora: "Aurora was here."
 "But they didn't want to stay."
 "They didn't even come here intentionally."
 "When she disappeared."
-"She drowned."
+"They had drowned."
 
 Nicom looks shocked.
 
