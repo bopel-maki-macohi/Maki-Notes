@@ -460,4 +460,6 @@ The hair falls all the way to the floor.
 
 Their arms are different lengths.
 
-How doe
+How does this thing even balance?
+
+Memory Aurora is now more agile however and strikes Sinco straight in the chest
