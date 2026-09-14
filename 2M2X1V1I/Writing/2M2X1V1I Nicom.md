@@ -169,9 +169,13 @@ Sinco strikes the rubble in-front of the doorway with the electricity and they c
 
 Sinco: "What the hell is this project supposed to be dude?"
 
+The Person looks over at Sinco, a bit embarrassed.
+
 The Person: "My name's Nicom."
 
-Nicom.
+Nicom then lo
+
+Nicom: ""
 
 # Chapter 4 : [[REDACTED]]
 
