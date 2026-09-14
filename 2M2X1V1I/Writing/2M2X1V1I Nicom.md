@@ -348,7 +348,9 @@ Memory Aurora looks up.
 
 Her face's shape shifted drastically from Sinco's punch.
 
-It's like clay having been
+It's like clay having been punched while it's still soft.
+
+
 
 # Chapter 5 : Dishevel
 
