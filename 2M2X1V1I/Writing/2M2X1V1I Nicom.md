@@ -303,7 +303,12 @@ Memory Aurora stops circling Nicom and gets in front of them.
 
 Memory Aurora: "Look at the sea."
 
-Memory Aurora forces Nicom t
+Memory Aurora forces Nicom to turn around and look at the sea.
+
+Memory Aurora: "If you really want to save them."
+"Join them."
+
+Nicom:
 
 # Chapter 5 : Dishevel
 
