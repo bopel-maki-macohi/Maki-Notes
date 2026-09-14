@@ -450,4 +450,8 @@ It seems as though Memory Aurora is done for.
 
 They begin to explode from the inside due to the excess of energy but in reality it's just a form change.
 
-Memory Aurora goes back to her normal
+Memory Aurora goes back to her normal form, albeit the proportions are off.
+
+They're taller.
+
+Their 
