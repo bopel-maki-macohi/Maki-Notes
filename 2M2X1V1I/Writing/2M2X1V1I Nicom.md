@@ -496,4 +496,4 @@ As soon as Sinco and Nicom come through Osin blasts the doorway and every wire a
 
 The black fog and smoke from The Chaos Realm instantly dissipates.
 
-The Chaos R
+The Chaos Realm is gone.
