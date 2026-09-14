@@ -146,7 +146,7 @@ They head over to the console, does something, and the device goes back down.
 
 One of the tube connected to the console glows as a green electricity flows through it towards Sinco's chair.
 
-As the electricity goes into the chair Sinco is 
+As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes a
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
