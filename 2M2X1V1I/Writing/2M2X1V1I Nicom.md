@@ -316,7 +316,11 @@ Memory Aurora looks at Nicom with disappointment.
 
 Crossing their arms.
 
+Nicom: "I..."
 
+Memory Aurora's fac
+
+Memory Aurora: Proceed."
 
 
 # Chapter 5 : Dishevel
