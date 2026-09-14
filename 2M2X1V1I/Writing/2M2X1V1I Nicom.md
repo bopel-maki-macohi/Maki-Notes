@@ -109,7 +109,7 @@ Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she ca
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
 
-Sinco, startled, tries to get a look at the speaker but cant. But then they move in-front of Sinco.
+Sinco, startled, tries to get a look at the speaker but cant. But then they move in front of Sinco.
 
 They're clearly human or a humanoid, blue spikey hair with black accents on the hair to the sides of the face, they have a slightly larger then normal side-swept bang in-front of their left eye, a black bowtie on their right on the top of their head, they wear a dark-blue business suit with a dark green tie.
 
@@ -298,7 +298,7 @@ Nicom: "What about me?"
 
 Memory Aurora: "You were too young and immature to understand their pain."
 
-Memory Aurora stops circling Nicom and gets infront of them.
+Memory Aurora stops circling Nicom and gets in front of them.
 
 # Chapter 5 : Dishevel
 
