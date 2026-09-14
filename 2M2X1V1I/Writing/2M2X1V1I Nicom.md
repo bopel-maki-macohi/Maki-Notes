@@ -376,4 +376,6 @@ It leaks out in a foggy form.
 
 Osin kicks the Guard Robots that are with him into the room, breaks free from his cuffs, and runs in.
 
-Sinco's gotta be in there right?
+Sinco's got to be in there right?
+
+As Osin enters, it's Tempo City but everything is off in just some o
