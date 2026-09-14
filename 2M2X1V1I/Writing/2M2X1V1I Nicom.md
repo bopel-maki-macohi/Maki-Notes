@@ -280,7 +280,9 @@ Nicom: "Why are you saying it like that?"
 
 Aurora: "I'm not Aurora."
 "I'm just her memory."
-"T"
+"The thing that's been stuck with you for 7 years."
+"You made me."
+"And I just linked with the "
 
 # Chapter 5 : Dishevel
 
