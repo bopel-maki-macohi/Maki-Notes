@@ -386,4 +386,6 @@ Osin hears a roar.
 
 Coming from in front of him.
 
-He runs in that direction
+He runs in that direction.
+
+As fast as he can.
