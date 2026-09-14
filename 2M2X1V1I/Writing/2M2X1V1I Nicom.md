@@ -472,4 +472,6 @@ Osin fakes a kick to the face only to flip around and uses his whole body to cha
 
 Memory Aurora's split in half, one half where the full body was, the other half being tossed away to the sea by Osin.
 
-Memory Aurora: ""
+Memory Aurora: "Eres divertido"
+
+Osin
