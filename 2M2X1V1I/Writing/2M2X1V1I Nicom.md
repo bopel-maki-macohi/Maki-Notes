@@ -123,9 +123,11 @@ The person's face gets more angry.
 
 "SUMMON CHAOS."
 
-Sinco: "The demon?"
+Sinco (scared): "The demon?"
 
+The Person (scared): "YES."
 
+Sinco (scared): "I can't do that anymore"
 
 # Chapter 4 : [[REDACTED]]
 
