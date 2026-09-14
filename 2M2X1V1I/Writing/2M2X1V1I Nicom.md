@@ -492,7 +492,7 @@ Sinco then begins to shuffle over to the doorway.
 
 Osin's already back in the Bowtie Corporation Building.
 
-As soon as Sinco and Nicom come through Osin blasts the doorway and every wire and tube connected to it.
+As soon as Sinco and Nicom come through, Osin blasts the doorway and every wire and tube connected to it.
 
 The black fog and smoke from The Chaos Realm instantly dissipates.
 
