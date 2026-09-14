@@ -234,7 +234,9 @@ She's dizzy.
 
 Nicom continues to go.
 
-After several seconds that seemed to ju
+After several seconds that seemed to just stretch on for hours.
+
+Nicom arrived at Baron.
 
 # Chapter 5 : Dishevel
 
