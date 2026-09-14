@@ -476,4 +476,4 @@ Memory Aurora: "Eres divertido"
 
 Osin: "English motherfucker."
 
-Osin 
+Osin performs a massive roundhouse kick
