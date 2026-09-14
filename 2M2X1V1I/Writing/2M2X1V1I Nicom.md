@@ -356,4 +356,6 @@ At least it looks like they did.
 
 # Chapter 5 : Dishevel
 
-Tempo City, April, 2047
+Bowtie Corporation Building, April, 2047
+
+Osin has been 
