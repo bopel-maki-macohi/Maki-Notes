@@ -326,9 +326,13 @@ Nicom hesitates.
 
 Memory Aurora starts to frown slowly.
 
-Memory Aurora: "Go."
+Memory Aurora (Upset): "Go."
 
-Nicom takes a step back
+Nicom takes a step backwards.
+
+Memory Aurora frowns more clearly.
+
+Memory Aurora (Mad): "GO."
 
 
 # Chapter 5 : Dishevel
