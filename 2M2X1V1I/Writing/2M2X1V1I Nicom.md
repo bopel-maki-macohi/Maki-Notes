@@ -404,4 +404,6 @@ She sees a red glow coming towards her.
 
 Sinco can guess who it is.
 
-Sinco tosses Nicom up, who screams 
+Sinco tosses Nicom up, who screams as soon as she starts going up.
+
+Osin gets in view, Sinco grabs his hand and on their way 
