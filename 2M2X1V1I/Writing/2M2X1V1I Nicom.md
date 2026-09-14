@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that is built into the wall, a doorway seems to be in the middle, several tubes and wires connecting to it, but the doorway goes nowhere, there's just some slightly thick piece of a material that Sinco can't quite make out.
+Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that is built into the wall, a doorway seems to be in the middle, several tubes and wires connecting to it, but the doorway goes nowhere, there's just some material inside with an unknown depth that Sinco can't quite make out.
 
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
@@ -148,7 +148,7 @@ One of the tube connected to the console glows as a green electricity flows thro
 
 As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco, now having her regular powers back and starting to stop glowing, destroys the chair but the process has already begun, and the doorway crackles with golden electricity and is ignited.
 
-The material inside the doorway begins to distort, seeming to melt into itself, golden pockets of light emerging inside it.
+The material inside the wall doorway begins to distort, seeming to melt into itself, golden pockets of light emerging inside it.
 
 # Chapter 4 : [[REDACTED]]
 
