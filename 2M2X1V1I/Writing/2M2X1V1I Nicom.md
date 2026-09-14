@@ -410,4 +410,4 @@ Osin gets in view, Sinco grabs his hand and on their way down grabs Nicom's hand
 
 Sinco now is holding Osin and Nicom and books it towards the Tempo City of The Chaos Realm.
 
-Te Memory Aurora Beast
+The Memory Aurora Beast is not far behind
