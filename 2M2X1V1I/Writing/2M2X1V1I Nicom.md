@@ -144,7 +144,7 @@ They put the syringe back into the device, this time the tip pointing down.
 
 They head over to the console, does something, and the device goes back down.
 
-One of the tube connected to the console 
+One of the tube connected to the console glows as a green electricity flows through it towards Sinco's chair
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
