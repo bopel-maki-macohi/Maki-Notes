@@ -11,24 +11,17 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
+                "viewState": {
+                  "x": 954.7225823281518,
+                  "y": -2151.299582469459,
+                  "zoom": 0.3084472993876672
                 }
               },
-              "icon": "lucide-file",
-              "title": "2M2X1V1I Nicom"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS"
             }
           },
           {
@@ -232,8 +225,8 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
+    "2M2X1V1I/Explanations/CANVAS.canvas",
     "2M2X1V1I/README.md",
     "2M2X1V1I/Writing/2M2X1V1I.md",
     "2M2X1V1I/Explanations/Worldbuilding.md",
