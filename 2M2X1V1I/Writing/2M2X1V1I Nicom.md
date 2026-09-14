@@ -286,20 +286,20 @@ Aurora: "I'm not Aurora."
 
 The Memory Aurora begins to walk around Nicom in a circle.
 
-Memory Aurora: "Aurora is here."
-"But she didn't want to stay."
-"She didn't even come here intentionally."
+Memory Aurora: "Aurora was here."
+"But they didn't want to stay."
+"They didn't even come here intentionally."
 "When she disappeared."
 "She drowned."
 
 Nicom looks shocked.
 
 Memory Aurora: "But then you accidentally created this place."
-"And she got to live once more."
-"She was able to breathe here."
-"But she didn't want to."
+"And they got to live once more."
+"They were able to breathe here."
+"But they didn't want to."
 
-Nicom: "Why."
+Nicom: "Why?"
 
 Memory Aurora: "The normal world can be cruel."
 "It can be overwhelming."
