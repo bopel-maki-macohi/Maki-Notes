@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that looks like a doorway, several tubes and wires connecting to it, but on the other side of the door is just steel.
+Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that looks like a doorway, several tubes and wires connecting to it, but inside the doorway is just a 
 
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
@@ -146,7 +146,7 @@ They head over to the console, does something, and the device goes back down.
 
 One of the tube connected to the console glows as a green electricity flows through it towards Sinco's chair.
 
-As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco, now having her regular powers back and starting to stop glowing, destroys the chair but the process has already begun, and the doorway crackles with golden electricity
+As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco, now having her regular powers back and starting to stop glowing, destroys the chair but the process has already begun, and the doorway crackles with golden electricity and is ignited. 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
