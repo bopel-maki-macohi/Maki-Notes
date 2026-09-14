@@ -432,4 +432,10 @@ The Memory Aurora keeps going.
 
 Osin spins in a circle around The Memory Aurora, trying to disorient it.
 
-Sinco manages gets up to see this.
+Sinco manages gets up and sees this.
+
+The Memory Aurora flicks Osin away.
+
+Sinco jumps towards him and grabs Osin.
+
+Both Sinco and Osin
