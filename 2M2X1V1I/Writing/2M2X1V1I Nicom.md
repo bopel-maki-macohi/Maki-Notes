@@ -323,6 +323,8 @@ Memory Aurora's face changes into one straight from a cartoon, their pupils enla
 Memory Aurora: "Go."
 
 
+
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
