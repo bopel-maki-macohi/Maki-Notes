@@ -130,7 +130,9 @@ Sinco (scared): "I can't do that anymore."
 
 The person pulls out a staff that then begins to crackle with electricity, jabbing the staff into Sinco's face, electrocuting her.
 
-Th
+The Person: "We're gonna fix that today."
+
+
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
