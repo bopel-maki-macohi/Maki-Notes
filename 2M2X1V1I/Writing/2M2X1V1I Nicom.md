@@ -176,10 +176,10 @@ The Person: "My name's Nicom."
 Nicom then looks back over at the doorway
 
 Nicom: "And that..."
-"I think I'll call it 'The Chaos Realm'"
 "It's a world."
 "A place."
 "A place I found on accident during a Chaos Wave in 2039."
+"A place formed from t"
 
 # Chapter 4 : [[REDACTED]]
 
