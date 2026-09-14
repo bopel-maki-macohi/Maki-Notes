@@ -222,7 +222,7 @@ Things don't look how they should.
 
 It's a mess of shapes, contorting into one another.
 
-Then there is the bridge from 
+Then there is the bridge from Tempo City to Baron
 
 # Chapter 5 : Dishevel
 
