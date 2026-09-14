@@ -260,7 +260,13 @@ Nicom (tearing up): "Aurora?"
 
 The girl looks over.
 
-Aurora: ""
+Aurora: "Nicom?"
+
+Nicom (crying): "I found you."
+
+Aurora: "I didn't want you to."
+
+Nicom freezes up.
 
 # Chapter 5 : Dishevel
 
