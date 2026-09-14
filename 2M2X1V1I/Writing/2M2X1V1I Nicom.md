@@ -188,7 +188,7 @@ Nicom: "It's another world, a constantly expanding world."
 
 Sinco: "Got a name for it?"
 
-Nicom: "The Chaos Realm sounds good."
+Nicom: "'The Chaos Realm' sounds good."
 
 # Chapter 4 : [[REDACTED]]
 
