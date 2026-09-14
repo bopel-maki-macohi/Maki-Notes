@@ -470,4 +470,4 @@ Osin's next but he manages to dodge each attempted blow.
 
 Osin fakes a kick to the face only to flip around and uses his whole body to charge Memory Aurora.
 
-Half of 
+Memory Aurora's split in half, one half where the full body was, the other half
