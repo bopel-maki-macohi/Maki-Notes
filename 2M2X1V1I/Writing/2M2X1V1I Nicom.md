@@ -104,7 +104,7 @@ Osin decides to surrender and puts his hands in the air, palms open, falling to 
 
 Bowtie Corporation Building, April, 2047
 
-Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery and wires connected to it, Sinco's chair is connected to a mechanical steel structure that looks like a doorway, several wires connecting to it, but on the other side of the door is just steel.
+Sinco wakes up in a chair, her arms are restrained by cuffs on the chair, she can't feel her powers, she tries to get a look around, the room's large, several cages line the walls, a big entrance behind Sinco, and a desk in front of it with machinery with tubes and wires connected to it, Sinco's chair is connected to a mechanical steel structure that looks like a doorway, several wires connecting to it, but on the other side of the door is just steel.
 
 A voice emerges from behind Sinco's chair.
 "Summon. Chaos."
@@ -144,7 +144,7 @@ They put the syringe back into the device, this time the tip pointing down.
 
 They head over to the console, does something, and the device goes back down.
 
-One of the wires connected to the console 
+One of the tube connected to the console 
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
