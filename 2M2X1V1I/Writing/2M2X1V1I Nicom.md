@@ -292,7 +292,9 @@ Memory Aurora: "Aurora is here."
 "When she disappeared."
 "She drowned."
 
-Nicom looks shocked,
+Nicom looks shocked.
+
+Memory 
 
 # Chapter 5 : Dishevel
 
