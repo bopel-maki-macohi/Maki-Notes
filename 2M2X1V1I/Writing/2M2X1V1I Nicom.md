@@ -148,7 +148,7 @@ One of the tube connected to the console glows as a green electricity flows thro
 
 As the electricity goes into the chair Sinco is stabbed in the back with a syringe and is filled with Chaos Energy that causes her to glow golden, the chair startles to life and gold energy flows through the chair tubes towards the door, breaking free from the chair, Sinco, now having her regular powers back and starting to stop glowing, destroys the chair but the process has already begun, and the doorway crackles with golden electricity and is ignited.
 
-The material inside the doorway
+The material inside the doorway begins to distort, seeming to begin an implosion o
 
 # Chapter 4 : [[REDACTED]]
 
