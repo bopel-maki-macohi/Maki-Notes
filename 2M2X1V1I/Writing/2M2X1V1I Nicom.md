@@ -179,7 +179,11 @@ Nicom: "And that..."
 "It's a world."
 "A place."
 "A place I found on accident during a Chaos Wave in 2039."
-"A place formed from t"
+"A place formed from The Chaos Energy."
+
+Sinco (Impatient): "Summary please?"
+
+Nicom ()
 
 # Chapter 4 : [[REDACTED]]
 
