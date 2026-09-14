@@ -300,6 +300,8 @@ Memory Aurora: "You were too young and immature to understand their pain."
 
 Memory Aurora stops circling Nicom and gets in front of them.
 
+Memory Aurora: "You c"
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
