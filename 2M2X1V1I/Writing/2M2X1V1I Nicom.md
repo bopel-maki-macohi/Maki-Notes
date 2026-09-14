@@ -445,3 +445,7 @@ Except this time both are charging up an attack.
 As soon as Memory Aurora is about to try something, both Sinco and Osin simultaneously stop their circling and fire a massive electricity blast at Memory Aurora.
 
 Their form reacts, absorbing the energy, causing the black goo to glow.
+
+It seems as though Memory Aurora is done for.
+
+They begin to explode from the insid
