@@ -214,7 +214,11 @@ It's like Tempo City.
 
 But off.
 
-Everything has a green palette
+Everything has a palette that is green or is green-ish.
+
+Things don't align how they should.
+
+T
 
 # Chapter 5 : Dishevel
 
