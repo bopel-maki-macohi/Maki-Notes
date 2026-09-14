@@ -193,6 +193,9 @@ Nicom: "'The Chaos Realm' sounds good."
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
+
+
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
