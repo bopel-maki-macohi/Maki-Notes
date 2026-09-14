@@ -412,6 +412,6 @@ Sinco now is holding Osin and Nicom and books it towards the Tempo City of The C
 
 The Memory Aurora is not far behind.
 
-Sinco makes it to the Tempo City.
+Sinco nearly makes it to the Tempo City.
 
-The bridge behind her collapsing as The Memory Aurora 
+The bridge behind her starts to collapse as The Memory Aurora screams once more causing it to collapse this time.
