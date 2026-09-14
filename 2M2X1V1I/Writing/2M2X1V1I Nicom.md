@@ -374,4 +374,4 @@ And the black is coming out.
 
 It leaks out in a foggy form.
 
-Osin, not wanting to find out what the fuck 
+Osin, not wanting to find out what the fuck is going on, kicks the Guard Robots that are with him into the room, breaks free from his 
