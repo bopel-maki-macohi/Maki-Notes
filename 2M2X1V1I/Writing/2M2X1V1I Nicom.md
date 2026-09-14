@@ -382,4 +382,8 @@ As Osin enters, it's Tempo City but everything is off in just some way, and that
 
 This place is weird.
 
-O
+Osin hears a roar.
+
+Coming from in front of him.
+
+He runs in that direction
