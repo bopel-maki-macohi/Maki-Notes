@@ -282,7 +282,9 @@ Aurora: "I'm not Aurora."
 "I'm just her memory."
 "The thing that's been stuck with you for 7 years."
 "You made me."
-"And I just linked with the "
+"And I just linked mentally with the actual Aurora."
+
+Nicom loo
 
 # Chapter 5 : Dishevel
 
