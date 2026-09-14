@@ -246,7 +246,9 @@ Looking down at the distorted green sea below.
 
 A girl.
 
-Green hair with long bangs that stopped a bit after they wen
+Green hair with long bangs that stopped a bit after they went below the chin.
+
+A spike of green hair stick out, 
 
 # Chapter 5 : Dishevel
 
