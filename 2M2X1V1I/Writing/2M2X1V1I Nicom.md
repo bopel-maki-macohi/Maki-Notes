@@ -200,7 +200,7 @@ It's dark.
 
 Darker then dark.
 
-But at the same time it's just so bright that it's unbarable
+But at the same time it's just so bright that it's unbearable
 
 # Chapter 5 : Dishevel
 
