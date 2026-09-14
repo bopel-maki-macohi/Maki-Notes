@@ -396,4 +396,8 @@ She is running towards Tempo City, on the bridge from Baron to Tempo City, cradl
 
 The Memory Aurora had contorted into a mess of a black liquid, chasing after Sinco and Nicom.
 
-Their roars cause damage to the bridge, forcing Sinco to slow down so she do
+Their roars cause damage to the bridge, forcing Sinco to slow down so she doesn't fall off.
+
+But then she's right back to running.
+
+She sees a red glow coming towards her
