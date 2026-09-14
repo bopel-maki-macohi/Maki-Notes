@@ -466,4 +466,6 @@ Memory Aurora is now more agile however and strikes Sinco straight in the chest.
 
 Sinco's knocked down to the floor.
 
-Osin's next but he manages to dodge each a
+Osin's next but he manages to dodge each attempted blow.
+
+Osin fakes a kick to the face only to flip around and uses 
