@@ -198,7 +198,7 @@ Nicom and Sinco walk into the doorway.
 
 It's dark.
 
-Darker then dark.
+Darker than dark.
 
 But at the same time it's just so bright that it's unbearable.
 
@@ -206,7 +206,7 @@ Nicom begins to run.
 
 Sinco begins to jog.
 
-They move for awhile.
+They move for a while.
 
 A land begins to be visible.
 
