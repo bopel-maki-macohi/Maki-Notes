@@ -486,3 +486,4 @@ Sinco manages to get up, pretty hurt, looking over at Nicom.
 
 Nicom's just laying there, almost entirely still.
 
+Sinco shuffles over to Nicom, picking him up
