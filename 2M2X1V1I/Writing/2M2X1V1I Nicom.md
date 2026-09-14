@@ -196,6 +196,12 @@ The Chaos Realm, April, 2047
 
 Nicom and Sinco walk into the doorway.
 
+It's dark.
+
+Darker then dark.
+
+But at the same time it's just so bright that it's unbarable
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
