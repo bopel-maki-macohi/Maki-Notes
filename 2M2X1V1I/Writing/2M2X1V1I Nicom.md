@@ -454,4 +454,6 @@ Memory Aurora goes back to her normal form, albeit the proportions are off.
 
 They're taller.
 
-Their 
+Their face is melting.
+
+The hair falls
