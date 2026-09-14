@@ -138,7 +138,7 @@ They then begin to type on the desk, it turns out it's a console.
 
 A device emerges from the ground with a hiss, a syringe at the top.
 
-The person moves over towards it and they gran the syringe and stick it in their arm, 
+The person moves over towards it and they gran the syringe and stick it in their arm, pulling out blood with a green tint.
 # Chapter 4 : [[REDACTED]]
 
 The Chaos Realm, April, 2047
