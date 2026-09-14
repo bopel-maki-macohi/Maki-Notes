@@ -190,7 +190,7 @@ Sinco: "Got a name for it?"
 
 Nicom: "'The Chaos Realm' sounds good."
 
-# Chapter 4 : [[REDACTED]]
+# Chapter 4 : Au
 
 The Chaos Realm, April, 2047
 
@@ -218,7 +218,9 @@ Everything has a palette that is green or is green-ish.
 
 Things don't align how they should.
 
-T
+Things don't look how they should.
+
+It's a mess of shapes, contorting into one another.
 
 # Chapter 5 : Dishevel
 
