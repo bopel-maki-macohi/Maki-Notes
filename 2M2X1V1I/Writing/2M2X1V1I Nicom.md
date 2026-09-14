@@ -234,6 +234,8 @@ She's dizzy.
 
 Nicom continues to go.
 
+After several seconds that seemed to ju
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
