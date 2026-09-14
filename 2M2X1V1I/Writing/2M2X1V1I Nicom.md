@@ -210,6 +210,12 @@ They move for awhile.
 
 A land begins to be visible.
 
+It's like Tempo City.
+
+But off.
+
+Everything has a green palette
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
