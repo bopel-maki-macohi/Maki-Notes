@@ -268,6 +268,13 @@ Aurora: "I didn't want you to."
 
 Nicom freezes up.
 
+Nicom (wiping tears): "W-What?"
+
+Aurora: "You didn't find me."
+"You found a memory."
+"I know this place."
+
+
 # Chapter 5 : Dishevel
 
 Tempo City, April, 2047
