@@ -250,7 +250,7 @@ Green hair with long bangs that stopped a bit after they went below the chin.
 
 A spike of green hair stick out, curving towards the hair in the back.
 
-The hair in the back has a 
+The hair in the back has a black scrunchie bringin
 
 # Chapter 5 : Dishevel
 
