@@ -360,4 +360,6 @@ Bowtie Corporation Building, April, 2047
 
 Osin has been brought to the room in the Bowtie Corporation Building holding the prison cells.
 
-The room where Sinco and her Kidnapper.
+The room where Sinco and her Kidnapper... were...
+
+As the guard robots clear out the entrance of debree from
