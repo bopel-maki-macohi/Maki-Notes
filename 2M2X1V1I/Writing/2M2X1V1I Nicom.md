@@ -308,7 +308,12 @@ Memory Aurora forces Nicom to turn around and look at the sea.
 Memory Aurora: "If you really want to save them."
 "Join them."
 
-Nicom:
+Nicom: "But..."
+
+Nicom begins to turn around to look at Memory Aurora.
+
+Memory Aurora
+
 
 # Chapter 5 : Dishevel
 
