@@ -183,7 +183,7 @@ Nicom: "And that..."
 
 Sinco (Impatient): "Summary please?"
 
-Nicom ()
+Nicom: "It's another world, a constantly expanding world."
 
 # Chapter 4 : [[REDACTED]]
 
