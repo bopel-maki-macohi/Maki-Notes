@@ -426,4 +426,4 @@ They look at the doorway to The Chaos Realm and smile.
 
 Rushing towards it.
 
-Osin runs in front of The Memory Aurora and jumps up, 
+Osin runs in front of The Memory Aurora and jumps up, punching a hole clean through them, he's disgusted by it.
