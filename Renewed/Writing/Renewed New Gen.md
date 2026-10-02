@@ -42,9 +42,11 @@ Dot tries to get up but she falls right back down, Marcella sticks out a hand an
 
 Dot : "I'm cold..."
 
-Marcella : "We can go to my hut in here, I'll make you some quick hot cocoa and you can rest off that ."
+Marcella : "We can go to my hut in here, I'll make you some quick hot cocoa and you can rest off that science bullshit."
 
-Dot begins to 
+Dot begins to glow brightly
+
+Dot : "Oh "
 
 # Chapter 3
 
