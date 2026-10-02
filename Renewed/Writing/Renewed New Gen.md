@@ -76,9 +76,15 @@ To Dot's side, a piece of the ground turns black, beginning to rise upward and b
 
 From the ground formed an ambidextrous figure, their brown hair similar to Marcella but more fluffy, it's vertically mirrored, it's entirely black from the halfway point and downward, without the fox ears, a bit of black on the top, and a tiny bit of hair protruding from that black spot, the hair curving to look like a three.
 
+Dot : "Hai Kijo!!"
+
+Kijo : "Hey kid."
+
 Kijo : "We've got to hurry up, they're going to invade tomorrow at the crack of dawn."
 
-Dot and Marcella no
+Dot and Marcella nod.
+
+Kijo : ""
 
 # Chapter 3
 
