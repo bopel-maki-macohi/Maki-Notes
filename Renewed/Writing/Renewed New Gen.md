@@ -72,7 +72,7 @@ Dot : "Uhm..."
 
 Dot : "I know you, Ainmore, Warnit, and Kijo"
 
-To 
+To Dot's side, a piece of the ground turns back and begins to form a creature, D
 
 # Chapter 3
 
