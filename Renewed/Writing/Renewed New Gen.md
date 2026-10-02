@@ -72,7 +72,9 @@ Dot : "Uhm..."
 
 Dot : "I know you, Ainmore, Warnit, and Kijo"
 
-To Dot's side, a piece of the ground turns black, beginning to rise upward and begins to form a creature, Dot tenses up at it when she hears the snow fall of the protruding ground, but as she processes it she relaxes
+To Dot's side, a piece of the ground turns black, beginning to rise upward and begins to form a creature, Dot tenses up at it when she hears the snow fall of the protruding ground, but as she processes it she relaxes.
+
+From the ground is a 
 
 # Chapter 3
 
