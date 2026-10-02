@@ -6,12 +6,14 @@ Explanations:
 [[Lex Breaker]]
 [[Loroc]]
 [[Tirok]]
+
 [[Places]]
 [[Whys]]
 [[Worldbuilding]]
 
 Writing (in timeline order):
-[[A Story About Desire]]
+
+[[A Story About Desire]] (Yes, this is in the universe)
 [[Renewed]]
 [[Renewed Nicom|Renewed : Nicom]]
 [[The Fallen Friend]]

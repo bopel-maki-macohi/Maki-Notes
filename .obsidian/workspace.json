@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/The Fallen Friend.md",
+                "file": "Renewed/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "The Fallen Friend"
+              "title": "README"
             }
           },
           {
@@ -230,10 +230,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "README.md",
     "Renewed/Writing/The Fallen Friend.md",
+    "README.md",
     "Renewed/Writing/A Story About Desire.md",
     "Renewed/README.md",
     "Renewed/Writing/Renewed Nicom.md",
