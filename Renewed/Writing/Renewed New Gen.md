@@ -84,7 +84,9 @@ Kijo : "Listen, you've got to hurry up, they're going to invade tomorrow at the 
 
 Dot and Marcella nod.
 
-Kijo : "Dot, go get Ainmore, he's in Tempo City right now dealing with a Lex Breaker attack"
+Kijo : "Dot, go get Ainmore, he's in Tempo City right now dealing with an attack from Lex Breaker."
+
+Dot : "That dude again"
 
 # Chapter 3
 
