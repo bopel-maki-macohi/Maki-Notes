@@ -88,7 +88,11 @@ Kijo : "Dot, go get Ainmore, he's in Tempo City right now dealing with an attack
 
 Dot : "That dude again?"
 
-Marcella : "He's got a big ego, I'm not"
+Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
+
+Kijo : "Why do you-"
+
+Marcella : "Do you know how many satelli"
 
 # Chapter 3
 
