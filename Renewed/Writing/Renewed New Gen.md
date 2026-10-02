@@ -54,6 +54,8 @@ Dot and Marcella walk off towards an orange glow in the distance.
 
 April 19th, 2097
 
+
+
 # Chapter 4
 
 April 20th, 2097
