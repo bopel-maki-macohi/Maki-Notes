@@ -92,7 +92,7 @@ Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
 
 Kijo : "Why do you-"
 
-Marcella : "Do you know how many satelli"
+Marcella : "Do you know how many satellites there are watching and listening to everyone "
 
 # Chapter 3
 
