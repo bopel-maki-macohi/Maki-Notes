@@ -72,7 +72,7 @@ Dot : "Uhm..."
 
 Dot : "I know you, Ainmore, Warnit, and Kijo"
 
-To Dot's side, a piece of the ground turns back and begins to form a creature, Dot flinches at it when she hears the snow fall of the protruding ground
+To Dot's side, a piece of the ground turns back and begins to form a creature, Dot flinches at it when she hears the snow fall of the protruding ground, but as she processes it
 
 # Chapter 3
 
