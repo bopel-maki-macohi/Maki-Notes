@@ -92,7 +92,13 @@ Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
 
 Kijo : "Why do you-"
 
-Marcella : "Do you know how many satellites there are watching and listening to everyone "
+Marcella : "Do you know how many satellites there are watching and listening to everyone and everything?"
+
+Kijo : "..."
+
+Marcella : "Thought so."
+
+Marcella begins to walk towards
 
 # Chapter 3
 
