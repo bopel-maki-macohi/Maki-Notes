@@ -12,10 +12,6 @@ Dot runs, with her powers it's easy to escape but with their advanced weaponry s
 
 As the soldiers pursue her they fire several shots at her but they only meet her afterimage, in return Dot uses her powers and fires several lightning bolts at them and for her they hit.
 
-# Chapter 2 : Ice Darkmorth
-
-April 18th, 2097
-
 Dot runs into a cold place, the rain changes to snowflakes, the floor is no longer dirt and mud but it is layers of snow on layers of snow, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
 
 Dot jumps on the pillars, jumping to and from short ones to large ones to short ones, anything to evade the soldiers.
@@ -67,6 +63,8 @@ Marcella : "Δεν είναι εκεί που βρίσκονται οι γονε
 Dot : "Ναι!"
 
 Marcella : "Well you can't deal with them alone, that's for god damn sure."
+
+Dot : ""
 
 # Chapter 3
 
