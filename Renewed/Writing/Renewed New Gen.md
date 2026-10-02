@@ -34,7 +34,9 @@ Dot recognized the individual and smiles.
 
 The snow and the dust settles, and the figure is more visible, half her face darkened, like a voice, her hair is like the leaves on a tree, and some of it sticking out like dog ears.
 
-"You okay Dot?" she asked
+"You okay Dot?" she asks.
+
+"Yeah"
 
 # Chapter 3
 
