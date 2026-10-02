@@ -102,7 +102,9 @@ Marcella turns around and starts walking.
 
 Marcella : "I will see you both at Ni Hovac."
 
-Dot : ""
+Dot : "Cya!"
+
+Marcella then disappears from view as snow explodes 
 
 # Chapter 3
 
