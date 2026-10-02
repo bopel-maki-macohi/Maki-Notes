@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/README.md",
+                "file": "Renewed/Writing/The Fallen Friend.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "The Fallen Friend"
             }
           },
           {
@@ -232,6 +232,10 @@
   },
   "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Renewed/README.md",
+    "Renewed/Writing/The Fallen Friend.md",
+    "Renewed/Writing/Renewed Nicom.md",
+    "Renewed/Writing/A Story About Desire.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Characters/Loroc.md",
@@ -240,8 +244,6 @@
     "Renewed/Explanations/Characters/Lex Breaker.md",
     "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Characters",
-    "Renewed/Writing/Renewed Nicom.md",
-    "Renewed/README.md",
     "Renewed/Writing/Renewed.md",
     "2M2X1V1I/Writing/Arc 1.md",
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
@@ -262,7 +264,6 @@
     "Renewed/Writing",
     "Renewed/Explanations",
     "README.md",
-    "Granule/Planets/Earth.md",
     "Renewed",
     "Granule/Groups",
     "Granule/Events/Earth",

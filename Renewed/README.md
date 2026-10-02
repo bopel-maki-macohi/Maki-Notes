@@ -10,8 +10,7 @@ Explanations:
 [[Whys]]
 [[Worldbuilding]]
 
-Writing:
-
+Writing (in timeline order):
 [[A Story About Desire]]
 [[Renewed]]
 [[Renewed Nicom|Renewed : Nicom]]
