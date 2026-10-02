@@ -90,7 +90,7 @@ Dot : "That dude again?"
 
 Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
 
-Kijo : "Why do you-"
+Kijo : "Why do you do that?"
 
 Marcella : "Do you know how many satellites there are watching and listening to everyone and everything?"
 
@@ -101,6 +101,8 @@ Marcella : "Thought so."
 Marcella turns around and starts walking.
 
 Marcella : "I will see you both at Ni Hovac."
+
+Dot : ""
 
 # Chapter 3
 
