@@ -115,3 +115,8 @@ Kijo's structure deconstructs and turns back into regular ground, Dot speeds awa
 # Chapter 3
 
 April 20th, 2097
+
+
+# Chapter 3
+
+April 20th, 2097
