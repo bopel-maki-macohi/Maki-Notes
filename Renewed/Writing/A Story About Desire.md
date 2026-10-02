@@ -36,73 +36,39 @@
 
 "The footsteps returned, approaching again, then the deep voice 'Password incorrect. You may try again the next day. Goodbye.'"
 
-  
-
 "Jake screams 'NO! PLEASE!!'"
-
-  
 
 "Jake bangs on the door, begging for the voice to return, begging, pleading. Bang, bang, bang. Jake bangs on the door several times, enough for blood to form from his knuckles."
 
 "But no one came." The person across from Jake states.
 
-  
-
 This is a therapy room, a therapy session. And Jake's therapist, Amy, has finished recapping last night's events that Jake summarized and Amy spoke mostly in full.
-
-  
 
 "Is that correct Jake?" Amy asks, directly looking at Jake, waiting for a response.
 
-  
-
 Jake doesn't say anything, the recalling of yesterday's events feel like a knife sliding into his chest. The slow penetration of his shirt, his skin, his heart. So slow and painful.
-
-  
 
 It'd be nice if it was quicker.
 
-  
-
 "Yes." Jake responds after half a minute, slowly, he looks down as well, he doesn't want to look back at Amy. He feels ashamed.
-
-  
 
 Amy leans forward in her chair, the creaking of it makes Jake look slightly up, not looking at her eyes, but he's looking at her.
 
-  
-
 "Why did you go back Jake?" Amy said without a hint of hesitation.
-
-  
 
 Jake once again lowers his head, how can he explain it? He's drawn to the place, he wants the product, no he needs the product. It's all he needs, it'll make things better, it always does.
 
-  
-
 Amy leans back in her chair and with a much more serious tone, Amy asks a very familiar question to Jake."Does it really make things that much better?"
-
-  
 
 Jake snaps back upward, his face is red with rage, his eyes wide open, the bags under his eyes very visible, his mouth about to open wide, but he stops last second.
 
-  
-
 Amy is unfazed.
-
-  
 
 Jake calms back down, relaxes, and calmly begins his plea.
 
-  
-
 "I've been doing this for half a year."
-
 "Everytime I've had a problem I've gone to C-H-NO."
-
 "It's just a part of my life now."
-
-  
 
 Amy states immediately "You're addicted."
 
