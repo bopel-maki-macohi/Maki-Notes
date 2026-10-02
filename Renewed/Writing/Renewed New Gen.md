@@ -64,7 +64,9 @@ Dot : "Ναι!"
 
 Marcella : "Well you can't deal with them alone, that's for god damn sure."
 
-Dot : ""
+Dot : "We need help!"
+
+Marcella : "Don't you know some other super heroes?"
 
 # Chapter 3
 
