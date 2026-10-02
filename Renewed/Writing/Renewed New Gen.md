@@ -62,7 +62,9 @@ Marcella looks over mid-strike, the ice pillar in front of her was a millisecond
 
 Dot : "Ni Jun is planning an invasion on Ni Hovac!"
 
-Marcella (whispering) : "Isn't that where your parents are?"
+Marcella : "Δεν είναι εκεί που βρίσκονται οι γονείς σου;"
+
+Dot : ""
 
 # Chapter 4
 
