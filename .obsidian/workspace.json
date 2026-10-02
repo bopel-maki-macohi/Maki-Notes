@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Characters/Loroc.md",
+                "file": "Renewed/Explanations/Characters/Lex Breaker.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Loroc"
+              "title": "Lex Breaker"
             }
           },
           {
@@ -232,8 +232,8 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Loroc.md",
+    "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Explanations/Characters/Lex Breaker.md",
     "Renewed/Explanations/Places.md",

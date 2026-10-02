@@ -12,4 +12,4 @@ Pointing is his second method.
 
 Deadset on being a hero / savior.
 
-Went Missing 
+Went Missing in 2034
