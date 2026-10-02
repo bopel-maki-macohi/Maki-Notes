@@ -86,7 +86,9 @@ Dot and Marcella nod.
 
 Kijo : "Dot, go get Ainmore, he's in Tempo City right now dealing with an attack from Lex Breaker."
 
-Dot : "That dude again"
+Dot : "That dude again?"
+
+Marcella : "He's got a big ego, I'm not"
 
 # Chapter 3
 
