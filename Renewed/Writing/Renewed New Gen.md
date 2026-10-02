@@ -4,7 +4,7 @@ April 18th, 2097
 
 In a large forest, rain makes the greenery turn dark and the dirt turns to slippery mud, meanwhile a child rests inside it, sleeping on one of the large trees, her and her clothes also drenched and darkened, as the child tries to rest up she notices something.
 
-There are several soldiers entering the forest with the symbol of the Ni Jun empire on their armors chestplate, they are carrying weaponry and discussing something, the child listens more closely and overhears them discussing plans for invasion of Ni Hovac once they deal with the child, Dot.
+There are several soldiers entering the forest with the symbol of the Ni Jun empire on their armors chest plate, they are carrying weaponry and discussing something, the child listens more closely and overhears them discussing plans for invasion of Ni Hovac once they deal with the child, Dot.
 
 Dot tries to sneak down and out of the forest but slips and falls into water, the soldiers hear and pursue her.
 
