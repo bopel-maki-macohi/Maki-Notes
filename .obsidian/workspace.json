@@ -230,11 +230,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28591bbe0830002",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "Renewed/Explanations/CANVAS.canvas",
-    "Renewed/Explanations/Lex Breaker.md",
     "Renewed/Explanations/Places.md",
+    "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Explanations/Characters",
+    "Renewed/Explanations/Lex Breaker.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Writing/Renewed Nicom.md",
@@ -267,7 +268,6 @@
     "Granule/Events/Earth",
     "Granule/Objects",
     "Granule/Species",
-    "Granule/Events",
-    "Granule/Planets"
+    "Granule/Events"
   ]
 }
