@@ -70,6 +70,8 @@ Marcella : "Don't you know some other super heros?"
 
 Dot : "Uhm..."
 
+Dot : "There was Ainmore, Warnit, and "
+
 # Chapter 3
 
 April 20th, 2097
