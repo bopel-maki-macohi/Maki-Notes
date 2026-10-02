@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Characters/Tirok.md",
+                "file": "Renewed/Explanations/Characters/Loroc.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tirok"
+              "title": "Loroc"
             }
           },
           {
@@ -232,9 +232,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Explanations/Characters/Lex Breaker.md",
-    "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Explanations/Characters/Loroc.md",
+    "Renewed/Explanations/Characters/Tirok.md",
+    "Renewed/Explanations/Characters/Lex Breaker.md",
     "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Characters",
     "Renewed/Explanations/Worldbuilding.md",
@@ -263,7 +264,6 @@
     "README.md",
     "Granule/Planets/Earth.md",
     "Renewed",
-    "Granule/Events/Earth/The First Blessing.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Objects",
