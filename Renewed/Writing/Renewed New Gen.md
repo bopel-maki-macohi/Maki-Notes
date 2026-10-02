@@ -74,13 +74,13 @@ Dot : "I know you, Ainmore, Warnit, and Kijo"
 
 To Dot's side, a piece of the ground turns black, beginning to rise upward and begins to form a creature, Dot tenses up at it when she hears the snow fall of the protruding ground, but as she processes it she relaxes.
 
-From the ground formed a small creature with a , their brown hair similar to Marcella but more fluffy, it's vertically mirrored, it's entirely black from the halfway point and downward, without the fox ears, a bit of black on the top, and a tiny bit of hair protruding from that black spot, the hair curving to look like a three. Their face is black 
+From the ground formed a small body and a head, their brown hair similar to Marcella but more fluffy, it's vertically mirrored, it's entirely black from the halfway point and downward, without the fox ears, a bit of black on the top, and a tiny bit of hair protruding from that black spot, the hair curving to look like a three, their face is black with glowing white eyes.
 
 Dot : "Hai Kijo!!"
 
 Kijo : "Hey kid."
 
-Kijo : "You've got to hurry up, they're going to invade tomorrow at the crack of dawn."
+Kijo : "Listen, You've got to hurry up, they're going to invade tomorrow at the crack of dawn."
 
 Dot and Marcella nod.
 
