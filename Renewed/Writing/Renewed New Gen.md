@@ -16,7 +16,7 @@ As the soldiers pursue her they fire several shots at her but they only meet her
 
 April 18th, 2097
 
-Dot runs into a cold place, the rain changes to snowflakes, the floor is no longer dirt and mud but it is layers of snow on layers of sno, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
+Dot runs into a cold place, the rain changes to snowflakes, the floor is no longer dirt and mud but it is layers of snow on layers of snow, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
 
 Dot jumps on the pillars, jumping to and from short ones to large ones to short ones, anything to evade the soldiers.
 
