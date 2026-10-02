@@ -26,3 +26,10 @@ East half of Jur Valia Ontel
 
 West Half of Jur Valia Ontel  
 Home of the Lex Breaker Science Corporation  
+# Morln
+Inside of Jur Vali
+
+Home of Loroc
+Home of Niute
+
+Location of the newspaper publication : The Morln News
