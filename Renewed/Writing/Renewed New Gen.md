@@ -104,7 +104,13 @@ Marcella : "I will see you both at Ni Hovac."
 
 Dot : "Cya!"
 
-Marcella then disappears from view in the half blink of an eye as snow is propelled towards Dot and Kijo, the only way of knowing where she went is the path created from the snow being 
+Marcella then disappears from view in the half blink of an eye as snow is propelled towards Dot and Kijo, the only way of knowing where she went is the path created from the snow being blown away by her speed.
+
+Dot : "Adios!"
+
+Kijo : "Bye."
+
+Kijo's structur
 
 # Chapter 3
 
