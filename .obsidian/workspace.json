@@ -11,17 +11,24 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": 343.3376067867123,
-                  "y": -1282.5864342170032,
-                  "zoom": -1.3582193672789993
+                "file": "Renewed/Explanations/Lex Breaker.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Lex Breaker"
             }
           },
           {
@@ -225,8 +232,9 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Explanations/Places.md",
     "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Explanations/Lex Breaker.md",
+    "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Writing/Renewed Nicom.md",
@@ -255,7 +263,6 @@
     "Renewed",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Events/Earth/The Magic Mess.md",
-    "Granule/Events/Earth/The Magic Slave Attack.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Objects",
