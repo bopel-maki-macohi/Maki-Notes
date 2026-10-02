@@ -24,6 +24,8 @@ But Dot slips and is hit by one of the blasts from the soldiers.
 
 Dot is down, she has fallen to the floor and the Ni Jun empire soldiers are approaching her.
 
+Dot tries to leave but her legs feel numb.
+
 # Chapter 3
 
 April 19th, 2097
