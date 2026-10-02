@@ -60,6 +60,8 @@ Dot : "Marcella!"
 
 Marcella looks over mid-strike, the ice pillar in front of her was a millisecond from being destroyed.
 
+
+
 # Chapter 4
 
 April 20th, 2097
