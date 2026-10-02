@@ -54,7 +54,7 @@ Dot and Marcella walk off towards an orange glow in the distance.
 
 April 19th, 2097
 
-Dot wakes up, Marcella is outside, smashing ice pillars,
+Dot wakes up, Marcella is outside, smashing ice pillars, Dot can feel her legs again and runs towar
 
 # Chapter 4
 
