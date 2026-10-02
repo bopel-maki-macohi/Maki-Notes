@@ -44,9 +44,11 @@ Dot : "I'm cold..."
 
 Marcella : "We can go to my hut in here, I'll make you some quick hot cocoa and you can rest off that science bullshit."
 
-Dot begins to glow brightly
+Dot begins to glow brightly, getting excited.
 
-Dot : "Oh "
+Dot : "Ohmygod YESSSSSSSS"
+
+Dot and Marcella walk o
 
 # Chapter 3
 
