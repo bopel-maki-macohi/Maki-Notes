@@ -110,7 +110,7 @@ Dot : "Adios!"
 
 Kijo : "Bye."
 
-Kijo's structur
+Kijo's structure deconstructs and turns back into regular ground, Dot speeds away, both having avoided the snow in just the nick of time.
 
 # Chapter 3
 
