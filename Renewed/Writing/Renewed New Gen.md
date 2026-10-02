@@ -98,7 +98,9 @@ Kijo : "..."
 
 Marcella : "Thought so."
 
-Marcella turns around and st
+Marcella turns around and starts walking.
+
+Marcella : "I will see you both at Ni Hovac."
 
 # Chapter 3
 
