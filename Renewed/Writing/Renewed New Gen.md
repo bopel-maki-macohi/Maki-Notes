@@ -66,7 +66,7 @@ Marcella : "Δεν είναι εκεί που βρίσκονται οι γονε
 
 Dot : "Ναι!"
 
-Marcella : "Well you can't deal with them alone, that's for god d"
+Marcella : "Well you can't deal with them alone, that's for god damn sure."
 
 # Chapter 4
 
