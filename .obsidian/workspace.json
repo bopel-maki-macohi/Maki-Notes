@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Characters/Lex Breaker.md",
+                "file": "Renewed/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lex Breaker"
+              "title": "README"
             }
           },
           {
@@ -230,16 +230,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28591bbe0830002",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Renewed/Explanations/Worldbuilding.md",
+    "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Explanations/Characters/Lex Breaker.md",
     "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Characters",
-    "Renewed/Explanations/Worldbuilding.md",
-    "Renewed/Explanations/Whys.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/README.md",
     "Renewed/Writing/Renewed.md",
