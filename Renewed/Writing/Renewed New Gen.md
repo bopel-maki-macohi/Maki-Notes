@@ -26,7 +26,7 @@ Dot is down, she has fallen to the floor and the Ni Jun empire soldiers are appr
 
 Dot tries to leave but her legs feel numb.
 
-The Ni Jun empire soldiers 
+The Ni Jun empire soldiers  
 
 # Chapter 3
 
