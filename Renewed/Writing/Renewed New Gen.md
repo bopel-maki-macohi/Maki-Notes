@@ -74,7 +74,7 @@ Dot : "I know you, Ainmore, Warnit, and Kijo"
 
 To Dot's side, a piece of the ground turns black, beginning to rise upward and begins to form a creature, Dot tenses up at it when she hears the snow fall of the protruding ground, but as she processes it she relaxes.
 
-From the ground is a ambidextrous figure, their hair similar to Marcella but more fluffy and without the fox ears
+From the ground is a ambidextrous figure, their brown hair similar to Marcella but more fluffy, , without the fox ears, and a tiny bit of hair spikes upward
 
 # Chapter 3
 
