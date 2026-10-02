@@ -32,7 +32,7 @@ Right as the soldiers are about to capture Dot there's a giant ice pillar broken
 
 Dot recognized the individual and smiles.
 
-The snow settles, and the f
+The snow and the dust settles, and the figure is more visible, half her face darkened, like a voice, her hair 
 
 # Chapter 3
 
