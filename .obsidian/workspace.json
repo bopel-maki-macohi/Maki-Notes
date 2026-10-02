@@ -11,24 +11,17 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Renewed/Explanations/Worldbuilding.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Renewed/Explanations/CANVAS.canvas",
+                "viewState": {
+                  "x": 370,
+                  "y": -1420,
+                  "zoom": -1.3582193672789993
                 }
               },
-              "icon": "lucide-file",
-              "title": "Worldbuilding"
+              "icon": "lucide-layout-dashboard",
+              "title": "CANVAS"
             }
           },
           {
@@ -232,12 +225,13 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Explanations/Whys.md",
+    "Renewed/Explanations/Places.md",
     "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Explanations/Worldbuilding.md",
+    "Renewed/Explanations/Whys.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/README.md",
     "Renewed/Writing/Renewed.md",
-    "Renewed/Explanations/Worldbuilding.md",
     "2M2X1V1I/Writing/Arc 1.md",
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
     "2M2X1V1I/Explanations/Timeline.md",
@@ -262,7 +256,6 @@
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
-    "Granule/Groups/The All-over Magicians.md",
     "Granule/Groups",
     "Granule/Events/Earth",
     "Granule/Objects",
