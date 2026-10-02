@@ -33,3 +33,6 @@ Home of Loroc
 Home of Niute
 
 Location of the newspaper publication : The Morln News
+# The Nation
+Origin of the English language
+Creator of the "Nation Dollar" (Main currency)
