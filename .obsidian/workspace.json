@@ -11,17 +11,24 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": -118.24732076864609,
-                  "y": -2097.588532473217,
-                  "zoom": -1.024886033945666
+                "file": "Renewed/Explanations/Worldbuilding.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Worldbuilding"
             }
           },
           {
@@ -223,14 +230,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "2M2X1V1I/Writing/2M2X1V1I Nicom.md",
-    "2M2X1V1I/Explanations/CANVAS.canvas",
-    "2M2X1V1I/README.md",
-    "2M2X1V1I/Writing/2M2X1V1I.md",
-    "2M2X1V1I/Explanations/Worldbuilding.md",
-    "2M2X1V1I/Explanations/Whys.md",
+    "Renewed/Explanations/Whys.md",
+    "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Writing/Renewed Nicom.md",
+    "Renewed/README.md",
+    "Renewed/Writing/Renewed.md",
+    "Renewed/Explanations/Worldbuilding.md",
     "2M2X1V1I/Writing/Arc 1.md",
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
     "2M2X1V1I/Explanations/Timeline.md",
@@ -247,11 +254,11 @@
     "Granule/README.md",
     "2M2X1V1I/Explanations/Untitled.base",
     "2M2X1V1I/Untitled.md",
-    "2M2X1V1I/Writing",
-    "2M2X1V1I/Explanations",
+    "Renewed/Writing",
+    "Renewed/Explanations",
     "README.md",
     "Granule/Planets/Earth.md",
-    "2M2X1V1I",
+    "Renewed",
     "Granule/Events/Earth/The First Blessing.md",
     "Granule/Events/Earth/The Magic Mess.md",
     "Granule/Events/Earth/The Magic Slave Attack.md",
