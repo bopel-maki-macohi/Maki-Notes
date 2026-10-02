@@ -48,7 +48,7 @@ Dot begins to glow brightly, getting excited.
 
 Dot : "Ohmygod YESSSSSSSS"
 
-Dot and Marcella walk o
+Dot and Marcella walk off towards an orange glow in the distance.
 
 # Chapter 3
 
