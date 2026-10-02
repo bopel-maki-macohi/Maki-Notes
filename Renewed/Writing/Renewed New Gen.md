@@ -50,7 +50,7 @@ Dot : "Ohmygod YESSSSSSSS"
 
 Dot and Marcella walk off towards an orange glow in the distance.
 
-# Chapter 3 : 
+# Chapter 3 : Counterattack
 
 April 19th, 2097
 
