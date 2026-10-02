@@ -32,7 +32,9 @@ Right as the soldiers are about to capture Dot there's a giant ice pillar broken
 
 Dot recognized the individual and smiles.
 
-The snow and the dust settles, and the figure is more visible, half her face darkened, like a voice, her hair is like the leaves on a tree, and some of it sticking out like dog ears, 
+The snow and the dust settles, and the figure is more visible, half her face darkened, like a voice, her hair is like the leaves on a tree, and some of it sticking out like dog ears.
+
+"You okay Dot?"
 
 # Chapter 3
 
