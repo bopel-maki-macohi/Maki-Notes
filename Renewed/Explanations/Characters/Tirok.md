@@ -4,4 +4,4 @@ Inventor + knows some science
 
 Second most intelligent person on Earth
 
-Died 
+Died July 
