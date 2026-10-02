@@ -38,7 +38,9 @@ The snow and the dust settles, and the figure is more visible, half her face dar
 
 Dot replies "Yeah, thanks Marcella."
 
-Dot tries to get up but she falls right back down, Marcella sticks out a hand and Dot grabs it, allowin
+Dot tries to get up but she falls right back down, Marcella sticks out a hand and Dot grabs it, allowing her to at least be out of the snow.
+
+Do
 
 # Chapter 3
 
