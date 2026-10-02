@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/README.md",
+                "file": "Renewed/Writing/Renewed New Gen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Renewed New Gen"
             }
           },
           {
@@ -232,10 +232,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
+    "Renewed/README.md",
     "Renewed/Writing/The Fallen Friend.md",
     "README.md",
     "Renewed/Writing/A Story About Desire.md",
-    "Renewed/README.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
