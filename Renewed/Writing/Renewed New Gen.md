@@ -50,7 +50,7 @@ Dot : "Ohmygod YESSSSSSSS"
 
 Dot and Marcella walk off towards an orange glow in the distance.
 
-# Chapter 3 : Armament
+# Chapter 2 : Armament
 
 April 19th, 2097
 
@@ -68,6 +68,6 @@ Dot : "Ναι!"
 
 Marcella : "Well you can't deal with them alone, that's for god damn sure."
 
-# Chapter 4
+# Chapter 3
 
 April 20th, 2097
