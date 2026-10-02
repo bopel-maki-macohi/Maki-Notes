@@ -58,7 +58,7 @@ Dot wakes up, Marcella is outside, smashing ice pillars, Dot can feel her legs a
 
 Dot : "Marcella!"
 
-<h1>Nigga<h1>
+Marcella looks over mid-strike, the ice pillar infront of her
 
 # Chapter 4
 
