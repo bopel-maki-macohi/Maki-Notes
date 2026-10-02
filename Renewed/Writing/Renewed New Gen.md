@@ -36,7 +36,7 @@ The snow and the dust settles, and the figure is more visible, half her face dar
 
 "You okay Dot?" she asks.
 
-"Yeah, thanks Marcella"
+Dot replies, "Yeah, thanks Marcella."
 
 # Chapter 3
 
