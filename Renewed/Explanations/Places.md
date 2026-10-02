@@ -13,4 +13,4 @@ Home of Lasha
 Kingdom of Warnit / The Knight Serviceman
 ## Ni Jun
 
-State on the 
+Empire on the other side of Ni Vohac
