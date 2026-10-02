@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/Renewed Nicom.md",
+                "file": "Renewed/Writing/The Fallen Friend.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewed Nicom"
+              "title": "The Fallen Friend"
             }
           },
           {
@@ -232,10 +232,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Writing/Renewed New Gen.md",
-    "Renewed/Writing/Renewed Nicom.md",
-    "Renewed/Writing/The Fallen Friend.md",
     "Renewed/README.md",
+    "Renewed/Writing/Renewed Nicom.md",
+    "Renewed/Writing/Renewed New Gen.md",
+    "Renewed/Writing/The Fallen Friend.md",
     "README.md",
     "Renewed/Writing/A Story About Desire.md",
     "Renewed/Explanations/Worldbuilding.md",
