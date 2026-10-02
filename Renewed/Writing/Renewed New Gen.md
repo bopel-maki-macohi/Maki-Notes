@@ -80,11 +80,11 @@ Dot : "Hai Kijo!!"
 
 Kijo : "Hey kid."
 
-Kijo : "Listen, You've got to hurry up, they're going to invade tomorrow at the crack of dawn."
+Kijo : "Listen, you've got to hurry up, they're going to invade tomorrow at the crack of dawn."
 
 Dot and Marcella nod.
 
-Kijo : ""
+Kijo : "Dot, go get Ainmore, he's in Tempo City right now dealing with a Lex Breaker attack"
 
 # Chapter 3
 
