@@ -64,7 +64,9 @@ Dot : "Ni Jun is planning an invasion on Ni Hovac!"
 
 Marcella : "Δεν είναι εκεί που βρίσκονται οι γονείς σου;"
 
-Dot : ""
+Dot : "Ναι!"
+
+Marcella : "Well you can't deal with them alone, that's for god d"
 
 # Chapter 4
 
