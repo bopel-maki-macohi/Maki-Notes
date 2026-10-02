@@ -28,7 +28,7 @@ Dot tries to leave but her legs feel numb.
 
 The Ni Jun empire soldiers approach her.
 
-Right as the soldiers are about to capture Dot th
+Right as the soldiers are about to capture Dot there's a giant ice pillar broken right in front of them, slo
 
 # Chapter 3
 
