@@ -42,7 +42,7 @@ Dot tries to get up but she falls right back down, Marcella sticks out a hand an
 
 Dot : "I'm cold..."
 
-Marcella : I've got a hut in here, I'll make you some hot cocoa.
+Marcella : "We can go to my hut in here, I'll make you some quick hot cocoa and you can rest off that ."
 
 Dot begins to 
 
