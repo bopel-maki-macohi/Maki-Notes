@@ -5,11 +5,14 @@ and give me a good universe that I'll actually like
 Explanations:
 [[Lex Breaker]]
 [[Loroc]]
-[[T]]
+[[Tirok]]
 [[Places]]
 [[Whys]]
 [[Worldbuilding]]
 
 Writing:
+
+[[A Story About Desire]]
 [[Renewed]]
 [[Renewed Nicom|Renewed : Nicom]]
+[[The Fallen Friend]]
