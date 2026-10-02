@@ -70,7 +70,9 @@ Marcella : "Don't you know some other super heros?"
 
 Dot : "Uhm..."
 
-Dot : "There was Ainmore, Warnit, and "
+Dot : "I know you, Ainmore, Warnit, and Kijo"
+
+To 
 
 # Chapter 3
 
