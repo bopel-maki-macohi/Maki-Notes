@@ -28,7 +28,9 @@ Dot tries to leave but her legs feel numb.
 
 The Ni Jun empire soldiers approach her.
 
-Right as the soldiers are about to capture Dot there's a giant ice pillar broken right in front of them, snow is blown everywhere, it's hard to see and there are screams from the soldiers, a tall figure is barely seeable speeding from soldier to soldier, hitting them away, punching a hole in their chest, several violent actions.
+Right as the soldiers are about to capture Dot there's a giant ice pillar broken right in front of them, snow is blown everywhere, it's hard to see and there are screams from the soldiers, a tall feminine figure is barely seeable speeding from soldier to soldier, hitting them away, punching a hole in their chest, several violent actions.
+
+Dot recognized the 
 
 # Chapter 3
 
