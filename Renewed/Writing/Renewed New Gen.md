@@ -34,13 +34,15 @@ Dot recognized the individual and smiles.
 
 The snow and the dust settles, and the figure is more visible, half her face darkened, like a voice, her hair is like the leaves on a tree, and tall ears akin to that of a fox stick out from her hair.
 
-The Individual asks "You okay Dot?"
+??? : "You okay Dot?"
 
 Dot : "Yeah, thanks Marcella."
 
 Dot tries to get up but she falls right back down, Marcella sticks out a hand and Dot grabs it, allowing her to at least be out of the snow.
 
 Dot: "I'm cold..."
+
+Marcella : 
 
 # Chapter 3
 
