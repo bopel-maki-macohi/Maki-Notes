@@ -28,7 +28,7 @@ Dot tries to leave but her legs feel numb.
 
 The Ni Jun empire soldiers approach her.
 
-Right as the soldiers are about to capture Dot however
+Right as the soldiers are about to capture Dot th
 
 # Chapter 3
 
