@@ -16,7 +16,7 @@ As the soldiers pursue her they fire several shots at her but they only meet her
 
 April 18th, 2097
 
-Dot runs into a cold place, the rain changes to snow, the floor is no longer dirt and mud but it is snow, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
+Dot runs into a cold place, the rain changes to snowflakes, the floor is no longer dirt and mud but it is layers of snow on layers of sno, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
 
 Dot jumps on the pillars, jumping to and from short ones to large ones to short ones, anything to evade the soldiers.
 
@@ -28,7 +28,7 @@ Dot tries to leave but her legs feel numb.
 
 The Ni Jun empire soldiers approach her.
 
-Right as the soldiers are about to capture Dot there's a giant ice pillar broken right in front of them, snow is blown everywhere, it's hard 
+Right as the soldiers are about to capture Dot there's a giant ice pillar broken right in front of them, snow is blown everywhere, it's hard to see,
 
 # Chapter 3
 
