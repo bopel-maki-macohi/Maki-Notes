@@ -104,7 +104,7 @@ Marcella : "I will see you both at Ni Hovac."
 
 Dot : "Cya!"
 
-Marcella then disappears from view as snow explodes 
+Marcella then disappears from view in  as snow explodes everywhere, her s
 
 # Chapter 3
 
