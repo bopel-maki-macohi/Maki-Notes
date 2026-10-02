@@ -60,7 +60,9 @@ Dot : "Marcella!"
 
 Marcella looks over mid-strike, the ice pillar in front of her was a millisecond from being destroyed.
 
-Dot : "Ni Jun is planning an envasion on Ni Hovac!"
+Dot : "Ni Jun is planning an invasion on Ni Hovac!"
+
+Marcella (whispering) : "Isn't that where your parents are?"
 
 # Chapter 4
 
