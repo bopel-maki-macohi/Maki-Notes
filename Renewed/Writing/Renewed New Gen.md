@@ -40,9 +40,11 @@ Dot : "Yeah, thanks Marcella."
 
 Dot tries to get up but she falls right back down, Marcella sticks out a hand and Dot grabs it, allowing her to at least be out of the snow.
 
-Dot: "I'm cold..."
+Dot : "I'm cold..."
 
-Marcella : 
+Marcella : I've got a hut in here, I'll make you some hot cocoa.
+
+Dot begins to 
 
 # Chapter 3
 
