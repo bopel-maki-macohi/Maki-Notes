@@ -11,17 +11,24 @@
             "id": "e28591bbe0830002",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/CANVAS.canvas",
-                "viewState": {
-                  "x": 370,
-                  "y": -1420,
-                  "zoom": -1.3582193672789993
+                "file": "Renewed/Explanations/Places.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "CANVAS"
+              "icon": "lucide-file",
+              "title": "Places"
             }
           },
           {
@@ -225,10 +232,10 @@
   },
   "active": "e28591bbe0830002",
   "lastOpenFiles": [
-    "Renewed/Explanations/Places.md",
-    "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
+    "Renewed/Explanations/CANVAS.canvas",
+    "Renewed/Explanations/Places.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/README.md",
     "Renewed/Writing/Renewed.md",

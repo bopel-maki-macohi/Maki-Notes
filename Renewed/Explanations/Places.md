@@ -6,4 +6,8 @@ Connected to Baron via a bridge
 Home to Freefall, STAR, and T-industries 
 
 Location of the newspaper publication : The Baron News
+## Lozen
+Home of Lasha
+## Ni Vohac
 
+Kingdom of Warnit / The Knight Serviceman
