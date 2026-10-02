@@ -98,7 +98,7 @@ Kijo : "..."
 
 Marcella : "Thought so."
 
-Marcella begins to walk towards
+Marcella turns around and st
 
 # Chapter 3
 
