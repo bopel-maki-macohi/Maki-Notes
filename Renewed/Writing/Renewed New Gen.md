@@ -1,0 +1,33 @@
+# Chapter 1 : Overheard
+
+April 18th, 2097
+
+In a large forest, rain makes the greenery turn dark and the dirt turns to slippery mud, meanwhile a child rests inside it, sleeping on one of the large trees, her and her clothes also drenched and darkened, as the child tries to rest up she notices something.
+
+There are several soldiers entering the forest with the symbol of the Ni Jun empire on their armors chestplate, they are carrying weaponry and discussing something, the child listens more closely and overhears them discussing plans for invasion of Ni Hovac once they deal with the child, Dot.
+
+Dot tries to sneak down and out of the forest but slips and falls into water, the soldiers hear and pursue her.
+
+Dot runs, with her powers it's easy to escape but with their advanced weaponry she has to be careful otherwise they could disable her powers and capture her.
+
+As the soldiers pursue her they fire several shots at her but they only meet her afterimage, in return Dot uses her powers and fires several lightning bolts at them and for her they hit.
+
+# Chapter 2 : Ice Darkmorth
+
+April 18th, 2097
+
+Dot runs into a cold place, the rain changes to snow, the floor is no longer dirt and mud but it is snow, giant pillars of ice are spread everywhere, and the Ni Jun soldiers are still chasing Dot.
+
+Dot jumps on the pillars, jumping to and from short ones to large ones to short ones, anything to evade the soldiers.
+
+But Dot slips and is hit by one of the blasts from the soldiers.
+
+Dot is down, she has fallen to the floor and the Ni Jun empire soldiers are approaching her.
+
+# Chapter 3
+
+April 19th, 2097
+
+# Chapter 4
+
+April 20th, 2097
