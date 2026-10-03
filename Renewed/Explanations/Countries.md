@@ -38,6 +38,9 @@ Countries on the east
 
 ## West Neka
 
+- The West half of Neka that wasn't taken over by Ni Vohac when The Knight Serviceman took power (1921) and when Ice Darkmorth appeared (1964)
+
+- Birthplace of Warnit / The Knight Serviceman ()
 
 ## Forge Joven
 
