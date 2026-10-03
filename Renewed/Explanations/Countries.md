@@ -46,7 +46,7 @@ Countries on the west
 
 ## Menco
 
-- Origin of the Spanish Language (120)
+- Origin of the Spanish Language (74)
 - Origin of the Modern Spanish Language (1440)
 - Was once originally multiple countries / tribes, but they came together and formed one central entity (50)
 
