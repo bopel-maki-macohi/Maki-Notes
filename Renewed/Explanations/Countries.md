@@ -9,7 +9,7 @@ Countries on the west
 ## Lei
 
 - Piece of The Nation that split off before humans existed (No Date)
-- Discovered nad Named by Lex Breaker ()
+- Discovered and Named by Lex Breaker (1760)
 
 ## The Nation
 
@@ -38,6 +38,8 @@ Countries on the west
 
 ## Bekon Karv
 
+- 
+- Discovered and Named by Lex Breaker (1734)
 
 ## Menco
 
