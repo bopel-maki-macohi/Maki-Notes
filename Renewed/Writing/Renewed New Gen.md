@@ -314,5 +314,4 @@ Warnit jumps upward into the sky, charging lightning into his axe, Dot charges h
 
 As Warnit slams into the floor, a massive shockwave emerges, all of the Ni Jun soldiers being knocked back and knocked out.
 
-The Ni Jun mechs are briefly stunned by the shockwave, and Ainmore hits them with a mace.
-
+The Ni Jun mechs are briefly stunned by the shockwave, and Ainmore hits them with a mace, and they fall to the ground, the ground deforming when th
