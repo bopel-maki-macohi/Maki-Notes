@@ -82,12 +82,12 @@ Countries on the east
 
 ## Forge Joven
 
-- Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1960)
+- Giant forest mixed with a swamp that formed in the middle of Ni Vohac (1960)
 - Commonly rains
 
 ## Ni Jun
 
-- The south half of Ni Hovac that got "formed" when Forge Joven appeared (1960)
+- The south half of Ni Vohac that got "formed" when Forge Joven appeared (1960)
 
 - Ruled by Stacey Gel (1960)
 
