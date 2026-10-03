@@ -200,4 +200,4 @@ Then it begins to vibrate loudly
 
 Ainmore looks forward again.
 
-In the distance, turning the corne, several Ni Jun empire soldiers are slowly approaching
+In the distance, turning the corner, several Ni Jun empire soldiers are slowly approaching
