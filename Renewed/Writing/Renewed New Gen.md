@@ -130,7 +130,11 @@ The bridge is bent to point towards the sky and a green wall materializes from g
 
 Coming from Baron towards Tempo City is a giant mech suit following a small person with black fluffy hair in a green and black suit floating in the sky wearing a ring with a green trail following them.
 
-Dot runs from Tempo City to the bridge, jumping into the sky, jumping on the 
+Dot runs from Tempo City to the bridge, jumping around it into the sky, jumping on the giant mech.
+
+Dot : "Need help Ainmore?"
+
+Ainmore : ""
 
 # Chapter 4 : Showdown
 
