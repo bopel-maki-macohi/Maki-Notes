@@ -298,4 +298,4 @@ Dot gets in running position.
 
 Dot : "Keep that in mind."
 
-Dot speeds towards the soldiers, Warnit begins to run towards the soldiers aswell, 
+Dot speeds towards the soldiers, Warnit begins to run towards the soldiers as well, beginning to swing his axe, tossing it in the air, and being taken upward with it, slamming back down
