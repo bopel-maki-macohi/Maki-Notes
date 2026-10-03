@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/Renewed Nicom.md",
+                "file": "Renewed/Explanations/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewed Nicom"
+              "title": "Countries"
             }
           },
           {
@@ -232,6 +232,7 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Untitled.md",
@@ -244,7 +245,6 @@
     "Renewed/Writing/Renewed_split",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/A Story About Desire.md",
-    "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Writing/The Fallen Friend.md",
     "Renewed/Explanations/Characters/Nicom.md",
     "Renewed/README.md",
