@@ -14,7 +14,7 @@ Countries on the west
 - Evolved Morln after Civil War (1643)
 
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
-- Origin of the Modern English language ()
+- Origin of the Modern English language (1243)
 
 ## Morln
 
@@ -37,7 +37,7 @@ Countries on the west
 
 ## Menco
 
-- Origin of the Spanish Language
+- Origin of the Modern Spanish Language ()
 
 # Eastles
 
