@@ -6,7 +6,10 @@ Countries on the west
 ## Lei
 ## The Nation
 ## Morln
-## 
+## Jur Vali
+## Jur Lavi
+## Bekon Karv
+## Menco
 
 # Eastles
 
