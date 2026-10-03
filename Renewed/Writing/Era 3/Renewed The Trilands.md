@@ -8,7 +8,9 @@ Inside a Lozen apartment about 10 stories high, Dot sits in a chair, reading The
 
 It speaks of how a Lex Breaker research team flew over the plots of land during a routine trip and detected high amounts of radiation coming from the lands, one of their team members were affected by it and are currently in a Jur Lavi hospital being treated.
 
+Dot stares at the text, her fidgeting scratched to a halt.
 
+Dot : "Kijo, are y"
 
 ## Chapter 2 : The Trilands
 
