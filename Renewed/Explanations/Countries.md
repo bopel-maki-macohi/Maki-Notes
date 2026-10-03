@@ -82,11 +82,14 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Kingdom ruled by The Knight Serviceman / Warnit since 1921
 
-- Main home of the underground Colatin metal (1821)
+- Main home of the underground Colatin metal (1816)
 
 ## East Neka
 
 - The East half of Neka that wasn't taken over by Ni Vohac when The Knight Serviceman took power (1921)
+
+- Another home of the underground Colatin metal (1816)
+	- - 
 
 ## Tempo City
 
