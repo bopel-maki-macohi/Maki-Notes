@@ -220,7 +220,7 @@ Behind the heros, several Ni Jun soldiers make it to the gate and start killing 
 
 Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and collapses.
 
-Kijo heads into Ni Hovac.
+Kijo vanishes into the 
 
 Ainmore wakes up, looking at his right hand and still seeing his ring.
 
@@ -254,4 +254,4 @@ Warnit jumps down from a building and lands beside Ainmore and Kijo, dust flies 
 
 Warnit : "Kijo, get them."
 
-Kijo looks over at Dot and Marcella, the glow in her form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringing them over towards Kijo, once that is done, the glow in he
+Kijo looks over at Dot and Marcella, the glow in their form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringing them over towards Kijo, once that is done, the glow in their
