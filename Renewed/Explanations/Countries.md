@@ -133,8 +133,6 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Home of STAR (2024)
 
-- 
-
 ## Baron
 
 - Birthplace of Oma (9/19/2007)
