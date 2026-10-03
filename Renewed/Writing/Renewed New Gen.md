@@ -122,7 +122,7 @@ April 19th, 2097
 
 Inside a futuristic city, buildings being tall and towering balanced by thin poles that are also elevators, transparent roads above the ground and concrete roads on ground, advanced cars zooming by on the transparent roads and regular cars slowly getting by on the concrete road.
 
-At the far edge of the land, a steel bridge is established, wide enough for multiple cars to go and to come from the destination, Baron.
+At the far edge of the land, a steel multi-layered bridge is established, wide enough for multiple cars to go and to come from the destination, Baron.
 
 The bridge however suddenly gets a green aura around it, the cars
 
