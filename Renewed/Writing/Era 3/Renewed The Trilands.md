@@ -50,10 +50,10 @@ Dot : "W-"
 
 Kijo : "I don't know why."
 
-## Chapter 2 : T
+## Chapter 2 : Get the Enmorphy
 
-## Chapter 2 : The Trilands
+## Chapter 3 : The Trilands
 
 
-## Chapter 3 : Anti-Pollution
+## Chapter 4 : Anti-Pollution
 
