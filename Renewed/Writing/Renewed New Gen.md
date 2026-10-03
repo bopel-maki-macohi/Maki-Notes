@@ -250,4 +250,4 @@ Kijo : "He's been mainly the king of a peaceful kingdom for several decades now"
 
 Kijo : "Give him a break for wanting to be cool."
 
-Warnit 
+Warnit jumps down from a building and land
