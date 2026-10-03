@@ -124,7 +124,7 @@ Inside a futuristic city, buildings being tall and towering balanced by thin pol
 
 At the far edge of the land, a steel bridge is established, wide enough for multiple cars to go and to come from the destination, Baron.
 
-The bridge however suddenly gets a green au
+The bridge however suddenly gets a green aura around it, the cars
 
 # Chapter 4
 
