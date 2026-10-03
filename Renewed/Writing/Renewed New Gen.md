@@ -124,7 +124,7 @@ Inside a futuristic city, Tempo City, buildings being tall and towering balanced
 
 At the far edge of the land, a steel multi-layered bridge is established, wide enough for multiple cars to go and to come from the destination, Baron.
 
-The bridge however suddenly gets a green aura around it, all the cars are pushed off it by a green 
+The bridge however suddenly gets a green aura around it, all the cars are pushed off it back into by a green rectangle 
 
 # Chapter 4
 
