@@ -63,8 +63,8 @@ Countries on the east
 
 - Ruled by Stacey Gel (1960)
 
-- Another home of the underground Colatin metal (1816)
-	- Ran out of Colatin (1834)
+- Another home of the underground Colatin metal
+	- Ran out of Colatin ()
 
 ## Darkmorth
 
