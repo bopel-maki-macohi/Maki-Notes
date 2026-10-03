@@ -143,7 +143,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Houses people from when Menco was in tribes
 - The Korke tribe
 
-- Evolved into believers of the Chaos entity 
+- Evolved into believers of the Chaos entity
 
 ## Isocrex
 
