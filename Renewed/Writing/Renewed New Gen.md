@@ -237,3 +237,5 @@ Ainmore : "Kijo!"
 Kijo emerges from the ground.
 
 Ainmore : "Please tell me you got Warnit."
+
+Kijo : "Yeah I got him."
