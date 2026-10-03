@@ -176,3 +176,5 @@ Their Destination : Ni Hovac.
 
 April 20th, 2097
 
+The time is 
+
