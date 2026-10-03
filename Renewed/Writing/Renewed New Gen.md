@@ -196,6 +196,8 @@ Kijo : "They're coming."
 
 Suddenly the ground begins to vibrate slightly, like a giant march.
 
+Then it begins to vibrate loudly
+
 Ainmore looks forward again.
 
-In the distance, several Ni Jun empire soldiers are slowly approaching
+In the distance, turning the corne, several Ni Jun empire soldiers are slowly approaching
