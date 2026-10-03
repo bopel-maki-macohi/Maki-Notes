@@ -62,9 +62,10 @@ Countries on the east
 
 ## East Neka
 
-- Birthplace of Kijo (3/14/2000)
 
 ## Tempo City
+
+- Urban half of Cray Vex, eventually turned into it'
 
 - Birthplace of Sinco (9/19/2011)
 - Birthplace of Kijo (3/14/2000)
@@ -73,6 +74,7 @@ Countries on the east
 
 ## Cray Vex
 
+- Birthplace of Kijo (3/14/2000)
 
 ## Baron
 
