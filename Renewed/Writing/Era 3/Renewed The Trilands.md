@@ -38,7 +38,11 @@ Kijo : "Anyway, uhm..."
 
 Kijo : "Yeah probably."
 
-Kijo : "It mentions Lex Breaker, "
+Kijo : "It mentions Lex Breaker, so, he probably has something to do with it."
+
+Dot : "Good point."
+
+Dot : "Where's Ainmore?"
 
 ## Chapter 2 : The Trilands
 
