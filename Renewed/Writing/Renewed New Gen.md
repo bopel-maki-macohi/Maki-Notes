@@ -148,11 +148,15 @@ Dot : "No problem."
 
 Ainmore : "Well I know you aren't here for nothing..."
 
-Dot : "Ni Jun is going to invade Ni Hovac tomorrow."
+Dot : "Ni Jun is going to invade Ni Hovac."
 
 Ainmore : "Shit."
 
 Ainmore : "Alright. I'm in."
+
+Ainmore : "When is it happening?"
+
+Dot : "Crack of dawn tommorow."
 
 # Chapter 4 : Showdown
 
