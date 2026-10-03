@@ -42,7 +42,7 @@ Countries on the west
 
 - Discovered and Named by Lex Breaker (1991)
 - Home to Lex Breaker's secret operation facilities
-- No airline travelled allows here
+- No airline travelled allowed here
 
 ## Menco
 
