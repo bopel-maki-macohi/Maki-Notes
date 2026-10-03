@@ -254,4 +254,8 @@ Warnit : "Kijo, get them."
 
 Kijo looks over at Dot and Marcella, the glow in their form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringing them over towards Kijo, once that is done, the glow in their eyes return.
 
-Marcella : 
+Mar
+
+Marcella : "Με φαγουρίζει το πρόσωπο."
+
+Marcella : "Παρακαλούμε, θεραπεύστε μας."
