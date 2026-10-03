@@ -12,7 +12,7 @@ Dot stares at the text, her fidgeting scratched to a halt.
 
 Dot : "Kijo, are you there?"
 
-From the wooden floor emerges a wooden version of K
+Beside Dot in the chair appears a black goo
 
 ## Chapter 2 : The Trilands
 
