@@ -80,6 +80,7 @@ Countries on the east
 
 ## Baron
 
+- Birthplace of Oma (9/19/2011)
 - Birthplace of Eri (2/26/2008)
 - Birthplace of Rie (2/26/2008)
 
