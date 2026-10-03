@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/README.md",
+                "file": "Renewed/Explanations/Places.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Places"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2M2X1V1I/README.md",
+                "file": "Renewed/Writing/Renewed New Gen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Renewed New Gen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,20 +231,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28591bbe0830002",
+  "active": "1e5c801ac7fdda77",
   "lastOpenFiles": [
-    "Renewed/Writing/The Fallen Friend.md",
-    "README.md",
-    "Renewed/Writing/A Story About Desire.md",
-    "Renewed/README.md",
-    "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Explanations/Worldbuilding.md",
+    "Renewed/Explanations/Places.md",
+    "Renewed/Writing/Renewed New Gen.md",
+    "Renewed/README.md",
+    "README.md",
+    "Renewed/Writing/The Fallen Friend.md",
+    "Renewed/Writing/Renewed Nicom.md",
+    "Renewed/Writing/A Story About Desire.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Explanations/Characters/Lex Breaker.md",
-    "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Characters",
     "Renewed/Writing/Renewed.md",
     "2M2X1V1I/Writing/Arc 1.md",
@@ -261,7 +263,6 @@
     "2M2X1V1I/Explanations/Ideas.md",
     "Granule/README.md",
     "2M2X1V1I/Explanations/Untitled.base",
-    "2M2X1V1I/Untitled.md",
     "Renewed/Writing",
     "Renewed/Explanations",
     "Renewed",
