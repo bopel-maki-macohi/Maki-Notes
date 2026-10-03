@@ -249,3 +249,5 @@ Ainmore : "Extra as always."
 Kijo : "He's been mainly the king of a peaceful kingdom for several decades now"
 
 Kijo : "Give him a break for wanting to be cool."
+
+Warnit 
