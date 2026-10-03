@@ -13,7 +13,7 @@ Countries on the west
 ## Jur Vali
 ## Jur Lavi
 
-- The 
+- The West half of Jur Vali, run by Lex Breaker
 ## Bekon Karv
 ## Menco
 
@@ -26,6 +26,7 @@ Countries on the east
 ## Forge Joven
 ## Ni Jun
 ## Darkmorth
+- 
 ## Ice Darkmorth
 ## Ni Vohac
 ## East Neka
