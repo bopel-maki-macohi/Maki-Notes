@@ -11,24 +11,10 @@
             "id": "5e27d464c911a220",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Renewed/Explanations/Countries.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Countries"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -232,11 +218,13 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "2026-10-03.md",
+    "Renewed/Explanations/Countries.md",
     "Renewed/Writing/Renewed The Trilands.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed Bekon Karv.md",
     "Renewed/Writing/Untitled",
-    "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Explanations/Whys.md",
@@ -263,9 +251,6 @@
     "2M2X1V1I/Writing/Epoch 4.md",
     "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 2.md",
-    "2026-08-30.md",
-    "Untitled.canvas",
-    "2M2X1V1I/Explanations/Places.md",
     "2M2X1V1I/Explanations/Untitled.base",
     "Renewed/Writing",
     "Renewed/Explanations",
