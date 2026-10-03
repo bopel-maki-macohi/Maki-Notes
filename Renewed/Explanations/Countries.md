@@ -80,8 +80,9 @@ Countries on the east
 
 ## Baron
 
-- Birthplace of Tirok (10/11/1981)
-- 
+- Birthplace of Eri (10/11/2008)
+- Birthplace of Rie (10/11/2008)
+
 - Home of The Freefall Foundation
 
 ## Kaven Korke
