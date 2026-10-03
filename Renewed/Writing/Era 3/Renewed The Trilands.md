@@ -30,9 +30,11 @@ Kijo : "*ahem*"
 
 Dot rolls her eyes.
 
-Dot : "Apparently there's some radiation *crap* going on with it?"
+Dot : "Apparently there's some radiation *crap* going on with it."
 
+Kijo nods her head, Dot rolls her eyes again.
 
+Dot : ""
 
 ## Chapter 2 : The Trilands
 
