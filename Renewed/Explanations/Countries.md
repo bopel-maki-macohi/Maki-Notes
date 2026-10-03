@@ -26,7 +26,6 @@ Countries on the west
 - Landing area of Loroc (9/11/2001)
 
 - Birthplace of Niute (8/26/2003)
-
 - Birthplace of Lex Breaker (6/28/1971)
 
 ## Jur Vali
