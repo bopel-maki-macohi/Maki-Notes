@@ -14,3 +14,7 @@ Countries on the west
 # Eastles
 
 Countries on the east
+
+## Lozen
+## West Neka
+## 
