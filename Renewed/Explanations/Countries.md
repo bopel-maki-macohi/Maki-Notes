@@ -22,9 +22,17 @@ Countries on the west
 Countries on the east
 
 ## Lozen
+
+
 ## West Neka
+
+
 ## Forge Joven
+
+
 ## Ni Jun
+
+
 ## Darkmorth
 
 - Home of Marcella Darkmoor
@@ -41,10 +49,17 @@ Countries on the east
 
 
 ## Tempo City
+
+- Home of Sinco
+
+- 
+
 ## Cray Vex
 
 
 ## Baron
+
+
 ## Kaven Korke
 
 
