@@ -62,11 +62,12 @@ Countries on the east
 
 ## East Neka
 
+- Birthplace of Kijo (3/14/2000)
 
 ## Tempo City
 
 - Birthplace of Sinco (9/19/2011)
-- Birthplace of Kijo (3/14/200)
+- Birthplace of Kijo (3/14/2000)
 
 - Has Velocity Street
 
