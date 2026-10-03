@@ -206,8 +206,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e27d464c911a220",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Renewed/Writing/Renewed_split/Renewed_3.txt",
+    "Renewed/Writing/Renewed_split/Renewed_2.txt",
+    "Renewed/Writing/Renewed_split/Renewed_1.txt",
+    "Renewed/Writing/Renewed_split",
     "Renewed/Explanations/Places.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed.md",
@@ -236,15 +240,11 @@
     "2M2X1V1I/Explanations/Places.md",
     "test.md",
     "2M2X1V1I/Explanations/Random.md",
-    "2M2X1V1I/Explanations/Ideas.md",
     "2M2X1V1I/Explanations/Untitled.base",
     "Renewed/Writing",
     "Renewed/Explanations",
     "Renewed",
     "Granule/Groups",
-    "Granule/Events/Earth",
-    "Granule/Objects",
-    "Granule/Species",
-    "Granule/Events"
+    "Granule/Events/Earth"
   ]
 }
