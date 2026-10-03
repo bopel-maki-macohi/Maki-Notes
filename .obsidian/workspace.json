@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/Renewed New Gen.md",
+                "file": "Renewed/Writing/Renewed The Trilands.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewed New Gen"
+              "title": "Renewed The Trilands"
             }
           },
           {
@@ -230,11 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e27d464c911a220",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
+    "Renewed/Writing/Untitled",
+    "Renewed/Writing/Renewed New Gen.md",
+    "Renewed/Writing/Renewed The Trilands.md",
     "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Characters/Tirok.md",
-    "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Worldbuilding.md",
@@ -263,8 +265,6 @@
     "2026-08-30.md",
     "Untitled.canvas",
     "2M2X1V1I/Explanations/Places.md",
-    "test.md",
-    "2M2X1V1I/Explanations/Random.md",
     "2M2X1V1I/Explanations/Untitled.base",
     "Renewed/Writing",
     "Renewed/Explanations",
