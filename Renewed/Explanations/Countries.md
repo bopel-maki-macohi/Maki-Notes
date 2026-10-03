@@ -8,7 +8,7 @@ Countries on the west
 
 ## Lei
 
-- Piece of The Nation that split off before hun
+- Piece of The Nation that split off before humans existed (No Date)
 
 ## The Nation
 
