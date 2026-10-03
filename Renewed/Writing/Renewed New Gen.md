@@ -297,3 +297,5 @@ Warnit : "I see what you're talking about."
 Dot gets in running position.
 
 Dot : "Keep that in mind."
+
+Dot speeds towards the soldiers, Warnit begins to run towards the soldiers aswell, 
