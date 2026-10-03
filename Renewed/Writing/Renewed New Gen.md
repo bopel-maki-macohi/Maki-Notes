@@ -318,4 +318,6 @@ The Ni Jun mechs are briefly stunned by the shockwave, and Ainmore hits them wit
 
 Dot is about to speed into Ni Hovac when Kijo appears in front of her, forming from the ground.
 
-Kijo : "Your"
+Kijo : "Your parents are safe."
+
+Dot : "They won't stay safe."
