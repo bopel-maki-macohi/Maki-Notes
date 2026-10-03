@@ -35,6 +35,7 @@ Countries on the east
 
 ## Lozen
 
+- Part of The Nation that split i
 
 ## West Neka
 
