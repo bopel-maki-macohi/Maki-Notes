@@ -58,6 +58,8 @@ Countries on the east
 
 - Full part of The Nation that split off (1246)
 
+- Home of The Lozen News TV Program (1935)
+
 - Birthplace of Lasha (5/20/2006)
 
 ## West Neka
