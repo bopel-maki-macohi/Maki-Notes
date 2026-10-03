@@ -80,7 +80,9 @@ Dot : "Hai Kijo!!"
 
 Kijo : "Hey kid."
 
-Kijo : "Listen, you've got to hurry up, they're going to invade tomorrow at the crack of dawn."
+Kijo : "Listen, you've got to hurry up."
+
+Kijo : "I heard they're going to invade tomorrow at the crack of dawn."
 
 Dot and Marcella nod.
 
