@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/A Story About Desire.md",
+                "file": "Renewed/Writing/Renewed.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "A Story About Desire"
+              "title": "Renewed"
             }
           }
         ]
@@ -208,11 +208,11 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Writing/A Story About Desire.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Writing/Renewed.md",
     "Renewed/Writing/The Fallen Friend.md",
-    "Renewed/Writing/A Story About Desire.md",
     "Renewed/Explanations/Characters/Nicom.md",
     "Renewed/README.md",
     "Renewed/Explanations/Worldbuilding.md",
