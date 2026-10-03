@@ -18,7 +18,7 @@ Countries on the west
 
 ## Morln
 
-- Part of The Nation that didn't change after civil war (1643)
+- Part of The Nation that didn't change after Civil War (1643)
 
 - Landing area of Loroc (9/11/2001)
 
