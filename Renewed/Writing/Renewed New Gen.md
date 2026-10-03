@@ -258,4 +258,8 @@ Marcella : "Με φαγουρίζει το πρόσωπο."
 
 Marcella : "Παρακαλούμε, θεραπεύστε μας."
 
-Kijo : "English"
+Kijo : "English?"
+
+Marcella : "Cure."
+
+Warnit pulls out 
