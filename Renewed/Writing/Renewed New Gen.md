@@ -210,4 +210,4 @@ Marcella and Dot speed towards them, Kijo dives into the ground and a bump in th
 
 Ainmore hesitates, but then flies over following them.
 
-The Ni Jun empire soldiers begin to fire at all of them, Kijo evades by creating holes in their form where the bullets were going to hit or changing material, Dot speeds around and hits as many soldiers as she can, Marcella can't even be touched, 
+The Ni Jun empire soldiers begin to fire at all of them, Kijo evades by creating holes in their form where the bullets were going to hit or changing material, Dot speeds around and hits as many soldiers as she can, Marcella can't even be touched, each bullet she dodges with ease, she might as well just be playing with them, every blow Marcella deals 
