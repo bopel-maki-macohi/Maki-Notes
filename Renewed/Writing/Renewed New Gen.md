@@ -276,4 +276,6 @@ Kijo : "There's 200 of the soldiers left coming towards here with 5 mechs."
 
 Kijo turns around.
 
-Kijo : "There'"
+Kijo : "There's 5 of them in the kingdom right now."
+
+Kijo : "I'll deal with that."
