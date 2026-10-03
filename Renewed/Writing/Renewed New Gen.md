@@ -180,6 +180,8 @@ The time is 6:45 AM.
 
 Ainmore, Dot, Marcella, Kijo, in a more humanoid form, and several Ni Hovac soldiers stand in front of the Ni Hovac gates, waiting, the ground is cracked sandstone with grains of sands in clusters or in tiny bits spread across the ground and sand inside the cracks.
 
+Ainmore looks over at Kijo
+
 Ainmore : "Hey Kijo, you're like 75% of the Earth now right?"
 
 Ainmore : "Are they coming?"
@@ -194,4 +196,4 @@ Kijo : "They're coming."
 
 Suddenly the ground begins to vibrate slightly, like a giant march.
 
-
+Ainmore look
