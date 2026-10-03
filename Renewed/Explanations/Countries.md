@@ -4,7 +4,7 @@ Countries on the west
 
 ## Trilands
 
-- Left over pieces of land from when Loz
+- Left over pieces of land from when Lozen split off from The Nation (1246)
 
 ## Lei
 
@@ -96,6 +96,8 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Birthplace of Oma (9/19/2007)
 - Birthplace of Eri (2/26/2009)
 - Birthplace of Rie (2/26/2009)
+
+- Landi
 
 - Home of The Freefall Foundation
 
