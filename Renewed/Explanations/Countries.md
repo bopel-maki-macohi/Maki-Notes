@@ -141,9 +141,13 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Ancient land that drifted from the East to the West (planets are round) (315)
 
 - Houses people from when Menco was in tribes
-- T
+- The Korke tribe
+
+- Evolved to 
 
 ## Isocrex
+
+- A piece of Kaven Korke that split off
 
 - Discovered and named by Tirok (2002)
 - The place where Tirok found the Chaos Emerald
