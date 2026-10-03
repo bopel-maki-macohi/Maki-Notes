@@ -19,7 +19,7 @@ Countries on the west
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
 - Origin of the Modern English language (1243)
 
-- Home of The New Nation  (1966)
+- Home of The New Nation Newspaper (1640)
 
 ## Morln
 
