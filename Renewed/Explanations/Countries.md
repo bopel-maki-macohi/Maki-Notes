@@ -25,3 +25,6 @@ Countries on the east
 ## East Neka
 ## Tempo City
 ## Cray Vex
+## Baron
+## Kaven Korke
+## Isocrex
