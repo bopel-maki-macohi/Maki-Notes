@@ -5,6 +5,7 @@ Countries on the west
 ## Trilands
 
 - Left over pieces of land from when Lozen split off from The Nation (1246)
+- It's just animals and natural resources here
 
 ## Lei
 
