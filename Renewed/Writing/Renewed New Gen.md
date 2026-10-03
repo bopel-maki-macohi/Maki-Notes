@@ -268,4 +268,8 @@ Dot : "Okay."
 
 Dot : "Okay."
 
-Warnit : "Are we ready to "
+Warnit : "Are we ready to finish this?"
+
+Ainmore : "Yes please."
+
+Kijo : "There's 200 of the soldiers left"
