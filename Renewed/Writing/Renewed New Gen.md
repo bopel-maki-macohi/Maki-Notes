@@ -340,6 +340,6 @@ Ainmore : "All that for some kids parents."
 
 Marcella : "That's her reason."
 
-Warnit approc
+Warnit approaches Ainmore.
 
-Warnit : "If you've got a problem"
+Warnit : "If you've got a problem "
