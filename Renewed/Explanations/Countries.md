@@ -36,7 +36,9 @@ Countries on the west
 ## Jur Lavi
 
 - The West half of Jur Vali, run and purchased by Lex Breaker (1981)
+
 - Home of the Lex Breaker Science Corporation
+- Home of The Jur News (19)
 
 ## Bekon Karv
 
