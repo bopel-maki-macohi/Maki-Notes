@@ -4,6 +4,7 @@ Countries on the west
 
 ## Trilands
 
+- Left over pieces of land from when Loz
 
 ## Lei
 
@@ -35,8 +36,7 @@ Countries on the east
 
 ## Lozen
 
-- Part of The Nation that split off (1246)
-
+- Full part of The Nation that split off (1246)
 
 ## West Neka
 
