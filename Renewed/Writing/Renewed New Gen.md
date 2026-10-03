@@ -228,5 +228,5 @@ Ainmore : "Idiots."
 
 Ainmore rises from the ground, his legs feel numb but he creates a bubble for him to sit on, he flies through the sky on the bubble using his ring, he fires blasts at the Ni Jun soldiers and takes random pieces of debris and tossing them at the Ni Jun soldiers and eventually creating a bubble around them and tossing them away.
 
-The Ni Jun mechs begin to charge a massive blast.
+The Ni Jun mechs begin to charge a massive blast towards Ni Hovac as more Ni Jun soldiers arrive.
 
