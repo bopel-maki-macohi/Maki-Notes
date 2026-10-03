@@ -116,6 +116,7 @@ Kijo's structure deconstructs and turns back into regular ground, Dot speeds awa
 
 April 19th, 2097
 
+Inside a futuristic city
 
 # Chapter 4
 
