@@ -262,4 +262,4 @@ Kijo : "English?"
 
 Marcella : "Cure."
 
-Warnit pulls out 
+Warnit pulls out a 
