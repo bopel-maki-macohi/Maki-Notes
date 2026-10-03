@@ -41,6 +41,7 @@ Countries on the west
 ## Bekon Karv
 
 - Discovered and Named by Lex Breaker (1734)
+- Home to Lex Breaker's secret operation facilities
 - 
 
 ## Menco
