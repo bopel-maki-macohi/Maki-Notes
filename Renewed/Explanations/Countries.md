@@ -21,5 +21,7 @@ Countries on the east
 ## Ni Jun
 ## Darkmorth
 ## Ice Darkmorth
-## Ni vohac
-## 
+## Ni Vohac
+## East Neka
+## Tempo City
+## Cray Vex
