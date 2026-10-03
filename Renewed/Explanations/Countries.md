@@ -67,7 +67,7 @@ Countries on the east
 - Ruled by Stacey Gel (1960)
 
 - Another home of the underground Colatin metal
-	- Ran out of Colatin (1962)
+	- Ran out of Colatin (1987)
 
 ## Darkmorth
 
@@ -89,7 +89,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Kingdom ruled by The Knight Serviceman / Warnit since 1921
 
 - Main home of the underground Colatin metal (1816)
-	- Still has plent
+	- Still has plenty
 
 ## East Neka
 
