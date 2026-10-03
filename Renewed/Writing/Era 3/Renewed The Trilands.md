@@ -24,7 +24,11 @@ Kijo : "No..."
 
 Dot : "Well we should probably go check it out."
 
-Dot : "Apparently there's some ra"
+Dot : "Apparently there's some radiation sh-"
+
+Kijo : ""
+
+"going on with it?"
 
 ## Chapter 2 : The Trilands
 
