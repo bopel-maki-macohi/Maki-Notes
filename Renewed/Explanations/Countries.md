@@ -35,11 +35,18 @@ Countries on the east
 
 ## Ni Vohac
 
-- C
+- Kingdom ruled by The Knight Serviceman / Warnit
 
 ## East Neka
+
+
 ## Tempo City
 ## Cray Vex
+
+
 ## Baron
 ## Kaven Korke
+
+
 ## Isocrex
+
