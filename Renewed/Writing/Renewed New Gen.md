@@ -152,7 +152,7 @@ Dot : "Ni Jun is going to invade Ni Hovac tomorrow."
 
 Ainmore : "Shit."
 
-Ainmore : "Alright,"
+Ainmore : "Alright. I'm in."
 
 # Chapter 4 : Showdown
 
