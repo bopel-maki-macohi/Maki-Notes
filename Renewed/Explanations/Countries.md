@@ -128,6 +128,8 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Originally the most powerful Eastle country (1646)
 
+- Home of The Freefall Foundation (2023)
+- 
 - Birthplace of Tirok (10/11/1981)
 
 ## Baron
@@ -136,7 +138,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Birthplace of Eri (2/26/2009)
 - Birthplace of Rie (2/26/2009)
 
-- Home of The Freefall Foundation (202)
+- Home of The Freefall Foundation (2023)
 
 - Split off section of Cray Vex (1728)
 
