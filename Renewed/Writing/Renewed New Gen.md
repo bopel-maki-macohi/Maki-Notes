@@ -168,9 +168,9 @@ Ainmore : "Okay we've got about half a day."
 
 Ainmore : "Lets go."
 
-Ainmore turns around and begins to fly into the sky, picking up speed.
+Ainmore turns around and begins to fly into the sky, picking up speed, Dot winding up and running in the same direction.
 
-Dot 
+Destination : Ni Hovac.
 
 # Chapter 4 : Showdown
 
