@@ -19,4 +19,5 @@ Writing (in timeline order):
 [[Renewed Nicom|Renewed : Nicom]]
 [[The Fallen Friend]] (Down to Earth)
 [[Renewed New Gen|Renewed : New Gen]]
-[[Renewed New Gen|Renewed : New Gen]]
+[[Renewed The Trilands|Renewed : The Trilands]]
+[[Renewed Bekon Karv|Renewed : Bekon Karv]]
