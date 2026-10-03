@@ -99,6 +99,8 @@ Countries on the east
 - "Home" of the Darkmoor family
 - No airline travelled allowed to here (punishment if not listened to : death)
 
+Hovac
+
 ## Ice Darkmorth
 
 - Marcella's main primary sighting spot
