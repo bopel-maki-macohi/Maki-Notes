@@ -232,4 +232,8 @@ The Ni Jun mechs begin to charge a massive blast towards Ni Hovac as more Ni Jun
 
 Ainmore goes closer to the ground.
 
-Ainmore : ""
+Ainmore : "Kijo!"
+
+Kijo emerges from the ground.
+
+Ainmore : "Please tell me you got Warnit."
