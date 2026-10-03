@@ -82,7 +82,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Kingdom ruled by The Knight Serviceman / Warnit since 1921
 
-- Home of the underground Colatin metal
+- Main home of the underground Colatin metal (1821)
 
 ## East Neka
 
