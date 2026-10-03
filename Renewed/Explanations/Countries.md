@@ -157,7 +157,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Kaven Korke
 
-- Ancient land that drifted from the East to the West (planets are round) (315)
+- Ancient land from Menco that drifted from the West to the East (315)
 
 - Houses people from when Menco was in tribes
 - The Korke tribe
