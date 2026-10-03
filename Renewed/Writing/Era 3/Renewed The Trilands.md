@@ -18,7 +18,9 @@ Kijo : "I'm about 76% of the earth Dot, I'm almost everywhere."
 
 Dot points at the newsletter.
 
-Dot : 
+Dot : "Are you in any of the Trilands?"
+
+Kijo :
 
 ## Chapter 2 : The Trilands
 
