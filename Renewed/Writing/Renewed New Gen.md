@@ -254,4 +254,4 @@ Warnit jumps down from a building and lands beside Ainmore and Kijo, dust flies 
 
 Warnit : "Kijo, get them."
 
-Kijo looks over at Dot and Marcella, the light in her form's eyes disappear and the ground beneath Dot and Marcella
+Kijo looks over at Dot and Marcella, the light in her form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringi
