@@ -12,7 +12,9 @@ Dot stares at the text, her fidgeting scratched to a halt.
 
 Dot : "Kijo, are you there?"
 
-Beside Dot in the chair appears a black goo that spikes up from the left chair arm, 
+Beside Dot in the chair appears a black goo that spikes up from the left chair arm, morphing into the head of Kijo.
+
+Kijo : "I'm about 76% of the earth Dot"
 
 ## Chapter 2 : The Trilands
 
