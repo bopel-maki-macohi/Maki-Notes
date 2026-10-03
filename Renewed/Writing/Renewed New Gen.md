@@ -186,7 +186,7 @@ Ainmore : "Are they coming?"
 
 Kijo closes their eyes, their form starting to melt slightly.
 
-Kijo opens their eyes, 
+Kijo opens their eyes, their form going back to normal.
 
 Kijo : "Yes."
 
