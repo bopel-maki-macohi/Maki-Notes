@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Places.md",
+                "file": "Renewed/Explanations/Countries.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Places"
+              "title": "Countries"
             }
           }
         ]
@@ -213,7 +213,7 @@
     "Renewed/Writing/Renewed_split/Renewed_2.txt",
     "Renewed/Writing/Renewed_split/Renewed_1.txt",
     "Renewed/Writing/Renewed_split",
-    "Renewed/Explanations/Places.md",
+    "Renewed/Explanations/Countries.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/A Story About Desire.md",
     "Renewed/Writing/Renewed Nicom.md",

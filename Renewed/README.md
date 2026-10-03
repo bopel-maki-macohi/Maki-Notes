@@ -8,7 +8,7 @@ Explanations:
 [[Tirok]]
 [[Nicom]]
 
-[[Places]]
+[[Countries]]
 [[Whys]]
 [[Worldbuilding]]
 
