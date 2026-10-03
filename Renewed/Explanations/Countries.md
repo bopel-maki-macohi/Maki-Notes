@@ -126,7 +126,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Cray Vex
 
-- Originally the most powerful 
+- Originally the most powerful Eastle country (1646)
 
 - Birthplace of Tirok (10/11/1981)
 
