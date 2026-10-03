@@ -262,4 +262,4 @@ Kijo : "English?"
 
 Marcella : "Cure."
 
-Warnit pulls out 2 Autoinjectors, he tosses them at Dot and Marcella, Marcella grabs it and jabs it into her leg, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, 
+Warnit pulls out 2 Autoinjectors, he tosses them at Dot and Marcella, Marcella grabs it and jabs it into her leg, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, she has it ready but she has to breathe in order to inject herself, she tries her best to hide the pain but it doesnt
