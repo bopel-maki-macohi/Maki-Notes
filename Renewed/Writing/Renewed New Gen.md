@@ -325,3 +325,7 @@ Dot : "They won't stay safe."
 Dot : "They've got to move again."
 
 Kijo : "Let us handle that."
+
+Dot : "Fine."
+
+Dot : "But I'm not leaving without seeing myself that they are okay."
