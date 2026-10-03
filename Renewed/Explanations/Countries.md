@@ -58,6 +58,8 @@ Countries on the east
 
 ## Ni Vohac
 
+English name is “The Sacred Ground”
+
 - Kingdom ruled by The Knight Serviceman / Warnit
 
 - Home of the 
