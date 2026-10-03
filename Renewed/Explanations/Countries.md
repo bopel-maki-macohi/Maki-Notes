@@ -35,7 +35,8 @@ Countries on the east
 
 ## Lozen
 
-- Part of The Nation that split i
+- Part of The Nation that split off (1246)
+
 
 ## West Neka
 
