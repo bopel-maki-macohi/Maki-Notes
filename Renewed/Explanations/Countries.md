@@ -10,12 +10,20 @@ Countries on the west
 - Origin of the modern English language
 
 ## Morln
+
+
 ## Jur Vali
+
+
 ## Jur Lavi
 
 - The West half of Jur Vali, run by Lex Breaker
 ## Bekon Karv
+
+
 ## Menco
+
+
 
 # Eastles
 
@@ -52,7 +60,7 @@ Countries on the east
 
 - Home of Sinco
 
-- 
+- Has Velocity Street
 
 ## Cray Vex
 
