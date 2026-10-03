@@ -38,7 +38,6 @@ Countries on the west
 
 ## Bekon Karv
 
-- 
 - Discovered and Named by Lex Breaker (1734)
 
 ## Menco
