@@ -240,4 +240,4 @@ Ainmore : "Please tell me you got Warnit."
 
 Kijo : "Yeah I got him."
 
-Suddenly the Ni Jun mechs fire their blast towards Ni Hovac, and right as it's about to hit the 
+Suddenly the Ni Jun mechs fire their blast towards Ni Hovac, and right as it's about to hit the kingdom, it is reflected back at the mechs.
