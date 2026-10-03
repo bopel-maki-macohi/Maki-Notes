@@ -6,7 +6,8 @@ Countries on the west
 ## Lei
 ## The Nation
 
-- Creator of the Nation Dollar (Primary Currency of the world since 1613)
+- Creator of the Nation Dollar (Main Currency of the world since 1613)
+- Origin of the modern english language
 
 ## Morln
 ## Jur Vali
