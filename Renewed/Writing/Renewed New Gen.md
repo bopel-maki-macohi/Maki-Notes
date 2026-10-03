@@ -184,6 +184,6 @@ Ainmore : "Hey Kijo, you're like 75% of the Earth now right?"
 
 Ainmore : "Are they coming?"
 
-Kijo closes their eyes
+Kijo closes their eyes, th
 
 Kijo : "Yes."
