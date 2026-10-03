@@ -262,7 +262,7 @@ Kijo : "English?"
 
 Marcella : "Cure."
 
-Warnit pulls out 2 Autoinjectors, he tosses them at Dot and Marcella, Marcella grabs it and jabs it into her side, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, she has it ready but she has to breathe and mentally hype herself up in order to inject herself, she tries her best to hide the pain once she does it but it doesn't really work, as Dot gets up she winces, Marcella grabs her by her arms and brings her to her feet, dusting her off.
+Warnit pulls out 3 Autoinjectors, he tosses them at Ainmore, Dot and Marcella, Ainmore Marcella grabs it and jabs it into her side, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, she has it ready but she has to breathe and mentally hype herself up in order to inject herself, she tries her best to hide the pain once she does it but it doesn't really work, as Dot gets up she winces, Marcella grabs her by her arms and brings her to her feet, dusting her off.
 
 Dot : "Okay."
 
@@ -280,4 +280,4 @@ Kijo : "There's 5 of them in the kingdom right now."
 
 Kijo : "I'll deal with that."
 
-Kijo merges with the ground again, heading 
+Kijo merges with the ground again, heading towards the kingdom, Ainmore
