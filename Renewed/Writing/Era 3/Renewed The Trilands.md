@@ -10,7 +10,9 @@ It speaks of how a Lex Breaker research team flew over the plots of land during 
 
 Dot stares at the text, her fidgeting scratched to a halt.
 
-Dot : "Kijo, are y"
+Dot : "Kijo, are you there?"
+
+From the wooden floor emerges a wooden version of K
 
 ## Chapter 2 : The Trilands
 
