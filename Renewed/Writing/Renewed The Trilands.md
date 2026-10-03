@@ -1,5 +1,5 @@
 ## Chapter 1 : Radiation Reports
-2097
+Lozen, July, 2097
 
 
 ## Chapter 2 : The Trilands
