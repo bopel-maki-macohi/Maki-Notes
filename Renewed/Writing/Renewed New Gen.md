@@ -190,4 +190,6 @@ Kijo opens their eyes, their form going back to normal.
 
 Kijo : "Yes."
 
+Kijo : "They're coming."
+
 
