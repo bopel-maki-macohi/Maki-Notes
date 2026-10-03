@@ -279,3 +279,5 @@ Kijo turns around.
 Kijo : "There's 5 of them in the kingdom right now."
 
 Kijo : "I'll deal with that."
+
+Kijo merges with the ground again, heading 
