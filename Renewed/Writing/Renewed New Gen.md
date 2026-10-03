@@ -160,7 +160,9 @@ Dot : "Tomorrow at the crack of dawn."
 
 Ainmore : "Shit."
 
-Ainmore 
+Ainmore looks at the sun in the sky, sun gl
+
+Ainmore : "Okay we've got about half a day"
 
 # Chapter 4 : Showdown
 
