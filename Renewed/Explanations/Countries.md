@@ -140,6 +140,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Birthplace of Rie (2/26/2009)
 
 - Home of The Freefall Foundation (2023)
+- Home of The Baron News TV Program (1935)
 
 - Split off section of Cray Vex (1728)
 
