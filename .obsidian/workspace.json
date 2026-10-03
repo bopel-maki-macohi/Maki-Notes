@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/Renewed New Gen.md",
+                "file": "Renewed/Explanations/Places.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewed New Gen"
+              "title": "Places"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed.md",
     "Renewed/Writing/A Story About Desire.md",
-    "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Writing/The Fallen Friend.md",
     "Renewed/Explanations/Characters/Nicom.md",
