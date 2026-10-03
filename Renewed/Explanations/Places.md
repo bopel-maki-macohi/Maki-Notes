@@ -3,6 +3,8 @@
 Birthplace of Sinco
 
 Connected to Baron via a bridge
+
+Has Velocity Street
 # Baron
 Home to Freefall, STAR, and T-industries 
 
