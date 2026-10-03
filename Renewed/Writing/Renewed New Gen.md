@@ -208,4 +208,4 @@ Dot : "Welcome to being a super hero."
 
 Marcella and Dot speed towards them, Kijo dives into the ground and a bump in the ground follows Marcella and Dot.
 
-Ainmore hesitates, but then flies over following them
+Ainmore hesitates, but then flies over following them.
