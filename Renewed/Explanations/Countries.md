@@ -53,6 +53,9 @@ Countries on the east
 
 - Birthplace of Warnit / The Knight Serviceman (2/12/1861)
 
+- Another home of the underground Colatin metal
+	- Ran out of Colatin (1834)
+
 ## Forge Joven
 
 - Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1960)
