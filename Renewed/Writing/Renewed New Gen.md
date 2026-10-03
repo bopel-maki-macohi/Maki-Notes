@@ -272,4 +272,8 @@ Warnit : "Are we ready to finish this?"
 
 Ainmore : "Yes please."
 
-Kijo : "There's 200 of the soldiers left"
+Kijo : "There's 200 of the soldiers left coming towards here with 5 mechs."
+
+Kijo turns around.
+
+Kijo : "There'"
