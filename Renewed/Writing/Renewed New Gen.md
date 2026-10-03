@@ -116,7 +116,7 @@ Kijo : "Bye."
 
 Kijo's structure deconstructs and turns back into regular ground, Dot speeds away, both having avoided the snow in just the nick of time.
 
-# Chapter 3
+# Chapter 3 : Enmorphy Assistance
 
 April 19th, 2097
 
