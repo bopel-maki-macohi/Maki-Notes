@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Renewed/Explanations/Places.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Places"
+            }
+          },
+          {
+            "id": "1e5c801ac7fdda77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Renewed/Writing/Renewed New Gen.md",
                 "mode": "source",
                 "source": false,
@@ -30,32 +54,9 @@
               "icon": "lucide-file",
               "title": "Renewed New Gen"
             }
-          },
-          {
-            "id": "1e5c801ac7fdda77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2M2X1V1I/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,21 +231,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e28591bbe0830002",
+  "active": "1e5c801ac7fdda77",
   "lastOpenFiles": [
+    "Renewed/Explanations/Worldbuilding.md",
+    "Renewed/Explanations/Places.md",
+    "Renewed/Writing/Renewed New Gen.md",
     "Renewed/README.md",
     "README.md",
-    "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/The Fallen Friend.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Writing/A Story About Desire.md",
-    "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Explanations/Characters/Lex Breaker.md",
-    "Renewed/Explanations/Places.md",
     "Renewed/Explanations/Characters",
     "Renewed/Writing/Renewed.md",
     "2M2X1V1I/Writing/Arc 1.md",
