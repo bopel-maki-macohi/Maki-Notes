@@ -144,7 +144,9 @@ Ainmore : "Thanks for the help Dot."
 
 Dot : "No problem."
 
-Ainmore : "Well I know you aren't here fo rn"
+Ainmore : "Well I know you aren't here for nothing..."
+
+Dot : "Ni Jun is about to invade "
 
 # Chapter 4 : Showdown
 
