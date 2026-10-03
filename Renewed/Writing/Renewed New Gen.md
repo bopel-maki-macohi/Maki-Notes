@@ -330,4 +330,10 @@ Dot : "Fine."
 
 Dot : "But I'm not leaving without seeing myself that they are okay."
 
-Kijo gets 
+Kijo moves out of Dot's way.
+
+Kijo : "By all means then."
+
+Dot speeds into Ni Hovac.
+
+Marcella : ""
