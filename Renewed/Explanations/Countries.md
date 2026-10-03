@@ -60,6 +60,8 @@ Countries on the east
 
 English name is “The Sacred Ground”
 
+An ancient kingdom with advanced tech and minerals that are only provided to the natural born citizens of Ni Vohac and those who have lived in Ni Vohac long enough to have an offspring within Ni Vohac. Or under special conditions.
+
 - Kingdom ruled by The Knight Serviceman / Warnit
 
 - Home of the 
