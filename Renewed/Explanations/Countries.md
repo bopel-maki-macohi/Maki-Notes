@@ -17,4 +17,9 @@ Countries on the east
 
 ## Lozen
 ## West Neka
+## Forge Joven
+## Ni Jun
+## Darkmorth
+## Ice Darkmorth
+## Ni vohac
 ## 
