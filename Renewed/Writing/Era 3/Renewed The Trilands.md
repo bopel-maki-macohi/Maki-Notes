@@ -44,6 +44,10 @@ Dot : "Good point."
 
 Dot : "Where's Ainmore?"
 
+Kijo : "Flying around The Nation."
+
+
+
 ## Chapter 2 : The Trilands
 
 
