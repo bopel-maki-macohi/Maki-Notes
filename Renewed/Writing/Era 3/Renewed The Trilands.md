@@ -48,6 +48,8 @@ Kijo : "Flying around The Nation."
 
 Dot : "W-"
 
+Kijo interrupts her.
+
 Kijo : "I don't know why."
 
 ## Chapter 2 : Get the Enmorphy
