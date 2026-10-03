@@ -316,3 +316,4 @@ As Warnit slams into the floor, a massive shockwave emerges, all of the Ni Jun s
 
 The Ni Jun mechs are briefly stunned by the shockwave, and Ainmore hits them with a mace, and they fall to the ground, the ground deforming when they crash into it and the ground beginning to wrap around them.
 
+Dot speeds into Ni Hova
