@@ -130,7 +130,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Birthplace of Tirok (10/11/1981)
 
-- Home of  (2023)
+- Home of STAR (2024)
 
 ## Baron
 
