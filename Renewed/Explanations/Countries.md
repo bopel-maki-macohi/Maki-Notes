@@ -14,7 +14,7 @@ Countries on the west
 
 ## The Nation
 
-- Evolved Morln after Civil War (1643)
+- The other half of Morln after Civil War (1643)
 
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
 - Origin of the Modern English language (1243)
