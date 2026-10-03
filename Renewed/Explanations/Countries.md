@@ -27,7 +27,9 @@ Countries on the west
 
 ## Jur Lavi
 
+
 - The West half of Jur Vali, run by Lex Breaker
+
 ## Bekon Karv
 
 
