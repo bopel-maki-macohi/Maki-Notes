@@ -178,4 +178,4 @@ April 20th, 2097
 
 The time is 6:45 AM.
 
-Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting, the floor is san
+Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting, the floor is sand stone
