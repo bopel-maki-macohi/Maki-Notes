@@ -20,7 +20,7 @@ Countries on the west
 
 - Landing area of Loroc (9/11/2001)
 
-- Birthplace of Niute ()
+- Birthplace of Niute (8/26/2003)
 
 ## Jur Vali
 
