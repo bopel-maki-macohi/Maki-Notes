@@ -230,3 +230,6 @@ Ainmore rises from the ground, his legs feel numb but he creates a bubble for hi
 
 The Ni Jun mechs begin to charge a massive blast towards Ni Hovac as more Ni Jun soldiers arrive.
 
+Ainmore goes closer to the ground.
+
+Ainmore : ""
