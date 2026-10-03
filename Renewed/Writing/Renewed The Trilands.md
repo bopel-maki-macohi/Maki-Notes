@@ -2,7 +2,7 @@
 
 Lozen, July, 2097
 
-Inside a Lozen apartment about 10 stories high, 
+Inside a Lozen apartment about 10 stories high, Dot sits in a chair, reading the news, she can't help but to fidget several times
 
 ## Chapter 2 : The Trilands
 
