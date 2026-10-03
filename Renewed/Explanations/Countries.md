@@ -65,7 +65,8 @@ Countries on the east
 
 ## Tempo City
 
-- Home of Sinco
+- Birthplace of Sinco (9/19/2011)
+- Birthplace of Kijo (3/14/200)
 
 - Has Velocity Street
 
@@ -74,7 +75,7 @@ Countries on the east
 
 ## Baron
 
-- Home of The 
+- Home of The Freefall Foundation
 
 ## Kaven Korke
 
