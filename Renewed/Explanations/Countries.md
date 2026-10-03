@@ -31,9 +31,12 @@ Countries on the east
 
 ## Ice Darkmorth
 
-- Marce
+- Marcella's main primary sighting spot
 
 ## Ni Vohac
+
+- C
+
 ## East Neka
 ## Tempo City
 ## Cray Vex
