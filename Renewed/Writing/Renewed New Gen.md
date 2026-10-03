@@ -218,4 +218,5 @@ Dot stops paying attention and gets hit, Marcella's still up however, swatting e
 
 Behind the heros, several Ni Jun soldiers make it to the gate and start killing the Ni Hovac soldiers.
 
-Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and falls dow
+Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and collapses.
+
