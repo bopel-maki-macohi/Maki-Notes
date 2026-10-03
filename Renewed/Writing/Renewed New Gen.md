@@ -352,4 +352,4 @@ Ainmore (Nervous) : "I was..."
 
 Ainmore (Nervous) : "I was just saying..."
 
-Warnit : ""
+Warnit : "We don't complain here, in war you don't "
