@@ -262,7 +262,7 @@ Kijo : "English?"
 
 Marcella : "Cure."
 
-Warnit pulls out 3 Autoinjectors, he tosses them at Ainmore, Dot and Marcella, Ainmore catches his in midair and slowly injects himself in the leg, dematerializing his bu, Marcella grabs it and jabs it into her side, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, she has it ready but she has to breathe and mentally hype herself up in order to inject herself, she tries her best to hide the pain once she does it but it doesn't really work, as Dot gets up she winces, Marcella grabs her by her arms and brings her to her feet, dusting her off.
+Warnit pulls out 3 Autoinjectors, he tosses them at Ainmore, Dot and Marcella, Ainmore catches his in midair and slowly injects himself in the leg, dematerializing his bubble and standing upright, doing a little bounce up and down to get the blood flow going, Marcella grabs it and jabs it into her side, yanking it out and standing up, cracking her neck and dusting herself off, Dot grabs hers but hesitates, she has it ready but she has to breathe and mentally hype herself up in order to inject herself, she tries her best to hide the pain once she does it but it doesn't really work, as Dot gets up she winces, Marcella grabs her by her arms and brings her to her feet, dusting her off.
 
 Dot : "Okay."
 
