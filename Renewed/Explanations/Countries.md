@@ -71,6 +71,7 @@ Countries on the east
 - Birthplace of Kijo (3/14/2000)
 
 - Home of Tirok Industries (1930)
+	- Birthplace of Tirok (10/11/1981)
 
 - Has Velocity Street
 
@@ -80,9 +81,9 @@ Countries on the east
 
 ## Baron
 
-- Birthplace of Oma (9/19/2011)
-- Birthplace of Eri (2/26/2008)
-- Birthplace of Rie (2/26/2008)
+- Birthplace of Oma (9/19/2007)
+- Birthplace of Eri (2/26/2009)
+- Birthplace of Rie (2/26/2009)
 
 - Home of The Freefall Foundation
 
