@@ -65,7 +65,7 @@ Countries on the east
 
 ## Tempo City
 
-- Urban half of Cray Vex, eventually turned into it'
+- Urban half of Cray Vex, eventually turned into its own country when Cray Vex lost power ()
 
 - Birthplace of Sinco (9/19/2011)
 - Birthplace of Kijo (3/14/2000)
