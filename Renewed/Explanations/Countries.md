@@ -28,7 +28,7 @@ Countries on the west
 
 ## Jur Vali
 
-- Section of The Nation that was handed over to Menco
+- Section of The Nation that was handed over to Menco before Morln (1310)
 
 ## Jur Lavi
 
