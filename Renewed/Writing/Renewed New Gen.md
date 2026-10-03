@@ -160,7 +160,7 @@ Dot : "Tomorrow at the crack of dawn."
 
 Ainmore : "Shit."
 
-Ainmore looks at the sun in the sky, sun gl
+Ainmore looks at the sun in the sky, sun glasses materializing in front of his face, flying.
 
 Ainmore : "Okay we've got about half a day"
 
