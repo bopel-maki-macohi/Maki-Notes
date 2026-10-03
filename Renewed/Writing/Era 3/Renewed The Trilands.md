@@ -34,7 +34,11 @@ Dot : "Apparently there's some radiation *crap* going on with it."
 
 Kijo nods her head, Dot rolls her eyes again.
 
-Dot : ""
+Kijo : "Anyway, uhm..."
+
+Kijo : "Yeah probably."
+
+Kijo : "It mentions Lex Breaker, "
 
 ## Chapter 2 : The Trilands
 
