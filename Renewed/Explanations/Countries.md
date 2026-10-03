@@ -3,7 +3,11 @@
 Countries on the west
 
 ## Trilands
+
+
 ## Lei
+
+
 ## The Nation
 
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
@@ -43,7 +47,7 @@ Countries on the east
 
 ## Darkmorth
 
-- Home of Marcella Darkmoor
+- "Home" of the Darkmoor f
 
 ## Ice Darkmorth
 
