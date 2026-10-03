@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Countries.md",
+                "file": "Renewed/Explanations/Worldbuilding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Worldbuilding"
             }
           }
         ]
@@ -208,9 +208,9 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",
-    "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Writing/Renewed.md",
     "Renewed/Writing/Renewed_split/Renewed_3.txt",
