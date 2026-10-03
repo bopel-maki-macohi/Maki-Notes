@@ -304,4 +304,4 @@ Dot speeds through the soldiers, smacking them, kicking them, grabbing one of th
 
 Marcella speeds from one soldier to another, quantity over quality, for every minor blow several soldiers go down at once due to her massive power and her ability to manipulate it to do what she needs it to do.
 
-Ainmore creates several constructs to deal with the mechs, giant swords, spears and daggers for piercing the shell, hammers for pure blunt force
+Ainmore creates several constructs to deal with the mechs, giant swords, spears and daggers for piercing the shell, hammers for pure blunt force, and more.
