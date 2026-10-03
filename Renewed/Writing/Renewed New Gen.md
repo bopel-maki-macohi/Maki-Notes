@@ -302,4 +302,6 @@ Dot speeds towards the soldiers, Warnit begins to run towards the soldiers as we
 
 Dot speeds through the soldiers, smacking them, kicking them, grabbing one of them and spinning them rapidly, using them as a weapon.
 
-Marcella speeds from one soldier to another, quantity over quality, for every minor blow several soldiers go down at once due to her emence 
+Marcella speeds from one soldier to another, quantity over quality, for every minor blow several soldiers go down at once due to her massive power and her ability to manipulate it to do what she needs it to do.
+
+Ain
