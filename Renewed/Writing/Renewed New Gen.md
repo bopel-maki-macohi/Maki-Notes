@@ -136,6 +136,8 @@ Dot : "Need help Ainmore?"
 
 Ainmore : "Yes please!"
 
+Dot
+
 # Chapter 4 : Showdown
 
 April 20th, 2097
