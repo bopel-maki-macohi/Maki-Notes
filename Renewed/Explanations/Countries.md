@@ -48,11 +48,12 @@ Countries on the east
 ## Darkmorth
 
 - "Home" of the Darkmoor family
-- No airline travelled allowed to here (punishment)
+- No airline travelled allowed to here (punishment if not listened to : death)
 
 ## Ice Darkmorth
 
 - Marcella's main primary sighting spot
+- Constantl
 
 ## Ni Vohac
 
