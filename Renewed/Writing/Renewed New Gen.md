@@ -90,7 +90,7 @@ Dot : "That dude again?"
 
 Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
 
-Kijo (Studdering) : "Wha-Wha-"
+Kijo (Shuddering) : "Wh- Wha-?"
 
 Kijo : "Why..."
 
