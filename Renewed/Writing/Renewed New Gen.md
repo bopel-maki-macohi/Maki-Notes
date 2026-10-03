@@ -166,7 +166,7 @@ Ainmore : "Okay we've got about half a day."
 
 Ainmore : "Lets go."
 
-Ain
+Ainmore turns around and blasts off into the sky.
 
 # Chapter 4 : Showdown
 
