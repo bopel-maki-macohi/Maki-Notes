@@ -122,7 +122,7 @@ April 19th, 2097
 
 Inside a futuristic city, buildings being tall and towering balanced by thin poles that are also elevators, transparent roads above the ground and concrete roads on ground, advanced cars zooming by on the transparent roads and regular cars slowly getting by on the concrete road.
 
-In the 
+At the far edge of the land, a steel bridge is established, wide enough for ca
 
 # Chapter 4
 
