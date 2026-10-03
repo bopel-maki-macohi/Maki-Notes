@@ -14,7 +14,11 @@ Dot : "Kijo, are you there?"
 
 Beside Dot in the chair appears a black goo that spikes up from the left chair arm, morphing into the head of Kijo.
 
-Kijo : "I'm about 76% of the earth Dot"
+Kijo : "I'm about 76% of the earth Dot, I'm almost everywhere."
+
+Dot points at the newsletter.
+
+Dot : 
 
 ## Chapter 2 : The Trilands
 
