@@ -262,4 +262,4 @@ Kijo : "English?"
 
 Marcella : "Cure."
 
-Warnit pulls out 2 Autoinjectors,
+Warnit pulls out 2 Autoinjectors, he tosses them at Dot and Marcella, Marcella grabs it and jabs it into he
