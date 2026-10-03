@@ -61,7 +61,7 @@ Countries on the east
 
 - The south half of Ni Hovac that got "formed" when Forge Joven appeared (1960)
 
-- 
+- Ruled by Stacey Gel (1960)
 
 ## Darkmorth
 
