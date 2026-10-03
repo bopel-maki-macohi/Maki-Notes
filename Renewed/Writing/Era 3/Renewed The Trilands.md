@@ -46,7 +46,11 @@ Dot : "Where's Ainmore?"
 
 Kijo : "Flying around The Nation."
 
+Dot : "W-"
 
+Kijo : "I don't know why."
+
+## Chapter 2 : T
 
 ## Chapter 2 : The Trilands
 
