@@ -5,6 +5,9 @@ Countries on the west
 ## Trilands
 ## Lei
 ## The Nation
+
+- Creator of the Nation Dollar (Main Currency )
+
 ## Morln
 ## Jur Vali
 ## Jur Lavi
