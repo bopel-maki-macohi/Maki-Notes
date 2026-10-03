@@ -1,3 +1,7 @@
 # Wesles
 
-West land
+Countries on the west
+
+# Norto
+
+Countries on the north
