@@ -138,7 +138,9 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Kaven Korke
 
-- Ancient land that drifted from th
+- Ancient land that drifted from the East to the West (planets are round)
+
+- Hous
 
 ## Isocrex
 
