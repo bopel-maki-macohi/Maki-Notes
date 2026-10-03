@@ -136,7 +136,7 @@ Dot : "Need help Ainmore?"
 
 Ainmore : "Yes please!"
 
-As Dot raises her hand 
+As they get closer and closer to Tempo City, Dot raises her hand, it begins to 
 
 # Chapter 4 : Showdown
 
