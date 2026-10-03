@@ -122,11 +122,9 @@ April 19th, 2097
 
 Inside a futuristic city, Tempo City, buildings being tall and towering balanced by thin poles that are also elevators, transparent roads above the ground and concrete roads on ground, advanced cars zooming by on the transparent roads and regular cars slowly getting by on the concrete road.
 
-At the far edge of the land, a steel multi-layered bridge is established, wide enough for multiple cars to go and to come from the destination, Baron.
+At the far edge of the land, a steel multi-layered bridge is established, wide enough for multiple cars and people to go and to come from the destination, Baron.
 
-The bridge however suddenly gets a green aura around it, all the cars are pushed off it back into Tempo City by a green rectangle coming from Baron, the green rectangle disipating into green
-
-The bridge is bent to point towards the sky and a green wall materializes from green particles to prevent cars and people from going on it.
+The bridge however suddenly gets a green aura around it, all the cars are pushed off it back into Tempo City by a green rectangle coming from Baron, the green rectangle dissipating into green floating particles once all the carsThe bridge is bent to point towards the sky and a green wall materializes from green particles to prevent cars and people from going on it.
 
 The green aurora
 
