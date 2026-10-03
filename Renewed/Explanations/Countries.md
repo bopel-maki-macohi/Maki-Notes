@@ -16,6 +16,9 @@ Countries on the west
 
 ## Morln
 
+- Landing area of Loroc (9/11/2001)
+
+- Birthplace 
 
 ## Jur Vali
 
@@ -96,8 +99,6 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Birthplace of Oma (9/19/2007)
 - Birthplace of Eri (2/26/2009)
 - Birthplace of Rie (2/26/2009)
-
-- Landi
 
 - Home of The Freefall Foundation
 
