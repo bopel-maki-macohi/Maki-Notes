@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8daaaf8ea0a39005",
+        "id": "33cac2ac9ed50d80",
         "type": "tabs",
         "children": [
           {
-            "id": "e28591bbe0830002",
+            "id": "5e27d464c911a220",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Places.md",
+                "file": "Renewed/Explanations/Worldbuilding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Places"
-            }
-          },
-          {
-            "id": "1e5c801ac7fdda77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Renewed/Explanations/Places.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Places"
+              "title": "Worldbuilding"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +206,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e5c801ac7fdda77",
+  "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Explanations/Places.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Explanations/Worldbuilding.md",
-    "Renewed/Explanations/Places.md",
     "Renewed/README.md",
     "README.md",
     "Renewed/Writing/The Fallen Friend.md",
