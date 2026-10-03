@@ -138,7 +138,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Home of The Freefall Foundation
 
-- Split off section of Cray Vex ()
+- Split off section of Cray Vex (1629)
 
 ## Kaven Korke
 
