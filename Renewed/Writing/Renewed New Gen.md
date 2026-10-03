@@ -194,9 +194,9 @@ Kijo : "Yes."
 
 Kijo : "They're coming."
 
-Suddenly the ground begins to vibrate slightly, like a giant march.
+Suddenly the ground begins to vibrate slightly, like a massive march.
 
-Then it begins to vibrate loudly
+Then it begins to vibrate loudly.
 
 Ainmore looks forward again.
 
