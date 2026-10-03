@@ -210,4 +210,4 @@ Marcella and Dot speed towards them, Kijo dives into the ground and a bump in th
 
 Ainmore hesitates, but then flies over following them.
 
-The Ni Jun empire soldiers begin to fire at all of them, Kijo 
+The Ni Jun empire soldiers begin to fire at all of them, Kijo evades by created h
