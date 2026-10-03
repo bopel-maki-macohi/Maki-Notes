@@ -226,7 +226,7 @@ Ainmore : "Idiots."
 
 Ainmore rises from the ground, his legs feel numb but he creates a bubble for him to sit on, he flies through the sky on the bubble using his ring, he fires blasts at the Ni Jun soldiers and takes random pieces of debris and tossing them at the Ni Jun soldiers and eventually creating a bubble around them and tossing them away.
 
-The Ni Jun mechs begin to charge a massive blast towards Ni Hovac as more Ni Jun soldiers arrive.
+The Ni Jun mechs begin to charge a massive blast towards Ni Vohac as more Ni Jun soldiers arrive.
 
 Ainmore goes closer to the ground.
 
@@ -238,7 +238,7 @@ Ainmore : "Please tell me you got Warnit."
 
 Kijo : "Yeah I got him."
 
-Suddenly the Ni Jun mechs fire their blast towards Ni Hovac, and right as it's about to hit the kingdom, it is reflected back at the mechs, creating a massive explosion.
+Suddenly the Ni Jun mechs fire their blast towards Ni Vohac, and right as it's about to hit the kingdom, it is reflected back at the mechs, creating a massive explosion.
 
 Standing in the way of the previous blast is a man wearing a fully black outfit with a chest plate and amulet on top, axe in hand, crackling with the energy that was just reflected.
 
@@ -316,7 +316,7 @@ As Warnit slams into the floor, a massive shockwave emerges, all of the Ni Jun s
 
 The Ni Jun mechs are briefly stunned by the shockwave, and Ainmore hits them with a mace, and they fall to the ground, the ground deforming when they crash into it and the ground beginning to wrap around them.
 
-Dot is about to speed into Ni Hovac when Kijo appears in front of her, forming from the ground.
+Dot is about to speed into Ni Vohac when Kijo appears in front of her, forming from the ground.
 
 Kijo : "Your parents are safe."
 
