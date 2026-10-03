@@ -19,6 +19,8 @@ Countries on the west
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
 - Origin of the Modern English language (1243)
 
+- Home of The New Nation  (1966)
+
 ## Morln
 
 - Part of The Nation that didn't change after Civil War (1643)
@@ -29,7 +31,7 @@ Countries on the west
 - Birthplace of Niute (8/26/2003)
 - Birthplace of Lex Breaker (6/28/1971)
 
-- Home of The Morln Newsletter (1410)
+- Home of The Morln News TV Program (1966)
 
 ## Jur Vali
 
