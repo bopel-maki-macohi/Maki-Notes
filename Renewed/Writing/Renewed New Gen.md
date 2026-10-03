@@ -346,4 +346,10 @@ Warnit : "If you've got a problem with a kid wanting to protect their parents."
 
 Warnit : "Then you should give up that ring."
 
-Ainmore : ""
+Ainmore (Nervous) : "I-"
+
+Ainmore (Nervous) : "I was..."
+
+Ainmore (Nervous) : "I was just saying..."
+
+Warnit : ""
