@@ -136,7 +136,7 @@ Dot : "Need help Ainmore?"
 
 Ainmore : "Yes please!"
 
-Dot
+As Dot raises her hand 
 
 # Chapter 4 : Showdown
 
