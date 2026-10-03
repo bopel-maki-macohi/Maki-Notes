@@ -300,4 +300,5 @@ Dot : "Keep that in mind."
 
 Dot speeds towards the soldiers, Warnit begins to run towards the soldiers as well, beginning to swing his axe, tossing it in the air, and being taken upward with it, charging lightning with his axe and slamming back into the ground, several Ni Jun soldiers are sent flying from the shockwave.
 
-Dot speeds through the soldiers, 
+Dot speeds through the soldiers, smacking them, kicking them, grabbing one of them and spinning them rapidly, using them as a weapon.
+
