@@ -336,4 +336,6 @@ Kijo : "By all means then."
 
 Dot speeds into Ni Hovac.
 
+Ainmore : "All that for some kids parents."
+
 Marcella : ""
