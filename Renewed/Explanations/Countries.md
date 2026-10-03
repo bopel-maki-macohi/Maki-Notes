@@ -126,7 +126,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Cray Vex
 
-- 
+- Origi
 
 - Birthplace of Tirok (10/11/1981)
 
