@@ -20,7 +20,11 @@ Dot points at the newsletter.
 
 Dot : "Are you in any of the Trilands?"
 
-Kijo :
+Kijo : "No..."
+
+Dot : "Well we should probably go check it out."
+
+Dot : "Apparently there's some ra"
 
 ## Chapter 2 : The Trilands
 
