@@ -59,6 +59,7 @@ Countries on the east
 ## Forge Joven
 
 - Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1960)
+- Commonly rains
 
 ## Ni Jun
 
