@@ -138,9 +138,9 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Kaven Korke
 
-- 
+- Ancient land that drifted from th
 
 ## Isocrex
 
 - Discovered and named by Tirok (2002)
-- The
+- The place where Tirok found the Chaos Emerald
