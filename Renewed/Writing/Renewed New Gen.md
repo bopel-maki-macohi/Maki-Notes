@@ -136,7 +136,7 @@ Dot : "Need help Ainmore?"
 
 Ainmore : "Yes please!"
 
-As they get closer and closer to Tempo City, Dot raises her hand, it begins to 
+As they get closer and closer to Tempo City, Dot raises her hand, and it begins to vibrate, and she sticks it in the giant mech, the mech is torn apart from t
 
 # Chapter 4 : Showdown
 
