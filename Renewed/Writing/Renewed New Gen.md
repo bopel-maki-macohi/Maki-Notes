@@ -244,4 +244,6 @@ Suddenly the Ni Jun mechs fire their blast towards Ni Hovac, and right as it's a
 
 Standing in the way of the previous blast is a man wearing a fully black outfit with a chest plate and amulet on top.
 
-Ainmore : "Jesus christ, couldn't h"
+Ainmore : "Extra as always."
+
+Kijo : "He's been a kin"
