@@ -68,6 +68,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## East Neka
 
+- 
 
 ## Tempo City
 

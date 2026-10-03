@@ -1,6 +1,5 @@
 # Colatin 
 
-Underground metal exclusive to the Ni Vohac area.
 Second strongest metal on Earth in this universe.
 Has the ability to channel electricity and lightning
 # Pomin
