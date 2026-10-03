@@ -126,7 +126,9 @@ At the far edge of the land, a steel multi-layered bridge is established, wide e
 
 The bridge however suddenly gets a green aura around it, all the cars are pushed off it back into Tempo City by a green rectangle coming from Baron.
 
-The bridge is bent to point towards the sky, 
+The bridge is bent to point towards the sky, a wall is constructed to prevent cars and people from going on it.
+
+The gre
 
 # Chapter 4
 
