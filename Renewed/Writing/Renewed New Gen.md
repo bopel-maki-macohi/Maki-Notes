@@ -310,4 +310,4 @@ Dot speeds around in a circle, forcing the Ni Jun soldiers to circle around.
 
 Dot : "WARNIT!"
 
-Warnit jumps upward into the sky, charging lightning, Dot charges her own lightning and firs it 
+Warnit jumps upward into the sky, charging lightning, Dot charges her own lightning and fires it at Warnit's ax
