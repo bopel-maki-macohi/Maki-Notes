@@ -222,4 +222,8 @@ Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she g
 
 Kijo heads into Ni Hovac.
 
-Ainmore wakes up, looking 
+Ainmore wakes up, looking at his right hand and still seeing his ring.
+
+Ainmore : "Idiots."
+
+Ainmore rises
