@@ -116,7 +116,7 @@ Kijo's structure deconstructs and turns back into regular ground, Dot speeds awa
 
 April 19th, 2097
 
-Inside a futuristic city, buildings being tall and toweri
+Inside a futuristic city, buildings being tall and towering balanced by thin poles thzat are also 
 
 # Chapter 4
 
