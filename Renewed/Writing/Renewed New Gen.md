@@ -170,8 +170,9 @@ Ainmore : "Lets go."
 
 Ainmore turns around and begins to fly into the sky, picking up speed, Dot winding up and running in the same direction.
 
-Destination : Ni Hovac.
+Their Destination : Ni Hovac.
 
 # Chapter 4 : Showdown
 
 April 20th, 2097
+
