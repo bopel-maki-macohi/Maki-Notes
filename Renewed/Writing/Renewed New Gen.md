@@ -192,4 +192,6 @@ Kijo : "Yes."
 
 Kijo : "They're coming."
 
+Suddenly the ground begins to vibrate slightly, like a giant march.
+
 
