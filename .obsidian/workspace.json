@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Renewed/Explanations/Countries.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Countries"
+            }
+          },
+          {
+            "id": "224b3a85d3ccf7c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Renewed/Explanations/Worldbuilding.md",
                 "mode": "source",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Worldbuilding"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +231,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e27d464c911a220",
+  "active": "224b3a85d3ccf7c5",
   "lastOpenFiles": [
+    "Untitled.md",
     "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Whys.md",

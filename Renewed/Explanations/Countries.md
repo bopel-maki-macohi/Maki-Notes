@@ -64,7 +64,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 - Kingdom ruled by The Knight Serviceman / Warnit
 
-- Home of the 
+- Home of the Colatin metal
 
 ## East Neka
 
