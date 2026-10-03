@@ -128,6 +128,10 @@ The bridge however suddenly gets a green aura around it, all the cars and people
 
 The bridge is bent to point towards the sky and a green wall materializes from green particles to prevent cars and people from going on it.
 
+The green aurora around the bridge disappears and the green wall begins to change into a steel wall.
+
+
+
 The green aurora
 
 # Chapter 4
