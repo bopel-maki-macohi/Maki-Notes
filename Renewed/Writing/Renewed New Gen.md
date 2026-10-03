@@ -321,3 +321,7 @@ Dot is about to speed into Ni Hovac when Kijo appears in front of her, forming f
 Kijo : "Your parents are safe."
 
 Dot : "They won't stay safe."
+
+Dot : "They've got to move again."
+
+Kijo : "Let us handle that."
