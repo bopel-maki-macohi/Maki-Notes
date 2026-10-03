@@ -26,9 +26,11 @@ Dot : "Well we should probably go check it out."
 
 Dot : "Apparently there's some radiation sh-"
 
-Kijo : ""
+Kijo : "*ahem*"
 
-"going on with it?"
+Dot rolls her eyes.
+
+Dot : "Apprently there's some radiation *creap* going on with it?"
 
 ## Chapter 2 : The Trilands
 
