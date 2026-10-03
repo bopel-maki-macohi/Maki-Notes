@@ -178,4 +178,4 @@ April 20th, 2097
 
 The time is 6:45 AM.
 
-Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting, the ground is cracked sandstone with grains of sands
+Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting, the ground is cracked sandstone with grains of sands in clusters or in tiny bitbits spread across the ground
