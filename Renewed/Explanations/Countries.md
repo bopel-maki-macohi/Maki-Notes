@@ -7,11 +7,13 @@ Countries on the west
 ## The Nation
 
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
-- Origin of the modern english language
+- Origin of the modern English language
 
 ## Morln
 ## Jur Vali
 ## Jur Lavi
+
+- The 
 ## Bekon Karv
 ## Menco
 
