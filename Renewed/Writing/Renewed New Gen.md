@@ -136,7 +136,7 @@ Dot : "Need help Ainmore?"
 
 Ainmore : "Yes please!"
 
-As they get closer and closer to Tempo City, Dot raises her hand, and it begins to vibrate, and she sticks it in the giant mech, the mech shell tears open, and it's insides are twisted at rapid velocities
+As they get closer and closer to Tempo City, Dot raises her hand, and it begins to vibrate, and she sticks it in the giant mech, the mech shell tears open, and it's insides are twisted at rapid velocities, heating up the mech insides and disabling it as wires and gears are burnt, teared, pulled,
 
 # Chapter 4 : Showdown
 
