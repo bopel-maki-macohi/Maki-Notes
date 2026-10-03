@@ -130,7 +130,7 @@ The bridge is bent to point towards the sky and a green wall materializes from g
 
 The green aurora around the bridge disappears and the green wall begins to change into a steel wall.
 
-
+Coming from Baron is a giant mech suit battling a small person floating in the sky wearing a ring
 
 The green aurora
 
