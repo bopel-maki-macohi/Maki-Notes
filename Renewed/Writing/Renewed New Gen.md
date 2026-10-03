@@ -140,7 +140,11 @@ As they get closer and closer to Tempo City, Dot raises her hand, and it begins 
 
 Dot jumps off the mech once it begins to enter the sea, she lands on the ground in Tempo City, Ainmore lands besides her not lone after, pointing his hand with the ring at the bridge and wall, the bridge is being unbent, the wall is being deconstructed and forced to dematerialized.
 
-Ain
+Ainmore : "Thanks for the help Dot."
+
+Dot : "No problem."
+
+Ainmore : "Well I know you aren't here fo rn"
 
 # Chapter 4 : Showdown
 
