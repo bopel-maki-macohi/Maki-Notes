@@ -220,3 +220,4 @@ Behind the heros, several Ni Jun soldiers make it to the gate and start killing 
 
 Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and collapses.
 
+Kijo heads ngoes back to a humanoid form
