@@ -20,7 +20,7 @@ Countries on the west
 ## Morln
 
 - Part of The Nation that didn't change after Civil War (1643)
-- In Marr
+- In Marriage the ring is on the non-dominant hand
 
 - Landing area of Loroc (9/11/2001)
 
