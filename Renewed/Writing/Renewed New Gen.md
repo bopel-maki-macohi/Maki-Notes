@@ -198,4 +198,4 @@ Suddenly the ground begins to vibrate slightly, like a giant march.
 
 Ainmore looks forward again.
 
-In the distance, several Ni Jun empire soldiers approch
+In the distance, several Ni Jun empire soldiers are slowly approaching
