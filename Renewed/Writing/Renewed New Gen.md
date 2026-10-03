@@ -226,6 +226,6 @@ Ainmore wakes up, looking at his right hand and still seeing his ring.
 
 Ainmore : "Idiots."
 
-Ainmore rises from the ground, his legs feel numb but he creates a bubble for him to sit on, he flies through the sky on the bubble using his ring, he fires blasts at the Ni Jun soldiers and takes random pieces of debris and tossing them at the Ni Jun soldiers.
+Ainmore rises from the ground, his legs feel numb but he creates a bubble for him to sit on, he flies through the sky on the bubble using his ring, he fires blasts at the Ni Jun soldiers and takes random pieces of debris and tossing them at the Ni Jun soldiers and eventually 
 
-The Ni Jun mechs begin to charge a 
+The Ni Jun mechs begin to charge a massive blast.
