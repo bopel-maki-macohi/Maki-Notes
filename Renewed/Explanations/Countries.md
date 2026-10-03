@@ -55,11 +55,11 @@ Countries on the east
 
 ## Forge Joven
 
-- Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1530)
+- Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1960)
 
 ## Ni Jun
 
-Part 
+- The south half of 
 
 ## Darkmorth
 
