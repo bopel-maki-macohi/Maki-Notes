@@ -6,6 +6,7 @@ Explanations:
 [[Lex Breaker]]
 [[Loroc]]
 [[Tirok]]
+[[Nicom]]
 
 [[Places]]
 [[Whys]]

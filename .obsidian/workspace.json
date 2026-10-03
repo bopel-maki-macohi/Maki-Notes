@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Worldbuilding.md",
+                "file": "Renewed/Explanations/Characters/Nicom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Worldbuilding"
+              "title": "Nicom"
             }
           }
         ]
@@ -208,11 +208,11 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
-    "Renewed/Explanations/Characters/Nicom.md",
+    "Renewed/README.md",
     "Renewed/Explanations/Worldbuilding.md",
+    "Renewed/Explanations/Characters/Nicom.md",
     "Renewed/Explanations/Places.md",
     "Renewed/Writing/Renewed New Gen.md",
-    "Renewed/README.md",
     "README.md",
     "Renewed/Writing/The Fallen Friend.md",
     "Renewed/Writing/Renewed Nicom.md",
