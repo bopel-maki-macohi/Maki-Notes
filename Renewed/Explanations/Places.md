@@ -33,6 +33,8 @@ Home of Loroc
 Home of Niute
 
 Location of the newspaper publication : The Morln News
+# Ice Darkmorth
+Icey land that "Marcella Darkmoor" often visits (and thus it was named after her)
 # The Nation
 Origin of the English language
 Creator of the "Nation Dollar" (Main currency)
