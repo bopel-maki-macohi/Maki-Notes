@@ -128,9 +128,9 @@ The bridge however suddenly gets a green aura around it, all the cars and people
 
 The bridge is bent to point towards the sky and a green wall materializes from green particles to prevent cars and people from going on it, the green aura around the bridge then disappears and the green wall begins to change into a steel wall.
 
-Coming from Baron is a giant mech suit following a small person with black fluffy hair in a green and black suit floating in the sky wearing a ring with a green trail following them.
+Coming from Baron towards Tempo City is a giant mech suit following a small person with black fluffy hair in a green and black suit floating in the sky wearing a ring with a green trail following them.
 
-
+Dot runs from Tempo City to the bridge, jumping into the sky, jumping on the 
 
 # Chapter 4 : Showdown
 
