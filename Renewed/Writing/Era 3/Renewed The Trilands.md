@@ -6,7 +6,7 @@ Inside a Lozen apartment about 10 stories high, Dot sits in a chair, reading The
 
 "The Trilands releasing ancient poison! Radiation levels off the charts!"
 
-It speaks of how a Lex Breaker research team flew over the plots of land during a routine trip and detected high amounts of radiation coming from the lands, one of their team members were affected by it 
+It speaks of how a Lex Breaker research team flew over the plots of land during a routine trip and detected high amounts of radiation coming from the lands, one of their team members were affected by it and is currently in the hospital
 
 ## Chapter 2 : The Trilands
 
