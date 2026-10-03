@@ -49,7 +49,7 @@ Countries on the west
 - Origin of the Old Spanish Language (749)
 - Origin of the Modern Spanish Language (1440)
 - Was once originally multiple countries / tribes, but they came together and formed one central entity (340)
-- Home of The Lozen Newsletter (14)
+- Home of The Menco Newsletter (1946)
 
 # Eastles
 
