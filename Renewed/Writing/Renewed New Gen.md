@@ -306,4 +306,4 @@ Marcella speeds from one soldier to another, quantity over quality, for every mi
 
 Ainmore creates several constructs to deal with the mechs, giant swords, spears and daggers for piercing the shell, hammers for pure blunt force, and more.
 
-W
+Warnit
