@@ -138,7 +138,7 @@ Ainmore : "Yes please!"
 
 As they get closer and closer to Tempo City, Dot raises her hand, and it begins to vibrate, and she sticks it in the giant mech, the mech shell tears open, and it's insides are twisted at rapid velocities, heating up the mech insides and disabling it as wires and gears are burnt, teared, pulled, the mech falls into the sea, a voice from the inside screaming with extremely unexcused French and vulgar language.
 
-Dot jumps off the mech once it begins to enter the sea, she lands on the ground in Tempo City, Ainmore lands besides her not lone after, pointing the , the bridge is being unbent, the wall is being dissipated.
+Dot jumps off the mech once it begins to enter the sea, she lands on the ground in Tempo City, Ainmore lands besides her not lone after, pointing his hand with the ring at the bridge and wall, the bridge is being unbent, the wall is being deconst
 
 # Chapter 4 : Showdown
 
