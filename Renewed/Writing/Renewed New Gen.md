@@ -312,4 +312,4 @@ Dot : "WARNIT!"
 
 Warnit jumps upward into the sky, charging lightning into his axe, Dot charges her own lightning and fires it at Warnit's axe, the axe flows with both lightnings as Warnit charges down.
 
-As Warnit slams into the floor, a massive shockwave emerges, all of the Ni Jun soldiers being knocked backwa
+As Warnit slams into the floor, a massive shockwave emerges, all of the Ni Jun soldiers being knocked backward
