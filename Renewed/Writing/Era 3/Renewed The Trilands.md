@@ -6,7 +6,7 @@ Inside a Lozen apartment about 10 stories high, Dot sits in a chair, reading The
 
 "The Trilands releasing ancient poison! Radiation levels off the charts!"
 
-It speaks of how a Lex Break 
+It speaks of how a Lex Breaker research team flew o
 
 ## Chapter 2 : The Trilands
 
