@@ -176,7 +176,6 @@ Their Destination : Ni Hovac.
 
 April 20th, 2097
 
-The time is 6:30 AM.
+The time is 6:45 AM.
 
-Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting.
-
+Ainmore, Dot, Marcella, Kijo stand in front of the Ni Hovac gates, waiting, the floor is san
