@@ -156,7 +156,8 @@ Ainmore : "Alright. I'm in."
 
 Ainmore : "When is it happening?"
 
-Dot : "Crack of dawn tommorow."
+Dot : "Tomorrow at the crack of dawn."
+
 
 # Chapter 4 : Showdown
 
