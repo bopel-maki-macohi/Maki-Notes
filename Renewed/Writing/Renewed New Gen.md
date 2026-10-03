@@ -226,4 +226,4 @@ Ainmore wakes up, looking at his right hand and still seeing his ring.
 
 Ainmore : "Idiots."
 
-Ainmore rises
+Ainmore rises from the ground, his legs 
