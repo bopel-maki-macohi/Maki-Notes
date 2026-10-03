@@ -1,4 +1,4 @@
-# Chapter 1 : Overheard
+# Chapter 1 : Overhearing
 
 April 18th, 2097
 
@@ -130,6 +130,6 @@ The bridge is bent to point towards the sky and a green wall materializes from g
 
 Coming from Baron is a giant mech suit battling a small person floating in the sky wearing a ring with a green trail following them,
 
-# Chapter 4
+# Chapter 4 : Showdown
 
 April 20th, 2097
