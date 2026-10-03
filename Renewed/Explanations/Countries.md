@@ -55,10 +55,11 @@ Countries on the east
 
 ## Forge Joven
 
-- Giant forest mixed with a swamp that formed from an accident in Neka (1530)
+- Giant forest mixed with a swamp that formed in the middle of Ni Hovac (1530)
 
 ## Ni Jun
 
+Part 
 
 ## Darkmorth
 
