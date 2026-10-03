@@ -27,7 +27,7 @@ Countries on the west
 
 - Birthplace of Niute (8/26/2003)
 
-- Birthplace of Lex Breaker (/2003)
+- Birthplace of Lex Breaker (6/28/1971)
 
 ## Jur Vali
 
