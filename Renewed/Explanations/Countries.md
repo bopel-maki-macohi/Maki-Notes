@@ -10,7 +10,7 @@ Countries on the west
 ## Lei
 
 - Piece of The Nation that split off before humans existed (No Date)
-- Discovered and Named by Lex Breaker (1760)
+- Discovered 1760
 
 ## The Nation
 
