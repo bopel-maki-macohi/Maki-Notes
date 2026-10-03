@@ -47,7 +47,8 @@ Countries on the east
 
 ## Darkmorth
 
-- "Home" of the Darkmoor f
+- "Home" of the Darkmoor family
+- No airline travelled allowed to here (punishment)
 
 ## Ice Darkmorth
 
