@@ -9,6 +9,7 @@ Countries on the west
 ## Lei
 
 - Piece of The Nation that split off before humans existed (No Date)
+- Discovered nad Named by Lex Breaker ()
 
 ## The Nation
 
@@ -33,7 +34,7 @@ Countries on the west
 ## Jur Lavi
 
 
-- The West half of Jur Vali, run by Lex Breaker
+- The West half of Jur Vali, run and purchased by Lex Breaker ()
 
 ## Bekon Karv
 
