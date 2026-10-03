@@ -356,4 +356,8 @@ Warnit : "We don't complain here, in war you don't complain."
 
 Warnit : "You live."
 
-Ainmore (Nervious, whispering) : "yes sir"
+Ainmore (Nervous, whispering) : "Yes sir."
+
+Marcella : "Hey Warnit."
+
+Marcella : "Hey Warnit."
