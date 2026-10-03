@@ -53,7 +53,8 @@ Countries on the east
 ## Ice Darkmorth
 
 - Marcella's main primary sighting spot
-- Constantl
+- Constantly snowing
+- Ice pillars constantly form here
 
 ## Ni Vohac
 
@@ -73,6 +74,7 @@ Countries on the east
 
 ## Baron
 
+- Home of The 
 
 ## Kaven Korke
 
