@@ -49,6 +49,7 @@ Countries on the west
 - Origin of the Old Spanish Language (749)
 - Origin of the Modern Spanish Language (1440)
 - Was once originally multiple countries / tribes, but they came together and formed one central entity (340)
+- Home of The Lozen Newsletter (14)
 
 # Eastles
 
@@ -58,7 +59,7 @@ Countries on the east
 
 - Full part of The Nation that split off (1246)
 
-- Home of The Lozen News TV Program (1935)
+- Home of The Lozen Newsletter (1410)
 
 - Birthplace of Lasha (5/20/2006)
 
