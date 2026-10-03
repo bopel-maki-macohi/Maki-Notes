@@ -240,7 +240,7 @@ Kijo : "Yeah I got him."
 
 Suddenly the Ni Jun mechs fire their blast towards Ni Hovac, and right as it's about to hit the kingdom, it is reflected back at the mechs, creating a massive explosion.
 
-Standing in the way of the previous blast is a man wearing a fully black outfit with a chest plate and amulet on top, axe in hand, crackling with the energy that was 
+Standing in the way of the previous blast is a man wearing a fully black outfit with a chest plate and amulet on top, axe in hand, crackling with the energy that was just reflected.
 
 Ainmore : "Extra as always."
 
@@ -284,4 +284,4 @@ Kijo merges with the ground again, heading towards the kingdom, Ainmore flies up
 
 Dot : "Hey Warnit!"
 
-Dot : "That"
+Dot : "That axe, the material i"
