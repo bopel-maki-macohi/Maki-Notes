@@ -342,4 +342,8 @@ Marcella : "That's her reason."
 
 Warnit approaches Ainmore.
 
-Warnit : "If you've got a problem with a kid wanting to protect their parents then you should giv"
+Warnit : "If you've got a problem with a kid wanting to protect their parents."
+
+Warnit : "Then you should give up that ring."
+
+Ainmore : ""
