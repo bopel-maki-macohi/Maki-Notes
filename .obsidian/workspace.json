@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Countries.md",
+                "file": "Renewed/Writing/Renewed Nicom.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Renewed Nicom"
             }
           },
           {
@@ -232,8 +232,8 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
-    "Renewed/Explanations/Worldbuilding.md",
     "Renewed/Explanations/Countries.md",
+    "Renewed/Explanations/Worldbuilding.md",
     "Untitled.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Characters/Tirok.md",
