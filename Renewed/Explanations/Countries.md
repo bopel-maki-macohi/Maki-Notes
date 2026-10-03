@@ -12,7 +12,7 @@ Countries on the west
 ## The Nation
 
 - Creator of the Nation Dollar (Main Currency of the world since 1613)
-- Origin of the modern English language
+- Origin of the Modern English language ()
 
 ## Morln
 
@@ -35,7 +35,7 @@ Countries on the west
 
 ## Menco
 
-
+- Origin of the Spanish Language
 
 # Eastles
 
