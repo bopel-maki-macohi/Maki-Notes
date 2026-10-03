@@ -56,7 +56,7 @@ Dot : "Marcella!"
 
 Marcella looks over mid-strike, the ice pillar in front of her was a millisecond from being destroyed.
 
-Dot : "Ni Jun is planning an invasion on Ni Hovac!"
+Dot : "Ni Jun is planning an invasion on Ni Vohac!"
 
 Marcella : "Δεν είναι εκεί που βρίσκονται οι γονείς σου;"
 
@@ -106,7 +106,7 @@ Marcella : "Thought so."
 
 Marcella turns around and starts walking.
 
-Marcella : "I will see you both at Ni Hovac."
+Marcella : "I will see you both at Ni Vohac."
 
 Dot : "Cya!"
 
@@ -148,7 +148,7 @@ Dot : "No problem."
 
 Ainmore : "Well I know you aren't here for nothing..."
 
-Dot : "Ni Jun is going to invade Ni Hovac."
+Dot : "Ni Jun is going to invade Ni Vohac."
 
 Ainmore : "Shit."
 
@@ -170,7 +170,7 @@ Ainmore : "Lets go."
 
 Ainmore turns around and begins to fly into the sky, picking up speed, Dot winding up and running in the same direction.
 
-Their Destination : Ni Hovac.
+Their Destination : Ni Vohac.
 
 # Chapter 4 : Showdown
 
@@ -178,7 +178,7 @@ April 20th, 2097
 
 The time is 6:45 AM.
 
-Ainmore, Dot, Marcella, Kijo, in a more humanoid form, and several Ni Hovac soldiers stand in front of the Ni Hovac back gates, waiting, the ground is cracked sandstone with grains of sands in clusters or in tiny bits spread across the ground and sand inside the cracks.
+Ainmore, Dot, Marcella, Kijo, in a more humanoid form, and several Ni Vohac soldiers stand in front of the Ni Vohac back gates, waiting, the ground is cracked sandstone with grains of sands in clusters or in tiny bits spread across the ground and sand inside the cracks.
 
 Ainmore looks over at Kijo.
 
@@ -216,7 +216,7 @@ Ainmore falls to the ground.
 
 Dot stops paying attention and gets hit, Marcella's still up however, swatting every bullet away, swatting away the guns, and swatting away soldiers, she jumps up and kicks one of the mechs, forcing it to collapse on several soldiers.
 
-Behind the heros, several Ni Jun soldiers make it to the gate and start killing the Ni Hovac soldiers, Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and falls to the floor.
+Behind the heros, several Ni Jun soldiers make it to the gate and start killing the Ni Vohac soldiers, Marcella notices and grabs a mech to toss at the Ni Jun soldiers, but then she gets fired at and falls to the floor.
 
 Kijo vanishes into the ground.
 
