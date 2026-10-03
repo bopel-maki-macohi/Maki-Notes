@@ -200,4 +200,6 @@ Then it begins to vibrate loudly.
 
 Ainmore looks forward again.
 
-In the distance, turning the corner, several Ni Jun empire soldiers are slowly approaching, and behind them, turning the corner even slower, are giant mechs piloted by multiple people, 
+In the distance, turning the corner, several Ni Jun empire soldiers are slowly approaching, and behind them, turning the corner even slower, are giant mechs piloted by multiple people.
+
+Ainmore : "Shit."
