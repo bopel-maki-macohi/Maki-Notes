@@ -158,6 +158,8 @@ Ainmore : "When is it happening?"
 
 Dot : "Tomorrow at the crack of dawn."
 
+Ainmore : "Shit."
+
 
 
 # Chapter 4 : Showdown
