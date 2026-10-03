@@ -142,4 +142,5 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Isocrex
 
-- Discovered and named by Tirok ()
+- Discovered and named by Tirok (2002)
+- The
