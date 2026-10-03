@@ -41,6 +41,8 @@ Countries on the east
 
 - Full part of The Nation that split off (1246)
 
+- Birthplace of Lasha (5/20/2006)
+
 ## West Neka
 
 - The West half of Neka that wasn't taken over by Ni Vohac when The Knight Serviceman took power (1921) and when Ice Darkmorth appeared (1964)
