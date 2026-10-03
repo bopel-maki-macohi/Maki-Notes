@@ -28,7 +28,7 @@ Countries on the west
 
 ## Jur Vali
 
-- Section of The Nation that was
+- Section of The Nation that was handed over to Menco
 
 ## Jur Lavi
 
