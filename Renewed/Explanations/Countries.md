@@ -68,7 +68,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## East Neka
 
-- The East half of Neka that wasn't overruled by Ni Vohac when Warnit took power ()
+- The East half of Neka that wasn't overruled by Ni Vohac when The Knight Serviceman took power (1921)
 
 ## Tempo City
 
