@@ -158,6 +158,8 @@ Ainmore : "When is it happening?"
 
 Dot : "Tomorrow at the crack of dawn."
 
+Ainmore begins to sweat.
+
 Ainmore : "Shit."
 
 Ainmore looks at sky.
@@ -166,7 +168,9 @@ Ainmore : "Okay we've got about half a day."
 
 Ainmore : "Lets go."
 
-Ainmore turns around and blasts off into the sky.
+Ainmore turns around and begins to fly into the sky, picking up speed.
+
+Dot 
 
 # Chapter 4 : Showdown
 
