@@ -27,12 +27,13 @@ Countries on the west
 
 - Birthplace of Niute (8/26/2003)
 
+- Birthplace of Lex Breaker (/2003)
+
 ## Jur Vali
 
 - Section of The Nation that was handed over to Menco before Morln fully had any actual power (246)
 
 ## Jur Lavi
-
 
 - The West half of Jur Vali, run and purchased by Lex Breaker ()
 
