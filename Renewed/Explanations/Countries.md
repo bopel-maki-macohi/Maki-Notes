@@ -63,6 +63,9 @@ Countries on the east
 
 - Ruled by Stacey Gel (1960)
 
+- Another home of the underground Colatin metal (1816)
+	- Ran out of Colatin (1834)
+
 ## Darkmorth
 
 - "Home" of the Darkmoor family
@@ -89,7 +92,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - The East half of Neka that wasn't taken over by Ni Vohac when The Knight Serviceman took power (1921)
 
 - Another home of the underground Colatin metal (1816)
-	- - 
+	- Ran out of Colatin (1834)
 
 ## Tempo City
 
