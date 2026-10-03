@@ -252,10 +252,10 @@ Warnit jumps down from a building and lands beside Ainmore and Kijo, dust flies 
 
 Warnit : "Kijo, get them."
 
-Kijo looks over at Dot and Marcella, the glow in their form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringing them over towards Kijo, once that is done, the glow in their eyes return.
-
-Mar
+Kijo looks over at Dot and Marcella, the glow in their form's eyes disappear and the ground beneath Dot and Marcella begins to move, bringing them over towards Kijo, once that is done, the glow in their eyes return, Marcella looks upward at Kijo.
 
 Marcella : "Με φαγουρίζει το πρόσωπο."
 
 Marcella : "Παρακαλούμε, θεραπεύστε μας."
+
+Kijo : "English"
