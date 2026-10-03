@@ -280,4 +280,7 @@ Kijo : "There's 5 of them in the kingdom right now."
 
 Kijo : "I'll deal with that."
 
-Kijo merges with the ground again, heading towards the kingdom, Ainmore
+Kijo merges with the ground again, heading towards the kingdom, Ainmore flies upward, Marcella speeds into the group of soldiers.
+
+Dot : "Hey Warnit!"
+
