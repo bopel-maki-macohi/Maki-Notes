@@ -2,7 +2,7 @@
 
 Lozen, July, 2097
 
-Dot 
+Inside a Lozen apartment about 10 stories high, 
 
 ## Chapter 2 : The Trilands
 
