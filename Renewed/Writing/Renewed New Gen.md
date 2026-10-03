@@ -152,6 +152,8 @@ Dot : "Ni Jun is going to invade Ni Hovac tomorrow."
 
 Ainmore : "Shit."
 
+Ainmore : "Alright,"
+
 # Chapter 4 : Showdown
 
 April 20th, 2097
