@@ -70,7 +70,7 @@ Countries on the east
 - Birthplace of Sinco (9/19/2011)
 - Birthplace of Kijo (3/14/2000)
 
-- Home of Tirok Industries ()
+- Home of Tirok Industries (1930)
 
 - Has Velocity Street
 
