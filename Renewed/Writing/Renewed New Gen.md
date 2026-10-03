@@ -284,4 +284,10 @@ Kijo merges with the ground again, heading towards the kingdom, Ainmore flies up
 
 Dot : "Hey Warnit!"
 
-Dot : "That axe, the material i"
+Dot : "That axe, the material it's made of."
+
+Dot : "We could use that."
+
+Dot : "It can like, recycle it and amplify it right?"
+
+Warnit : 
