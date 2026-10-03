@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Explanations/Countries.md",
+                "file": "Renewed/Writing/Renewed New Gen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Countries"
+              "title": "Renewed New Gen"
             }
           },
           {
@@ -232,10 +232,10 @@
   },
   "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Characters/Tirok.md",
     "Renewed/Writing/Renewed New Gen.md",
     "Renewed/Writing/Renewed Nicom.md",
-    "Renewed/Explanations/Countries.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Worldbuilding.md",
     "Untitled.md",
