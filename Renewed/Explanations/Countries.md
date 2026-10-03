@@ -114,7 +114,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Tempo City
 
-- Urban half of Cray Vex, eventually turned into its own country when Cray Vex lost power to Neka and Tempo City was sold off temporarily
+- Urban half of Cray Vex, eventually removed from Cray Vex when they lost power to Neka and Tempo City was sold off (1740)
 
 - Birthplace of Sinco (9/19/2011)
 - Birthplace of Kijo (3/14/2000)
