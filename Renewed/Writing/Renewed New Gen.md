@@ -329,3 +329,5 @@ Kijo : "Let us handle that."
 Dot : "Fine."
 
 Dot : "But I'm not leaving without seeing myself that they are okay."
+
+Kijo gets 
