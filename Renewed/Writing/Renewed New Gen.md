@@ -352,4 +352,8 @@ Ainmore (Nervous) : "I was..."
 
 Ainmore (Nervous) : "I was just saying..."
 
-Warnit : "We don't complain here, in war you don't "
+Warnit : "We don't complain here, in war you don't complain."
+
+Warnit : "You live."
+
+Ainmore (Nervious, whispering) : "yes sir"
