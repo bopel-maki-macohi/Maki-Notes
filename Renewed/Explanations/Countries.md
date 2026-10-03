@@ -27,6 +27,7 @@ Countries on the west
 
 ## Jur Vali
 
+- Section of The Nation that was
 
 ## Jur Lavi
 
