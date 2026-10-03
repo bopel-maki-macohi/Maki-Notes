@@ -209,3 +209,5 @@ Dot : "Welcome to being a super hero."
 Marcella and Dot speed towards them, Kijo dives into the ground and a bump in the ground follows Marcella and Dot.
 
 Ainmore hesitates, but then flies over following them.
+
+The Ni Jun empire soldiers begin to fire at all of them, Kijo 
