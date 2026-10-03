@@ -214,4 +214,6 @@ The Ni Jun empire soldiers begin to fire at all of them, Kijo evades by creating
 
 Ainmore falls to the ground.
 
-Dot stops paying attention and gets hit, Marcella's still up however, swatting every bullet away, swatting away the guns, and swatting away soldiers, sh
+Dot stops paying attention and gets hit, Marcella's still up however, swatting every bullet away, swatting away the guns, and swatting away soldiers, she jumps up and kicks one of the mechs, forcing it to collapse on several soldiers.
+
+Behind the her
