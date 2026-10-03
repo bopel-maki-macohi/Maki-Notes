@@ -217,3 +217,5 @@ Ainmore falls to the ground.
 Dot stops paying attention and gets hit, Marcella's still up however, swatting every bullet away, swatting away the guns, and swatting away soldiers, she jumps up and kicks one of the mechs, forcing it to collapse on several soldiers.
 
 Behind the heros, several Ni Jun soldiers make it to the gate and start killing the Ni Hovac soldiers.
+
+Marcella notices and grabs a mech to 
