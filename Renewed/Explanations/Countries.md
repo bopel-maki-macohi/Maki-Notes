@@ -71,7 +71,7 @@ Countries on the east
 - Birthplace of Kijo (3/14/2000)
 
 - Home of Tirok Industries (1930)
-	- Birthplace of Tirok (10/11/1981)
+	- Birthplace of Osin (10/8/2025)
 
 - Has Velocity Street
 
