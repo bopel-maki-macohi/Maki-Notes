@@ -31,7 +31,7 @@ Countries on the west
 
 ## Jur Vali
 
-- Section of The Nation that was handed over to Menco before Morln fully had any actual power (246)
+- Section of The Nation that was handed over to Menco before Morln fully had any actual power (246) and not purc
 
 ## Jur Lavi
 
