@@ -246,4 +246,4 @@ Standing in the way of the previous blast is a man wearing a fully black outfit 
 
 Ainmore : "Extra as always."
 
-Kijo : "He's been a kin"
+Kijo : "He's been a king mainly for several decades now, give him a break for wanting to be cool."
