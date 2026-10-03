@@ -134,7 +134,7 @@ Dot runs from Tempo City to the bridge, jumping around it into the sky, jumping 
 
 Dot : "Need help Ainmore?"
 
-Ainmore : ""
+Ainmore : "Yes please!"
 
 # Chapter 4 : Showdown
 
