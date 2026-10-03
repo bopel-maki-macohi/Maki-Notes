@@ -59,7 +59,7 @@ Countries on the east
 
 ## Ni Jun
 
-- The south half of 
+- The south half of Ni Hovac that got "formed" when Forge Joven appeared (1960)
 
 ## Darkmorth
 
