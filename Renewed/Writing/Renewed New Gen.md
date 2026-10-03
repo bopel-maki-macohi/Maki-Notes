@@ -246,4 +246,6 @@ Standing in the way of the previous blast is a man wearing a fully black outfit 
 
 Ainmore : "Extra as always."
 
-Kijo : "He's been a king of a peaceful kmainly for several decades now, give him a break for wanting to be cool."
+Kijo : "He's been mainly the king of a peaceful kingdom for several decades now"
+
+Kijo : "Give him a break for wanting to be cool."
