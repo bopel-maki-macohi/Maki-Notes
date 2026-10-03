@@ -147,7 +147,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 
 ## Isocrex
 
-- A piece of Kaven Korke that split off
+- A chunk of Kaven Korke that split off while it was drifting (318)
 
 - Discovered and named by Tirok (2002)
 - The place where Tirok found the Chaos Emerald
