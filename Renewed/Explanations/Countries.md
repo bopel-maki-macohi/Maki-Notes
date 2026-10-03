@@ -54,7 +54,7 @@ Countries on the east
 - Birthplace of Warnit / The Knight Serviceman (2/12/1861)
 
 - Another home of the underground Colatin metal
-	- Ran out of Colatin (1834)
+	- Ran out of Colatin (1855)
 
 ## Forge Joven
 
@@ -89,6 +89,7 @@ An ancient kingdom with advanced tech and minerals that are only provided to the
 - Kingdom ruled by The Knight Serviceman / Warnit since 1921
 
 - Main home of the underground Colatin metal (1816)
+	- Still has plent
 
 ## East Neka
 
