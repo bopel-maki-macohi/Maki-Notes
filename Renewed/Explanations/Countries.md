@@ -76,10 +76,12 @@ Countries on the east
 
 ## Cray Vex
 
-- Birthplace of Tirok (3/14/1981)
+- Birthplace of Tirok (10/11/1981)
 
 ## Baron
 
+- Birthplace of Tirok (10/11/1981)
+- 
 - Home of The Freefall Foundation
 
 ## Kaven Korke
