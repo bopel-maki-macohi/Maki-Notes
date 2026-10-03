@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/Writing/Renewed.md",
+                "file": "Renewed/Explanations/Places.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Renewed"
+              "title": "Places"
             }
           }
         ]
@@ -206,15 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "5e27d464c911a220",
   "lastOpenFiles": [
+    "Renewed/Writing/Renewed.md",
     "Renewed/Writing/Renewed_split/Renewed_3.txt",
     "Renewed/Writing/Renewed_split/Renewed_2.txt",
     "Renewed/Writing/Renewed_split/Renewed_1.txt",
     "Renewed/Writing/Renewed_split",
     "Renewed/Explanations/Places.md",
     "Renewed/Writing/Renewed New Gen.md",
-    "Renewed/Writing/Renewed.md",
     "Renewed/Writing/A Story About Desire.md",
     "Renewed/Writing/Renewed Nicom.md",
     "Renewed/Writing/The Fallen Friend.md",
@@ -244,7 +244,6 @@
     "Renewed/Writing",
     "Renewed/Explanations",
     "Renewed",
-    "Granule/Groups",
-    "Granule/Events/Earth"
+    "Granule/Groups"
   ]
 }
