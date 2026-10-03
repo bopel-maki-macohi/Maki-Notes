@@ -24,13 +24,15 @@ Kijo : "No..."
 
 Dot : "Well we should probably go check it out."
 
-Dot : "Apparently there's some radiation sh-"
+Dot : "Apparently there's some radiation shi-"
 
 Kijo : "*ahem*"
 
 Dot rolls her eyes.
 
 Dot : "Apparently there's some radiation *crap* going on with it?"
+
+
 
 ## Chapter 2 : The Trilands
 
