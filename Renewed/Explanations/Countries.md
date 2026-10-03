@@ -6,7 +6,7 @@ Countries on the west
 ## Lei
 ## The Nation
 
-- Creator of the Nation Dollar (Main Currency of the world since )
+- Creator of the Nation Dollar (Primary Currency of the world since 1613)
 
 ## Morln
 ## Jur Vali
