@@ -360,4 +360,7 @@ Ainmore (Nervous, whispering) : "Yes sir."
 
 Marcella : "Hey Warnit."
 
-Marcella : "Hey Warnit."
+Warnit looks over at Marcella
+
+Marcella : "Where can I get some lollipops?"
+
