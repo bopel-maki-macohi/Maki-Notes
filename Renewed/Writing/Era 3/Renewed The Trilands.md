@@ -32,7 +32,7 @@ Dot rolls her eyes.
 
 Dot : "Apparently there's some radiation *crap* going on with it."
 
-Kijo nods her head, Dot rolls her eyes again.
+Kijo nods their head, Dot rolls her eyes again.
 
 Kijo : "Anyway, uhm..."
 
