@@ -250,4 +250,8 @@ Kijo : "He's been mainly the king of a peaceful kingdom for several decades now"
 
 Kijo : "Give him a break for wanting to be cool."
 
-Warnit jumps down from a building and lands beside Ainmore and Kijo, dust flies upward as the ground is dented from his fall, he looks around, seeing Dot, Marcella, and 
+Warnit jumps down from a building and lands beside Ainmore and Kijo, dust flies upward as the ground is dented from his fall, he looks around, seeing Dot and Marcella down.
+
+Warnit : "Kijo, get them."
+
+Kijo
