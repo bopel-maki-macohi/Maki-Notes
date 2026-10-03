@@ -90,6 +90,8 @@ Dot : "That dude again?"
 
 Marcella : "Έχει μεγάλο εγώ, δεν εκπλήσσομαι."
 
+Kijo : "Wha-Wha-"
+
 Kijo : "Why do you do that?"
 
 Marcella : "Do you know how many satellites there are watching and listening to everyone and everything?"
