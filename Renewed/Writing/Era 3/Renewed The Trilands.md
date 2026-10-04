@@ -52,7 +52,7 @@ Kijo : "I don't know why."
 
 Dot : "Okay"
 
-Dot gets up out of her chair, Kijo dissipates, and Dot runs out the hotel.
+Dot gets up out of her chair, Kijo dissipates, and Dot runs out the apartment.
 
 ## Chapter 2 : Get the Enmorphy
 
