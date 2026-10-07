@@ -5,4 +5,4 @@ This was the beginning of the Dark Age, the suns swapped realms, the Dyson Spher
 
 # 0D - 104D
 
-This was the restoration age, peopl
+This was the restoration age, people humans began to restore their population numbers, they worked on social
