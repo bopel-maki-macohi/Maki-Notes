@@ -34,4 +34,4 @@ There were people who once spoke of a dark sun, but that was several, several ce
 
 ## Date Format
 
-There are now 4 months, 2 hot, 2 cold, each mot
+There are now 4 months, 2 hot (hanu and , 2 cold, each month has 25 days,
