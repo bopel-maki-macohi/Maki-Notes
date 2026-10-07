@@ -8,4 +8,4 @@ Regular elements, pure logic.
 
 ## Threshold
 
-The threshold works by having the energy of the sun absorb into itself, which appl
+The threshold works by having the energy of either the light or dark sun absorb into itself, which applies the same onto the other sun, forcing the energy to collide
