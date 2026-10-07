@@ -15,7 +15,7 @@ No answer.
 
 ## 1/2/105D
 
-
+Another SOS message, from the same ship, it turns out they are somehow on a close planet to ea
 
 ## 3/1/105D
 
