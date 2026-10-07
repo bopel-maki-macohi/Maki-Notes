@@ -1,24 +1,23 @@
 ## Chapter 1
 
-Hena 25th, 10D
-2/13/210D
+Hena 13th, 210D
 
 ## Chapter 2
 
-2/14/210D
+Hena 14th, 210D
 
 ## Chapter 3
 
-2/14/210D
+Hena 14th, 210D
 
 ## Chapter 4
 
-2/14/210D
+Hena 14th, 210D
 
 ## Chapter 5
 
-2/14/210D
+Hena 14th, 210D
 
 ## Chapter 6
 
-2/15/210D
+Hena 14th, 210D
