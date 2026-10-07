@@ -15,8 +15,8 @@ No answer.
 
 ## 1/2/105D
 
-Another SOS message, from the same ship, it turns out they are somehow on a close planet to ea
+Another SOS message, from the same ship, it turns out they are somehow on a close planet to earth, and in some days they will be returning home.
 
 ## 3/1/105D
 
-
+The Earth they went to was not their 
