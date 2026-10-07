@@ -12,4 +12,7 @@ The threshold was created by having the energy of the light sun be forced into o
 
 The threshold is merely the stable energy forming a small area that can be travelled through.
 
-## Mi
+## Midpoint
+
+Unstable energy from both suns, a result of the Threshold's creation.
+
