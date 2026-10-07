@@ -7,3 +7,8 @@ This was the beginning of the Dark Age, the suns swapped realms, the Dyson Spher
 
 This was the restoration age, people humans began to restore their population numbers, they worked on society, and they got used to the magic they got from dark elements.
 
+## 2/10/104D
+
+## 1/2/104D
+
+
