@@ -23,4 +23,4 @@ The Earth they went to was not their Earth, and they were murdered by resentful 
 
 ## 2/6/121D
 
-The Threshold was created by the Li
+The Threshold was created by the Light Realm Creatures, and now they were invading the Dark Realm, this begins the Light vs Dark war, 
