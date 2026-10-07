@@ -18,7 +18,7 @@ Unstable energy from both suns, a result of the Threshold's creation.
 
 ## Light Realm
 
-Ironically the realm that had the dark sun and is the opposite of the dark realm.
+Ironically the realm that held the dark sun for all this time and is the opposite of the dark realm.
 
 ## Dark Realm
 
