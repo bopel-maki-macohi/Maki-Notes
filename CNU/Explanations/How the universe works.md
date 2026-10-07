@@ -8,4 +8,4 @@ Regular elements, pure logic.
 
 ## Threshold
 
-The threshold was created by 
+The threshold was created 
