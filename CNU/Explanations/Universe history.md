@@ -11,7 +11,7 @@ This was the restoration age, people humans began to restore their population nu
 
 An old SOS message was discovered from one of the ships heading to Earth that got knocked off course and fell into the sun.
 
-The 
+No answer.
 
 ## 1/2/105D
 
