@@ -23,7 +23,7 @@ The Earth they went to was not their Earth, and they were murdered by resentful 
 
 ## 2/6/121D
 
-The Threshold was created by the Light Realm Creatures, and now they were invading the Dark Realm, this begins the Light vs Dark war, more specifically the Kornin vs Humans war as the Light Realm Creatures in this war fell under the lead of Lait D Kor, and were forced to undergo mutations into battle ready creatures to kill the Earthlings so that the Light
+The Threshold was created by the Light Realm Creatures, and now they were invading the Dark Realm, this begins the Light vs Dark war, more specifically the Kornin vs Humans war as the Light Realm Creatures in this war fell under the lead of Lait D Kor, and were forced to undergo mutations into battle ready creatures to kill the Earthlings so that the Light Realm could take their world and get their sun back.
 
 ## 210D
 
