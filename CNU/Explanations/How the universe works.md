@@ -24,6 +24,6 @@ Ironically the realm that had the dark sun and is the opposite of the dark realm
 
 Ironically the realm that had the light sun and is the main realm.
 
-## Suns switching places
+## Suns switching realms
 
-Someone discovered the light realm but their experiment forced 
+It is a normal occurrence.
