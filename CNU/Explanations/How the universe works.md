@@ -8,7 +8,7 @@ Regular elements, pure logic.
 
 ## Threshold
 
-The threshold was created by having the energy of the light sun be forced into one point inside itself, then the energy travels realms and forces the d, and on the inside the energy is colliding and forming Midpoint.
+The threshold was created by having the energy of the light sun be forced into one point inside itself, then the energy travels realms and forces the dark sun energy to do the same, and on the inside the energy is colliding and forming Midpoint.
 
 The threshold is merely the stable energy forming a small area that can be travelled through.
 
