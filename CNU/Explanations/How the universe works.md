@@ -22,4 +22,7 @@ Ironically the realm that had the dark sun and is the opposite of the dark realm
 
 ## Dark Realm
 
-Ironically the realm that had the light sun and is the main real
+Ironically the realm that had the light sun and is the main realm.
+
+## Suns switching places
+
