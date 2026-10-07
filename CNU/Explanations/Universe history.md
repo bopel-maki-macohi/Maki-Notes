@@ -4,3 +4,5 @@ This was the beginning of the Dark Age, the suns swapped realms, the Dyson Spher
 
 
 # 0D - 104D
+
+This was the restoration age, peopl
