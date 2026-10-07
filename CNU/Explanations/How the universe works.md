@@ -8,4 +8,4 @@ Regular elements, pure logic.
 
 ## Threshold
 
-The threshold was created 
+The threshold works by having the energy of the sun absorb into itself, which appl
