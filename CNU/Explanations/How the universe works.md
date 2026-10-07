@@ -16,3 +16,8 @@ The threshold is merely the stable energy forming a small area that can be trave
 
 Unstable energy from both suns, a result of the Threshold's creation.
 
+## Light Realm
+
+Ironically the realm that had the d
+
+## Dark Realm
