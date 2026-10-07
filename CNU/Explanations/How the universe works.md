@@ -40,7 +40,7 @@ Old system from before the standard that is being readapted.
 
 Example dates:
 
-- 1/1/6D
+- 1/1/6D / Hanu 1
 - 2/25/10D
 - 3/13/504D
 - 4/11/2010D
