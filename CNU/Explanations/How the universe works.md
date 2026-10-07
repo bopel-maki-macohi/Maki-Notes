@@ -42,5 +42,5 @@ Example dates:
 
 - 1/1/6D / Hanu 1st, 6D
 - 2/25/10D / Hena 25th, 10D
-- 3/13/504D / Hanu 1st, 504D
-- 4/11/2010D / Ceta 1st, 2010D
+- 3/13/504D / Cuga 13th, 504D
+- 4/11/2010D / Ceta 11th, 2010D

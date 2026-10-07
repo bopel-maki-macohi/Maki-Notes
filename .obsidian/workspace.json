@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "How the universe works"
             }
+          },
+          {
+            "id": "2bb6ef3e70b0a8d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNU/Stories/CNU Part 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CNU Part 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,10 +231,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b2b065700d4bd2e",
+  "active": "2bb6ef3e70b0a8d4",
   "lastOpenFiles": [
-    "CNU/Stories/CNU Part 1.md",
     "CNU/Explanations/How the universe works.md",
+    "CNU/Stories/CNU Part 1.md",
     "CNU/Explanations/Universe history.md",
     "CNU/README.md",
     "CNU/Stories",
