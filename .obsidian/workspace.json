@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CNU/README.md",
+                "file": "CNU/Explanations/Universe history.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Universe history"
             }
           }
         ]
@@ -208,10 +208,10 @@
   },
   "active": "0b2b065700d4bd2e",
   "lastOpenFiles": [
-    "CNU/Explanations/Universe history.md",
-    "CNU/Explanations/How the universe works.md",
     "CNU/README.md",
     "CNU/Stories/CNU Part 1.md",
+    "CNU/Explanations/Universe history.md",
+    "CNU/Explanations/How the universe works.md",
     "CNU/Stories",
     "CNU/Explanations",
     "README.md",
