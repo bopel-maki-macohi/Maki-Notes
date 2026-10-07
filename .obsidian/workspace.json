@@ -4,107 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "33cac2ac9ed50d80",
+        "id": "7082edb0fa12ab58",
         "type": "tabs",
         "children": [
           {
-            "id": "224b3a85d3ccf7c5",
+            "id": "0b2b065700d4bd2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "065a6105a54b1837",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "bcd1d75952f2f25c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU/README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "1ff4a8fe4d024dde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CNU Part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CNU Part 1"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ff4a8fe4d024dde",
+  "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "CNU Part 1.md",
-    "CNU/README.md",
-    "Universe history.md",
-    "How the universe works.md",
+    "CNU/Stories",
+    "CNU/Explanations",
     "README.md",
+    "CNU/CNU Part 1.md",
+    "CNU/Explanations/Universe history.md",
+    "CNU/Explanations/How the universe works.md",
+    "CNU/README.md",
     "Renewed/README.md",
     "CNU",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
@@ -316,8 +231,6 @@
     "Renewed/Explanations/Characters",
     "2M2X1V1I/Writing/Arc 1.md",
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
-    "2M2X1V1I/Explanations/Timeline.md",
-    "2M2X1V1I/Writing/Epoch 5.md",
-    "2M2X1V1I/Explanations/Untitled.base"
+    "2M2X1V1I/Explanations/Timeline.md"
   ]
 }
