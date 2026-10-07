@@ -11,10 +11,24 @@
             "id": "0b2b065700d4bd2e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "CNU/Explanations/How the universe works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "How the universe works"
             }
           }
         ]
@@ -192,15 +206,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f99f5285bf50c982",
+  "active": "0b2b065700d4bd2e",
   "lastOpenFiles": [
+    "CNU/Explanations/Universe history.md",
+    "CNU/README.md",
+    "CNU/Stories/CNU Part 1.md",
     "CNU/Stories",
     "CNU/Explanations",
     "README.md",
-    "CNU/CNU Part 1.md",
-    "CNU/Explanations/Universe history.md",
     "CNU/Explanations/How the universe works.md",
-    "CNU/README.md",
     "Renewed/README.md",
     "CNU",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
@@ -228,7 +242,6 @@
     "Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Lex Breaker.md",
-    "Renewed/Explanations/Characters",
     "2M2X1V1I/Writing/Arc 1.md",
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
     "2M2X1V1I/Explanations/Timeline.md"
