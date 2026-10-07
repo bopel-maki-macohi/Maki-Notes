@@ -26,3 +26,4 @@ Ironically the realm that had the light sun and is the main realm.
 
 ## Suns switching places
 
+Someone discovered the light realm but their experimen
