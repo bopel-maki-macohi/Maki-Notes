@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "README"
             }
+          },
+          {
+            "id": "065a6105a54b1837",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNU/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "bcd1d75952f2f25c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNU/README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "1ff4a8fe4d024dde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CNU Part 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CNU Part 1"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -206,10 +279,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "224b3a85d3ccf7c5",
+  "active": "1ff4a8fe4d024dde",
   "lastOpenFiles": [
-    "README.md",
+    "CNU Part 1.md",
     "CNU/README.md",
+    "Universe history.md",
+    "How the universe works.md",
+    "README.md",
     "Renewed/README.md",
     "CNU",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
@@ -242,9 +318,6 @@
     "2M2X1V1I/Writing/2M2X1V1I (AO).md",
     "2M2X1V1I/Explanations/Timeline.md",
     "2M2X1V1I/Writing/Epoch 5.md",
-    "2M2X1V1I/Writing/Epoch 4.md",
-    "2M2X1V1I/Writing/Epoch 3.md",
-    "2M2X1V1I/Writing/Epoch 2.md",
     "2M2X1V1I/Explanations/Untitled.base"
   ]
 }
