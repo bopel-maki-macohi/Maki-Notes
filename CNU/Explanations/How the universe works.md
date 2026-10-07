@@ -8,4 +8,6 @@ Regular elements, pure logic.
 
 ## Threshold
 
-The threshold was created by having the energy of the light sun be forced into one point inside itself, then the same happens with the dark sun, and on the inside the
+The threshold was created by having the energy of the light sun be forced into one point inside itself, then the same happens with the dark sun, and on the inside the energy is colliding and forming Midpoint
+
+The threshold is merely 
