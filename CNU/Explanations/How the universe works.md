@@ -39,5 +39,6 @@ There are now 4 months, 2 hot (hanu and hena), 2 cold (cuga and ceta), each mont
 Example dates:
 
 - 3/13/504D
-- 4/11/504D
-- 3/13/504D
+- 4/11/2010D
+- 1/1/6004D
+- 2/25/10D
