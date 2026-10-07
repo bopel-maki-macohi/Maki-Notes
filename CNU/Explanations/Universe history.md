@@ -18,7 +18,7 @@ Another SOS message, from the same ship, it turns out they are somehow on a clos
 
 ## 3/1/105D
 
-The Earth they went to was not their Earth, and they were murdered by resentful Light Realm Creatures.
+The Earth they went to was not their Earth, and they were murdered by resentful Light Realm Creatures who want the Dark Sun back for the magic it gave them.
 
 ## 2/6/121D
 
