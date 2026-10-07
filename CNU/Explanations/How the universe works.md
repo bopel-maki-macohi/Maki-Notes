@@ -35,3 +35,9 @@ There were people who once spoke of a dark sun, but that was several, several ce
 ## Date Format
 
 There are now 4 months, 2 hot (hanu and hena), 2 cold (cuga and ceta), each month has 25 days, and the spawning of this date format is religion, the hot months have the goddess Lait D Kor with their eye closed, the cold months have their eye open.
+
+Example dates:
+
+- 3/13/504D
+- 4/11/504D
+- 3/13/504D
