@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Renewed/README.md",
+                "file": "CNU/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -208,6 +208,10 @@
   },
   "active": "224b3a85d3ccf7c5",
   "lastOpenFiles": [
+    "README.md",
+    "CNU/README.md",
+    "Renewed/README.md",
+    "CNU",
     "Renewed/Writing/Era 3/Renewed The Trilands.md",
     "Renewed/Writing/Era 3/Renewed Bekon Karv.md",
     "Renewed/Writing/Era 3/Renewed New Gen.md",
@@ -217,7 +221,6 @@
     "Renewed/Writing/Era 1/Renewed.md",
     "Renewed/Explanations/Whys.md",
     "Renewed/Explanations/Countries.md",
-    "Renewed/README.md",
     "Renewed/Writing/Era 3",
     "Renewed/Writing/Era 2",
     "Renewed/Writing/Era 1",
@@ -231,7 +234,6 @@
     "Renewed/Writing/Renewed_split/Renewed_1.txt",
     "Renewed/Writing/Renewed_split",
     "Renewed/Explanations/Characters/Nicom.md",
-    "README.md",
     "Renewed/Explanations/Characters/Loroc.md",
     "Renewed/Explanations/CANVAS.canvas",
     "Renewed/Explanations/Characters/Lex Breaker.md",
@@ -243,7 +245,6 @@
     "2M2X1V1I/Writing/Epoch 4.md",
     "2M2X1V1I/Writing/Epoch 3.md",
     "2M2X1V1I/Writing/Epoch 2.md",
-    "2M2X1V1I/Explanations/Untitled.base",
-    "Renewed/Writing"
+    "2M2X1V1I/Explanations/Untitled.base"
   ]
 }
