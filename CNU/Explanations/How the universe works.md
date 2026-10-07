@@ -27,3 +27,6 @@ Ironically the realm that had the light sun and is the main realm.
 ## Suns switching realms
 
 It is a normal occurrence.
+
+It's just this time humans were around for it and actually saw it.
+
