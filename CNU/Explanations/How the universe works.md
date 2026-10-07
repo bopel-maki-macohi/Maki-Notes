@@ -30,3 +30,4 @@ It is a normal occurrence.
 
 It's just this time humans were around for it and actually saw it.
 
+There were people who once spoke of a dark star
