@@ -21,4 +21,6 @@ Another SOS message, from the same ship, it turns out they are somehow on a clos
 
 The Earth they went to was not their Earth, and they were murdered by resentful Light Realm Creatures.
 
-## 121D
+## 2/6/121D
+
+The Threshold was created by the Li
