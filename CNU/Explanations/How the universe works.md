@@ -22,7 +22,7 @@ Ironically the realm that held the light sun before 0D and is the first realm wh
 
 ## Light Realm
 
-Ironically the realm that held the dark sun before 0D and is the second realm which currently has the light sun
+Ironically the realm that held the dark sun before 0D and is the second realm which currently has the light sun.
 
 ## Suns switching realms
 
