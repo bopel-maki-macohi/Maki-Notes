@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "CNU Part 1"
             }
+          },
+          {
+            "id": "93fb461f0fb1f8cf",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -231,7 +243,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2bb6ef3e70b0a8d4",
+  "active": "93fb461f0fb1f8cf",
   "lastOpenFiles": [
     "CNU/Explanations/How the universe works.md",
     "CNU/Stories/CNU Part 1.md",
