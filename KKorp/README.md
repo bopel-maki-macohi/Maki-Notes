@@ -1,1 +1,1 @@
-In a century so far from us that the number is unknown, 
+In a century so far from us that the number is unknown, Earth is a moving techno planet
