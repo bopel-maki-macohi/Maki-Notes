@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "KVT/README.md",
+                "file": "CVT/README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -257,8 +257,8 @@
   },
   "active": "f99f5285bf50c982",
   "lastOpenFiles": [
-    "KVT/README.md",
-    "KVT",
+    "CVT/README.md",
+    "CVT",
     "CNU/Explanations/How the universe works.md",
     "CNU/Stories/CNU Part 1.md",
     "CNU/Explanations/Universe history.md",
